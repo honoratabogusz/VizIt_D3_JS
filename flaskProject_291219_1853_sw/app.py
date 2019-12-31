@@ -6,7 +6,7 @@ from forms import RegistrationForm, LoginForm
 from werkzeug.utils import secure_filename
 import pandas as pd
 
-UPLOAD_FOLDER = '/Users/Szymon/Desktop/UNI/Mag/1 semestr/PythonSQL/project/flaskProject_281219_2201_hb/uploads'
+UPLOAD_FOLDER = '/Users/Szymon/Desktop/UNI/Mag/1 semestr/PythonSQL/project/flaskProject_291219_1853_sw'
 ALLOWED_EXTENSIONS = {'csv'}
 
 app = Flask(__name__)
