@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block base_title %}Table{% endblock %}
+
+{% block base_content %}
+    <p style="text-align:left;margin: 2rem 4rem">
+        Please inspect whether to data seems to be correct. If so, you can start visualizing!
+        <span style="float:right;"><a class="btn btn-outline-dark btn-lg" href="/upload_back" role="button">Go back to data upload</a></span>
+        <span style="float:right;padding-right:0.5rem;"><a class="btn btn-primary btn-lg" href="/viz" role="button">Start visualizing</a></span>
+    </p>
+{% endblock %}
+
+{% block base_content_unf %}
+    <div class="container">
+        <p>File Name: <b>{{ session['filename'] }}</b></p>
+        {% block content %}
+            {{ data | safe }}
+        {% endblock %}
+    </div>
+{% endblock %}
