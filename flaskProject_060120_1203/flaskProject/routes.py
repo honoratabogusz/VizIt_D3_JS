@@ -188,8 +188,3 @@ def create_viz():
         return redirect(url_for('upload'))
 
 
-@app.route("/saved")
-@login_required
-def saved_viz():
-    return render_template("saved_viz.html")
-

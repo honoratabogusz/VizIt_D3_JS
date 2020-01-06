@@ -56,12 +56,13 @@
                     <i class="fas fa-chart-bar"></i>
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="/upload" id="createViz">
-                        <i class="far fa-plus-square"></i> Create graph
-                    </a>
                     {% if current_user.is_authenticated %}
+                        <a class="dropdown-item" href="/upload" id="createViz">
+                            <i class="far fa-plus-square"></i> Create graph
+                        </a>
+                    {% else %}
                         <a class="dropdown-item not-active" href="#">
-                            <i class="far fa-save"></i> Saved graphs
+                            <i class="far fa-save"></i> Create graph
                         </a>
                     {% endif %}
                 </div>
