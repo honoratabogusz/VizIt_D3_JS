@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block base_title %}Create Graph{% endblock %}
+
+{% block base_content %}
+    <div class="content">
+        <form method=post enctype=multipart/form-data>
+            <span>Delimiter:</span>
+            <span style="padding-left: 2.4rem;"><input type=radio name="Sep" value="," checked><span style="font-size: 12pt;"> comma</span></span><br>
+            <span style="padding-left: 8rem;"><input type=radio name="Sep" value=";"><span style="font-size: 12pt;"> semi-colon</span></span><br><br>
+            <span>Encoding:</span>
+            <span style="padding-left: 2.11rem;"><input type=radio name="Enc" value="utf8" checked><span style="font-size: 12pt;"> utf-8</span></span><br>
+            <span style="padding-left: 8rem;"><input type=radio name="Enc" value="latin_1"><span style="font-size: 12pt;"> latin-1</span></span><br><br><br>
+            <input type=file name=file>
+            <input type=submit value=Upload>
+        </form>
+        <br>
+        <p><font size="2">Please note that the file has to be in <b>CSV</b> format. <br> The file size cannot exceed <b>16
+            MB</b>.</font></p>
+    </div>
+{% endblock %}

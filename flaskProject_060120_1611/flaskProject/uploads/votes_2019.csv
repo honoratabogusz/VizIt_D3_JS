@@ -1,0 +1,2497 @@
+TERYT;PROVINCE;NAME;REG_VOTERS;VOTES;VOTES_SPOIL;V_KO;V_LEWICA;V_POLEXIT;V_JEDN;V_PIS;V_WIOSNA;V_KORWIN;V_KUKIZ;V_GWIA
+20101;Dolnoslaskie;m. Boles³awiec;30273;13638;90;6408;154;;;4875;892;725;494;
+20102;Dolnoslaskie;gm. Boles³awiec;11166;4397;31;1536;46;;;2060;237;271;216;
+20103;Dolnoslaskie;gm. Gromadka;4376;1612;32;454;17;;;881;76;91;61;
+20104;Dolnoslaskie;gm. Nowogrodziec;11854;3923;61;980;53;;;2236;197;225;171;
+20105;Dolnoslaskie;gm. Osiecznica;5369;1856;36;614;44;;;797;131;135;99;
+20106;Dolnoslaskie;gm. Warta Boles³awiecka;6725;2337;20;709;33;;;1201;140;131;103;
+20201;Dolnoslaskie;m. Bielawa;24226;9668;71;3975;125;;;4027;657;460;353;
+20202;Dolnoslaskie;m. Dzier¿oniów;26216;11989;100;5261;145;;;4660;834;592;397;
+20203;Dolnoslaskie;m. Pieszyce;7572;2858;27;1004;36;;;1323;205;165;98;
+20204;Dolnoslaskie;m. Pi³awa Górna;5039;1875;11;585;29;;;940;117;127;66;
+20205;Dolnoslaskie;gm. Dzier¿oniów;7454;3004;45;891;38;;;1604;172;119;135;
+20206;Dolnoslaskie;gm. £agiewniki;6018;2259;22;616;21;;;1283;103;116;98;
+20207;Dolnoslaskie;gm. Niemcza;4482;1555;19;552;23;;;766;82;63;50;
+20301;Dolnoslaskie;m. G³ogów;52081;23833;162;9926;340;;;9984;1462;1014;945;
+20302;Dolnoslaskie;gm. G³ogów;5325;2342;18;794;29;;;1138;150;98;115;
+20303;Dolnoslaskie;gm. Jerzmanowa;3885;1791;11;697;28;;;773;118;88;76;
+20304;Dolnoslaskie;gm. Kotla;3412;1195;19;310;20;;;662;81;47;56;
+20305;Dolnoslaskie;gm. Pêc³aw;1745;630;18;128;12;;;417;12;23;20;
+20306;Dolnoslaskie;gm. ¯ukowice;2707;954;17;259;13;;;496;61;58;50;
+20401;Dolnoslaskie;gm. Góra;15662;5400;49;2020;68;;;2548;306;211;198;
+20402;Dolnoslaskie;gm. Jemielno;2426;762;10;199;10;;;443;36;37;27;
+20403;Dolnoslaskie;gm. Niechlów;3841;1215;23;288;17;;;756;43;50;38;
+20404;Dolnoslaskie;gm. W¹sosz;5801;1907;36;586;29;;;947;146;72;91;
+20501;Dolnoslaskie;m. Jawor;18570;7896;55;3079;93;;;3529;456;375;309;
+20502;Dolnoslaskie;gm. Bolków;8369;3036;56;1104;36;;;1342;228;136;134;
+20503;Dolnoslaskie;gm. Mêcinka;3957;1462;14;378;12;;;846;83;68;61;
+20504;Dolnoslaskie;gm. Mœciwojów;3247;1218;17;411;20;;;606;84;44;36;
+20505;Dolnoslaskie;gm. Paszowice;3222;1249;14;423;13;;;605;64;67;63;
+20506;Dolnoslaskie;gm. W¹dro¿e Wielkie;3241;1173;12;405;10;;;610;53;36;47;
+20601;Dolnoslaskie;m. Karpacz;4291;2079;18;1195;33;;;530;153;100;50;
+20602;Dolnoslaskie;m. Kowary;8508;3384;30;1619;95;;;1102;259;169;110;
+20603;Dolnoslaskie;m. Piechowice;4989;2148;17;1048;27;;;684;167;127;78;
+20604;Dolnoslaskie;m. Szklarska Porêba;5226;2410;26;1187;30;;;787;198;87;95;
+20605;Dolnoslaskie;gm. Janowice Wielkie;3438;1395;17;672;19;;;457;107;73;50;
+20606;Dolnoslaskie;gm. Je¿ów Sudecki;5785;2534;29;1302;33;;;739;218;124;89;
+20607;Dolnoslaskie;gm. Mys³akowice;7999;3338;36;1517;85;;;1192;259;137;112;
+20608;Dolnoslaskie;gm. Podgórzyn;6544;2729;30;1338;95;;;869;199;118;80;
+20609;Dolnoslaskie;gm. Stara Kamienica;4197;1534;24;630;23;;;575;157;70;55;
+20701;Dolnoslaskie;m. Kamienna Góra;15590;6197;51;2772;88;;;2451;401;244;190;
+20702;Dolnoslaskie;gm. Kamienna Góra;6988;2728;34;1037;53;;;1235;138;99;132;
+20703;Dolnoslaskie;gm. Lubawka;8850;3416;37;1487;40;;;1298;291;127;136;
+20704;Dolnoslaskie;gm. Marciszów;3622;1229;8;466;16;;;582;51;62;44;
+20801;Dolnoslaskie;m. Duszniki-Zdrój;4004;1825;12;845;26;;;687;106;107;42;
+20802;Dolnoslaskie;m. K³odzko;21744;9397;64;4418;96;;;3499;518;447;355;
+20803;Dolnoslaskie;m. Kudowa-Zdrój;8419;3867;35;1780;38;;;1529;180;178;127;
+20804;Dolnoslaskie;m. Nowa Ruda;18016;6842;45;3256;115;;;2487;397;345;197;
+20805;Dolnoslaskie;m. Polanica-Zdrój;5858;2873;15;1370;31;;;1083;170;98;106;
+20806;Dolnoslaskie;gm. Bystrzyca K³odzka;15398;6013;48;2343;67;;;2851;282;240;182;
+20807;Dolnoslaskie;gm. K³odzko;13516;4994;61;1625;49;;;2568;233;253;205;
+20808;Dolnoslaskie;gm. L¹dek-Zdrój;7267;2885;32;1231;54;;;1187;156;124;101;
+20809;Dolnoslaskie;gm. Lewin K³odzki;1601;604;0;247;11;;;265;26;37;18;
+20810;Dolnoslaskie;gm. Miêdzylesie;5862;2188;34;800;35;;;984;141;115;79;
+20811;Dolnoslaskie;gm. Nowa Ruda;9424;3466;26;1334;50;;;1563;226;149;118;
+20812;Dolnoslaskie;gm. Radków;7302;2624;37;885;41;;;1317;119;130;95;
+20813;Dolnoslaskie;gm. Stronie Œl¹skie;5995;2252;14;992;29;;;888;158;74;97;
+20814;Dolnoslaskie;gm. Szczytna;5866;2193;31;884;28;;;908;114;136;92;
+20901;Dolnoslaskie;m. Chojnów;10439;4162;31;1662;69;;;1834;235;198;133;
+20902;Dolnoslaskie;gm. Chojnów;7555;2789;27;752;26;;;1624;123;142;95;
+20903;Dolnoslaskie;gm. Krotoszyce;2598;1016;11;258;18;;;587;54;54;34;
+20904;Dolnoslaskie;gm. Kunice;5220;2465;25;1044;12;;;992;156;113;123;
+20905;Dolnoslaskie;gm. Legnickie Pole;3865;1630;26;474;22;;;891;76;80;61;
+20906;Dolnoslaskie;gm. Mi³kowice;5219;2322;30;751;39;;;1110;160;112;120;
+20907;Dolnoslaskie;gm. Prochowice;5894;2317;18;770;19;;;1181;127;95;107;
+20908;Dolnoslaskie;gm. Ruja;2052;636;12;143;4;;;399;28;23;27;
+21001;Dolnoslaskie;m. Lubañ;16717;6996;53;3338;98;;;2524;444;314;225;
+21002;Dolnoslaskie;m. Œwieradów-Zdrój;3657;1693;12;771;23;;;619;126;72;70;
+21003;Dolnoslaskie;gm. Leœna;7987;2931;32;1133;41;;;1268;200;147;110;
+21004;Dolnoslaskie;gm. Lubañ;5183;1874;28;681;21;;;845;99;108;92;
+21005;Dolnoslaskie;gm. Olszyna;5212;1895;17;807;15;;;803;93;91;69;
+21006;Dolnoslaskie;gm. Platerówka;1305;516;4;146;5;;;300;19;25;17;
+21007;Dolnoslaskie;gm. Siekierczyn;3976;1451;19;516;23;;;655;99;58;81;
+21101;Dolnoslaskie;m. Lubin;56170;26207;176;9446;288;;;12162;1524;1325;1286;
+21102;Dolnoslaskie;gm. Lubin;12298;5576;41;1949;59;;;2584;340;300;303;
+21103;Dolnoslaskie;gm. Rudna;6119;2472;28;625;42;;;1375;119;135;148;
+21104;Dolnoslaskie;gm. Œcinawa;7786;3116;28;749;39;;;1886;129;152;133;
+21201;Dolnoslaskie;gm. Gryfów Œl¹ski;7838;2884;31;1175;54;;;1237;170;113;104;
+21202;Dolnoslaskie;gm. Lubomierz;4872;1763;30;673;22;;;778;96;74;90;
+21203;Dolnoslaskie;gm. Lwówek Œl¹ski;13734;5213;46;2171;71;;;2066;344;314;201;
+21204;Dolnoslaskie;gm. Mirsk;6977;2395;34;850;24;;;1145;138;107;97;
+21205;Dolnoslaskie;gm. Wleñ;3506;1339;25;527;22;;;568;86;62;49;
+21301;Dolnoslaskie;gm. Cieszków;3755;1454;15;465;13;;;791;57;64;49;
+21302;Dolnoslaskie;gm. Kroœnice;6378;2294;21;649;30;;;1333;97;90;74;
+21303;Dolnoslaskie;gm. Milicz;19182;7489;70;2908;83;;;3479;397;324;228;
+21401;Dolnoslaskie;m. Oleœnica;29146;13541;84;6032;184;;;4958;984;739;560;
+21402;Dolnoslaskie;gm. Bierutów;7904;2787;28;967;26;;;1426;126;122;92;
+21403;Dolnoslaskie;gm. Dobroszyce;5264;2072;21;698;34;;;1008;113;105;93;
+21404;Dolnoslaskie;gm. Dziadowa K³oda;3584;1193;26;430;22;;;580;65;51;19;
+21405;Dolnoslaskie;gm. Miêdzybórz;4026;1382;9;547;24;;;574;91;72;65;
+21406;Dolnoslaskie;gm. Oleœnica;10444;3880;37;1481;39;;;1761;259;163;140;
+21407;Dolnoslaskie;gm. Syców;13276;5377;55;2405;78;;;2012;326;278;223;
+21408;Dolnoslaskie;gm. Twardogóra;10403;3988;71;1425;63;;;1897;222;174;136;
+21501;Dolnoslaskie;m. O³awa;25407;12460;81;5576;163;;;4580;774;717;569;
+21502;Dolnoslaskie;gm. Domaniów;4157;1565;16;410;21;;;862;97;97;62;
+21503;Dolnoslaskie;gm. Jelcz-Laskowice;17918;8146;52;2986;77;;;3789;511;411;320;
+21504;Dolnoslaskie;gm. O³awa;11869;5327;46;1785;52;;;2625;295;296;228;
+21601;Dolnoslaskie;gm. Chocianów;10024;4154;43;952;66;;;2486;161;264;182;
+21602;Dolnoslaskie;gm. Gaworzyce;3082;1310;26;325;19;;;746;77;63;54;
+21603;Dolnoslaskie;gm. Grêbocice;4178;1604;26;400;25;;;942;57;96;58;
+21604;Dolnoslaskie;gm. Polkowice;20545;8413;73;2718;110;;;4180;551;405;376;
+21605;Dolnoslaskie;gm. Przemków;6659;2444;32;643;42;;;1389;112;119;107;
+21606;Dolnoslaskie;gm. Radwanice;3728;1456;19;432;23;;;763;82;49;88;
+21701;Dolnoslaskie;gm. Borów;4316;1820;24;444;13;;;1086;77;87;89;
+21702;Dolnoslaskie;gm. Kondratowice;3527;1280;12;347;11;;;751;57;54;48;
+21703;Dolnoslaskie;gm. Przeworno;3927;1435;15;425;19;;;821;42;56;57;
+21704;Dolnoslaskie;gm. Strzelin;18129;7848;69;3167;103;;;3386;424;370;329;
+21705;Dolnoslaskie;gm. Wi¹zów;5829;2272;24;575;26;;;1359;85;119;84;
+21801;Dolnoslaskie;gm. Kostom³oty;5710;2099;22;559;26;;;1201;104;99;88;
+21802;Dolnoslaskie;gm. Malczyce;4677;1619;13;520;10;;;879;72;66;59;
+21803;Dolnoslaskie;gm. Miêkinia;12344;5641;35;2420;84;;;2026;471;343;262;
+21804;Dolnoslaskie;gm. Œroda Œl¹ska;15507;6258;56;2548;60;;;2723;317;300;254;
+21805;Dolnoslaskie;gm. Udanin;4262;1635;15;392;13;;;1049;63;42;61;
+21901;Dolnoslaskie;m. Œwidnica;45110;21995;149;10097;261;;;7232;2291;1066;899;
+21902;Dolnoslaskie;m. Œwiebodzice;17780;7999;56;3638;133;;;2877;604;379;312;
+21903;Dolnoslaskie;gm. Dobromierz;4212;1535;13;480;19;;;825;87;54;57;
+21904;Dolnoslaskie;gm. Jaworzyna Œl¹ska;8245;3081;27;1017;61;;;1418;212;189;157;
+21905;Dolnoslaskie;gm. Marcinowice;5149;2041;20;606;23;;;1110;124;80;78;
+21906;Dolnoslaskie;gm. Strzegom;20715;8289;91;2897;95;;;3874;572;453;307;
+21907;Dolnoslaskie;gm. Œwidnica;13598;5803;46;2131;62;;;2465;543;271;285;
+21908;Dolnoslaskie;gm. ¯arów;9985;3967;37;1427;63;;;1773;285;191;191;
+22001;Dolnoslaskie;gm. Oborniki Œl¹skie;15924;7879;60;3433;91;;;3018;541;442;294;
+22002;Dolnoslaskie;gm. Prusice;7532;2713;34;773;43;;;1527;105;132;99;
+22003;Dolnoslaskie;gm. Trzebnica;18570;8570;68;3350;99;;;3720;516;493;324;
+22004;Dolnoslaskie;gm. Wisznia Ma³a;8118;4173;23;1761;29;;;1735;287;195;143;
+22005;Dolnoslaskie;gm. Zawonia;4705;1795;26;622;22;;;805;126;108;86;
+22006;Dolnoslaskie;gm. ¯migród;11668;4177;42;1538;55;;;1920;232;212;178;
+22101;Dolnoslaskie;m. Boguszów-Gorce;12087;4091;40;1908;61;;;1425;343;164;150;
+22102;Dolnoslaskie;m. Jedlina-Zdrój;3798;1593;22;741;28;;;526;160;62;54;
+22103;Dolnoslaskie;m. Szczawno-Zdrój;4768;2555;16;1364;21;;;740;257;75;82;
+22104;Dolnoslaskie;gm. Czarny Bór;3863;1608;18;561;27;;;741;111;84;66;
+22105;Dolnoslaskie;gm. G³uszyca;6997;2658;32;1206;23;;;950;217;136;94;
+22106;Dolnoslaskie;gm. Mieroszów;5393;2053;15;969;38;;;714;159;91;67;
+22107;Dolnoslaskie;gm. Stare Bogaczowice;3380;1504;20;597;23;;;612;123;63;66;
+22108;Dolnoslaskie;gm. Walim;4480;1759;19;750;18;;;718;128;72;54;
+22201;Dolnoslaskie;gm. Brzeg Dolny;12733;5310;62;2267;72;;;2061;359;332;157;
+22202;Dolnoslaskie;gm. Wiñsko;6833;2402;26;527;26;;;1562;93;92;76;
+22203;Dolnoslaskie;gm. Wo³ów;19021;7522;76;2853;96;;;3413;403;396;285;
+22301;Dolnoslaskie;gm. Czernica;11666;6715;41;3199;75;;;2193;528;414;265;
+22302;Dolnoslaskie;gm. D³ugo³êka;24683;12797;66;5642;139;;;4615;1047;708;580;
+22303;Dolnoslaskie;gm. Jordanów Œl¹ski;2570;1099;8;330;17;;;568;73;61;42;
+22304;Dolnoslaskie;gm. K¹ty Wroc³awskie;18206;9063;45;3996;105;;;3312;658;476;471;
+22305;Dolnoslaskie;gm. Kobierzyce;15037;7724;34;3909;109;;;2215;675;422;360;
+22306;Dolnoslaskie;gm. Mietków;3151;1288;11;461;14;;;600;73;58;71;
+22307;Dolnoslaskie;gm. Sobótka;10213;4319;34;1625;63;;;1895;277;264;161;
+22308;Dolnoslaskie;gm. Siechnice;16421;8892;35;4109;92;;;2855;780;596;425;
+22309;Dolnoslaskie;gm. ¯órawina;8409;4060;26;1774;48;;;1486;319;240;167;
+22401;Dolnoslaskie;gm. Bardo;4297;1695;19;628;29;;;756;116;50;97;
+22402;Dolnoslaskie;gm. Ciep³owody;2528;840;8;251;6;;;470;29;41;35;
+22403;Dolnoslaskie;gm. Kamieniec Z¹bkowicki;6701;2546;38;871;38;;;1219;164;93;123;
+22404;Dolnoslaskie;gm. Stoszowice;4356;1555;11;532;22;;;807;66;58;59;
+22405;Dolnoslaskie;gm. Z¹bkowice Œl¹skie;17567;7301;48;3194;76;;;3170;284;259;270;
+22406;Dolnoslaskie;gm. Ziêbice;13818;5084;61;1764;65;;;2595;239;174;186;
+22407;Dolnoslaskie;gm. Z³oty Stok;3696;1457;10;538;19;;;701;76;57;56;
+22501;Dolnoslaskie;m. Zawidów;3326;1279;16;519;8;;;529;79;64;64;
+22502;Dolnoslaskie;m. Zgorzelec;24674;11105;81;5157;141;;;3943;615;408;760;
+22503;Dolnoslaskie;gm. Bogatynia;18449;6588;58;2584;93;;;2750;427;368;308;
+22504;Dolnoslaskie;gm. Pieñsk;7050;2358;46;817;37;;;1048;165;109;136;
+22505;Dolnoslaskie;gm. Sulików;4783;1824;20;536;18;;;963;71;90;126;
+22506;Dolnoslaskie;gm. Wêgliniec;6742;2337;36;861;34;;;1036;150;110;110;
+22507;Dolnoslaskie;gm. Zgorzelec;6728;2624;25;933;35;;;1171;134;108;218;
+22601;Dolnoslaskie;m. Wojcieszów;2962;1063;14;479;25;;;394;70;35;46;
+22602;Dolnoslaskie;m. Z³otoryja;12479;5422;42;2545;60;;;2000;346;221;208;
+22603;Dolnoslaskie;gm. Pielgrzymka;3672;1252;20;415;12;;;632;79;50;44;
+22604;Dolnoslaskie;gm. Œwierzawa;6059;2064;30;848;25;;;858;117;103;83;
+22605;Dolnoslaskie;gm. Zagrodno;4257;1571;25;380;21;;;986;47;63;49;
+22606;Dolnoslaskie;gm. Z³otoryja;5557;2085;19;750;34;;;1000;107;86;89;
+26101;Dolnoslaskie;m. Jelenia Góra;62671;30084;217;15844;383;;;9052;2349;1338;901;
+26201;Dolnoslaskie;m. Legnica;75449;33381;189;14276;456;;;13315;2442;1505;1198;
+26401;Dolnoslaskie;m. Wroc³aw;485846;272456;1276;136307;4201;;;80244;24248;15842;10338;
+26501;Dolnoslaskie;m. Wa³brzych;85857;36062;220;18437;512;;;11440;2808;1298;1347;
+40101;Kujawsko-Pomorskie;m. Aleksandrów Kujawski;9739;3796;18;1737;47;;;1430;275;142;147;
+40102;Kujawsko-Pomorskie;m. Ciechocinek;10185;6049;30;2892;66;;;2387;297;172;205;
+40103;Kujawsko-Pomorskie;m. Nieszawa;1580;643;12;255;6;;;267;27;30;46;
+40104;Kujawsko-Pomorskie;gm. Aleksandrów Kujawski;9119;3177;65;1050;35;;;1591;162;129;145;
+40105;Kujawsko-Pomorskie;gm. B¹dkowo;3487;1212;18;371;16;;;660;55;44;48;
+40106;Kujawsko-Pomorskie;gm. Koneck;2655;800;11;188;9;;;509;35;26;22;
+40107;Kujawsko-Pomorskie;gm. Raci¹¿ek;2615;992;12;309;12;;;499;48;45;67;
+40108;Kujawsko-Pomorskie;gm. Waganiec;3661;1274;24;291;15;;;809;47;35;53;
+40109;Kujawsko-Pomorskie;gm. Zakrzewo;2874;943;22;297;10;;;513;53;14;34;
+40201;Kujawsko-Pomorskie;m. Brodnica;21623;9308;63;3752;80;;;3203;414;216;1580;
+40202;Kujawsko-Pomorskie;gm. Bobrowo;5090;1793;22;413;22;;;932;75;37;292;
+40203;Kujawsko-Pomorskie;gm. Brodnica;6379;2344;22;718;10;;;940;103;43;508;
+40204;Kujawsko-Pomorskie;gm. Brzozie;2940;1151;31;235;5;;;648;18;30;184;
+40205;Kujawsko-Pomorskie;gm. Górzno;3166;1125;11;264;13;;;636;34;26;141;
+40206;Kujawsko-Pomorskie;gm. Bartniczka;3622;1296;17;293;9;;;749;18;21;189;
+40207;Kujawsko-Pomorskie;gm. Jab³onowo Pomorskie;7063;2294;28;605;31;;;1228;77;61;264;
+40208;Kujawsko-Pomorskie;gm. Osiek;3154;1026;21;209;15;;;555;25;32;169;
+40209;Kujawsko-Pomorskie;gm. Œwiedziebnia;4110;1297;14;327;15;;;762;30;27;122;
+40210;Kujawsko-Pomorskie;gm. Zbiczno;3905;1482;18;477;9;;;600;65;31;282;
+40301;Kujawsko-Pomorskie;gm. Bia³e B³ota;16038;8166;47;4379;51;;;2330;662;403;294;
+40302;Kujawsko-Pomorskie;gm. D¹browa Che³miñska;6428;2415;21;976;27;;;988;159;158;86;
+40303;Kujawsko-Pomorskie;gm. Dobrcz;8938;3764;35;1639;45;;;1468;248;181;148;
+40304;Kujawsko-Pomorskie;gm. Koronowo;18975;6864;84;2980;69;;;2842;371;269;249;
+40305;Kujawsko-Pomorskie;gm. Nowa Wieœ Wielka;7795;3197;24;1553;23;;;1106;242;134;115;
+40306;Kujawsko-Pomorskie;gm. Osielsko;10550;6319;29;3746;69;;;1509;460;274;232;
+40307;Kujawsko-Pomorskie;gm. Sicienko;7974;3314;34;1576;40;;;1164;178;203;119;
+40308;Kujawsko-Pomorskie;gm. Solec Kujawski;12599;5648;69;2791;84;;;1818;361;309;216;
+40401;Kujawsko-Pomorskie;m. Che³mno;14644;6150;48;3045;83;;;2057;421;219;277;
+40402;Kujawsko-Pomorskie;gm. Che³mno;4583;1379;12;522;10;;;582;102;77;74;
+40403;Kujawsko-Pomorskie;gm. Kijewo Królewskie;3504;1297;16;452;19;;;615;71;54;70;
+40404;Kujawsko-Pomorskie;gm. Lisewo;3982;1314;13;394;21;;;698;76;51;61;
+40405;Kujawsko-Pomorskie;gm. Papowo Biskupie;3387;1024;17;332;8;;;524;38;24;81;
+40406;Kujawsko-Pomorskie;gm. Stolno;4054;1424;13;481;25;;;685;77;62;81;
+40407;Kujawsko-Pomorskie;gm. Unis³aw;5308;1947;29;692;29;;;890;135;76;96;
+40501;Kujawsko-Pomorskie;m. Golub-Dobrzyñ;9588;3623;34;1392;46;;;1581;187;126;257;
+40502;Kujawsko-Pomorskie;gm. Ciechocin;3237;1165;19;302;16;;;686;57;39;46;
+40503;Kujawsko-Pomorskie;gm. Golub-Dobrzyñ;7084;2441;22;763;34;;;1294;108;58;162;
+40504;Kujawsko-Pomorskie;gm. Kowalewo Pomorskie;8988;3214;36;1152;40;;;1511;181;122;172;
+40505;Kujawsko-Pomorskie;gm. Radomin;3280;1208;17;234;14;;;763;51;35;94;
+40506;Kujawsko-Pomorskie;gm. Zbójno;3503;1022;5;259;14;;;608;48;24;64;
+40601;Kujawsko-Pomorskie;gm. Grudzi¹dz;9564;3630;23;1567;35;;;1458;238;137;172;
+40602;Kujawsko-Pomorskie;gm. Gruta;5126;1623;13;487;21;;;896;69;65;72;
+40603;Kujawsko-Pomorskie;gm. £asin;6193;1928;25;667;30;;;992;80;67;67;
+40604;Kujawsko-Pomorskie;gm. Radzyñ Che³miñski;3702;1026;14;276;21;;;551;53;35;76;
+40605;Kujawsko-Pomorskie;gm. RogóŸno;3211;1022;8;309;11;;;554;62;38;40;
+40606;Kujawsko-Pomorskie;gm. Œwiecie nad Os¹;3327;862;12;175;14;;;548;31;27;55;
+40701;Kujawsko-Pomorskie;m. Inowroc³aw;58805;27405;188;15862;234;;;8529;1292;734;566;
+40702;Kujawsko-Pomorskie;gm. D¹browa Biskupia;4027;1321;23;432;13;;;722;50;36;45;
+40703;Kujawsko-Pomorskie;gm. Gniewkowo;11200;3993;49;1677;37;;;1712;189;169;160;
+40704;Kujawsko-Pomorskie;gm. Inowroc³aw;9388;3638;31;1615;34;;;1575;152;111;120;
+40705;Kujawsko-Pomorskie;gm. Janikowo;10565;3860;43;1692;36;;;1609;186;176;118;
+40706;Kujawsko-Pomorskie;gm. Kruszwica;15430;5685;74;2374;44;;;2675;202;173;143;
+40707;Kujawsko-Pomorskie;gm. Pakoœæ;7787;2841;27;1249;37;;;1231;109;106;82;
+40708;Kujawsko-Pomorskie;gm. Rojewo;3680;1288;19;417;11;;;718;42;46;35;
+40709;Kujawsko-Pomorskie;gm. Z³otniki Kujawskie;7247;2740;41;1113;20;;;1231;154;94;87;
+40801;Kujawsko-Pomorskie;m. Lipno;11170;4140;44;1940;34;;;1651;224;119;128;
+40802;Kujawsko-Pomorskie;gm. Bobrowniki;2472;871;13;368;7;;;406;34;22;21;
+40803;Kujawsko-Pomorskie;gm. Chrostkowo;2397;699;7;183;3;;;449;12;22;23;
+40804;Kujawsko-Pomorskie;gm. Dobrzyñ nad Wis³¹;6212;2025;34;612;27;;;1189;50;56;57;
+40805;Kujawsko-Pomorskie;gm. Kikó³;5640;1694;24;568;16;;;892;83;34;77;
+40806;Kujawsko-Pomorskie;gm. Lipno;9239;2847;44;1095;24;;;1421;115;70;78;
+40807;Kujawsko-Pomorskie;gm. Skêpe;6033;2101;16;777;19;;;1084;77;58;70;
+40808;Kujawsko-Pomorskie;gm. T³uchowo;3659;1225;8;349;15;;;779;25;23;26;
+40809;Kujawsko-Pomorskie;gm. Wielgie;5246;1686;35;624;20;;;819;73;53;62;
+40901;Kujawsko-Pomorskie;gm. D¹browa;3685;1225;15;450;16;;;615;57;39;33;
+40902;Kujawsko-Pomorskie;gm. Jeziora Wielkie;3877;1275;20;429;8;;;697;52;32;37;
+40903;Kujawsko-Pomorskie;gm. Mogilno;19818;7576;75;3242;82;;;3157;416;322;282;
+40904;Kujawsko-Pomorskie;gm. Strzelno;9471;3321;47;1368;35;;;1484;169;122;96;
+41001;Kujawsko-Pomorskie;gm. Kcynia;10417;3788;47;1590;45;;;1770;139;102;95;
+41002;Kujawsko-Pomorskie;gm. Mrocza;7052;2511;44;974;35;;;1137;96;61;164;
+41003;Kujawsko-Pomorskie;gm. Nak³o nad Noteci¹;25095;10299;106;4940;110;;;3914;563;364;302;
+41004;Kujawsko-Pomorskie;gm. Sadki;5632;1993;23;768;25;;;979;100;40;58;
+41005;Kujawsko-Pomorskie;gm. Szubin;18825;7603;65;3733;83;;;2814;348;298;262;
+41101;Kujawsko-Pomorskie;m. Radziejów;4648;1935;19;814;15;;;871;103;42;71;
+41102;Kujawsko-Pomorskie;gm. Bytoñ;2927;1016;11;231;7;;;677;29;32;29;
+41103;Kujawsko-Pomorskie;gm. Dobre;4395;1369;22;373;17;;;815;51;45;46;
+41104;Kujawsko-Pomorskie;gm. Osiêciny;6360;2148;30;579;34;;;1260;123;57;65;
+41105;Kujawsko-Pomorskie;gm. Piotrków Kujawski;7635;2483;30;662;32;;;1491;125;73;70;
+41106;Kujawsko-Pomorskie;gm. Radziejów;3608;1210;15;353;11;;;687;46;44;54;
+41107;Kujawsko-Pomorskie;gm. Topólka;4071;1400;25;418;24;;;793;69;23;48;
+41201;Kujawsko-Pomorskie;m. Rypin;12734;5003;41;2200;51;;;2095;278;153;185;
+41202;Kujawsko-Pomorskie;gm. Brzuze;4251;1335;16;383;21;;;742;53;42;78;
+41203;Kujawsko-Pomorskie;gm. Rogowo;3813;1202;13;277;11;;;767;53;40;41;
+41204;Kujawsko-Pomorskie;gm. Rypin;5901;1746;14;502;14;;;937;93;58;128;
+41205;Kujawsko-Pomorskie;gm. Skrwilno;4713;1559;6;317;14;;;1063;54;35;70;
+41206;Kujawsko-Pomorskie;gm. W¹pielsk;3240;957;9;235;14;;;552;47;23;77;
+41301;Kujawsko-Pomorskie;gm. Kamieñ Krajeñski;5392;1777;18;604;33;;;826;119;73;104;
+41302;Kujawsko-Pomorskie;gm. Sêpólno Krajeñskie;12308;4762;43;2049;66;;;1913;285;179;227;
+41303;Kujawsko-Pomorskie;gm. Soœno;3921;1216;23;405;16;;;635;42;37;58;
+41304;Kujawsko-Pomorskie;gm. Wiêcbork;10299;3681;57;1327;54;;;1753;232;125;133;
+41401;Kujawsko-Pomorskie;gm. Bukowiec;3934;1309;18;392;17;;;746;49;44;43;
+41402;Kujawsko-Pomorskie;gm. Dragacz;5518;1896;21;828;20;;;755;115;61;96;
+41403;Kujawsko-Pomorskie;gm. Drzycim;3906;1333;11;378;5;;;723;88;48;80;
+41404;Kujawsko-Pomorskie;gm. Je¿ewo;6203;2200;40;716;31;;;1074;120;115;104;
+41405;Kujawsko-Pomorskie;gm. Lniano;3319;1218;24;375;9;;;651;63;54;42;
+41406;Kujawsko-Pomorskie;gm. Nowe;7977;2554;31;1087;40;;;1079;116;119;82;
+41407;Kujawsko-Pomorskie;gm. Osie;4365;1496;20;634;14;;;621;89;62;56;
+41408;Kujawsko-Pomorskie;gm. Pruszcz;7401;2894;46;1145;35;;;1301;139;116;112;
+41409;Kujawsko-Pomorskie;gm. Œwiecie;25558;10068;102;4921;129;;;3526;689;373;328;
+41410;Kujawsko-Pomorskie;gm. Œwiekatowo;2860;1062;24;367;13;;;506;64;44;44;
+41411;Kujawsko-Pomorskie;gm. Warlubie;4988;1535;26;552;16;;;764;79;40;58;
+41501;Kujawsko-Pomorskie;m. Che³m¿a;10939;4031;37;1834;54;;;1532;257;180;137;
+41502;Kujawsko-Pomorskie;gm. Che³m¿a;7684;2516;40;809;29;;;1291;118;123;106;
+41503;Kujawsko-Pomorskie;gm. Czernikowo;7096;2034;20;762;27;;;972;111;79;63;
+41504;Kujawsko-Pomorskie;gm. Lubicz;15053;6712;48;2874;81;;;2710;431;279;289;
+41505;Kujawsko-Pomorskie;gm. £ubianka;5419;2326;26;869;37;;;1031;150;101;112;
+41506;Kujawsko-Pomorskie;gm. £ysomice;7765;3229;13;1554;37;;;1159;189;158;119;
+41507;Kujawsko-Pomorskie;gm. Obrowo;12689;5413;48;2277;64;;;2248;339;199;238;
+41508;Kujawsko-Pomorskie;gm. Wielka Nieszawka;3829;1768;10;864;17;;;579;140;81;77;
+41509;Kujawsko-Pomorskie;gm. Z³awieœ Wielka;10600;4401;34;1996;58;;;1613;314;171;215;
+41601;Kujawsko-Pomorskie;gm. Cekcyn;5315;2037;32;681;21;;;1046;85;89;83;
+41602;Kujawsko-Pomorskie;gm. Gostycyn;4072;1497;30;478;14;;;782;69;74;50;
+41603;Kujawsko-Pomorskie;gm. Kêsowo;3512;1297;34;333;18;;;755;55;52;50;
+41604;Kujawsko-Pomorskie;gm. Lubiewo;4683;1778;20;511;14;;;1002;75;76;80;
+41605;Kujawsko-Pomorskie;gm. Œliwice;4382;1788;31;522;8;;;1033;65;67;62;
+41606;Kujawsko-Pomorskie;gm. Tuchola;15701;6634;69;2693;65;;;2990;308;266;243;
+41701;Kujawsko-Pomorskie;m. W¹brzeŸno;10387;4012;33;2056;56;;;1309;270;127;161;
+41702;Kujawsko-Pomorskie;gm. Dêbowa £¹ka;2532;726;15;199;7;;;369;31;41;64;
+41703;Kujawsko-Pomorskie;gm. Ksi¹¿ki;3314;1057;5;323;10;;;564;61;39;55;
+41704;Kujawsko-Pomorskie;gm. P³u¿nica;3790;1179;18;396;26;;;576;69;39;55;
+41705;Kujawsko-Pomorskie;gm. Ryñsk;6744;2080;25;625;38;;;1045;133;91;123;
+41801;Kujawsko-Pomorskie;m. Kowal;2843;1185;20;467;14;;;505;84;41;54;
+41802;Kujawsko-Pomorskie;gm. Baruchowo;2834;915;16;235;5;;;564;43;26;26;
+41803;Kujawsko-Pomorskie;gm. Boniewo;2787;896;18;297;9;;;494;21;20;37;
+41804;Kujawsko-Pomorskie;gm. Brzeœæ Kujawski;9447;3403;35;1365;50;;;1481;227;119;126;
+41805;Kujawsko-Pomorskie;gm. Choceñ;6495;1916;36;658;32;;;972;88;62;68;
+41806;Kujawsko-Pomorskie;gm. Chodecz;5002;1421;14;431;46;;;774;73;35;48;
+41807;Kujawsko-Pomorskie;gm. Fabianki;7800;2818;29;1388;30;;;1020;192;92;67;
+41808;Kujawsko-Pomorskie;gm. Izbica Kujawska;6112;1967;16;467;20;;;1279;74;55;56;
+41809;Kujawsko-Pomorskie;gm. Kowal;3234;1017;10;272;15;;;605;63;21;31;
+41810;Kujawsko-Pomorskie;gm. Lubanie;3718;1343;11;332;18;;;836;66;39;41;
+41811;Kujawsko-Pomorskie;gm. Lubieñ Kujawski;6054;1827;37;453;29;;;1085;77;62;84;
+41812;Kujawsko-Pomorskie;gm. Lubraniec;7812;2731;41;828;32;;;1526;129;66;109;
+41813;Kujawsko-Pomorskie;gm. W³oc³awek;5838;2081;26;882;19;;;895;136;55;68;
+41901;Kujawsko-Pomorskie;gm. Barcin;11408;4221;43;2178;38;;;1434;248;148;132;
+41902;Kujawsko-Pomorskie;gm. G¹sawa;4201;1513;27;519;19;;;788;57;53;50;
+41903;Kujawsko-Pomorskie;gm. Janowiec Wielkopolski;7123;2514;42;933;33;;;1154;162;76;114;
+41904;Kujawsko-Pomorskie;gm. £abiszyn;7826;2951;43;1150;39;;;1341;171;111;96;
+41905;Kujawsko-Pomorskie;gm. Rogowo;5370;2060;38;827;19;;;964;89;65;58;
+41906;Kujawsko-Pomorskie;gm. ¯nin;19258;7370;103;2884;74;;;3465;359;285;200;
+46101;Kujawsko-Pomorskie;m. Bydgoszcz;262817;134706;673;71087;1348;;;43345;8692;5688;3873;
+46201;Kujawsko-Pomorskie;m. Grudzi¹dz;69974;28594;185;14835;285;;;9587;1907;947;848;
+46301;Kujawsko-Pomorskie;m. Toruñ;150200;78183;423;40496;1113;;;24951;5504;3283;2413;
+46401;Kujawsko-Pomorskie;m. W³oc³awek;87059;36320;268;18333;408;;;12219;2634;1475;983;
+60101;Lubelskie;m. Miêdzyrzec Podlaski;13510;6174;63;1672;29;;;3820;116;259;176;39
+60102;Lubelskie;m. Terespol;4569;2091;28;823;14;;;972;49;85;67;53
+60103;Lubelskie;gm. Bia³a Podlaska;11278;4914;46;1612;24;;;2721;95;233;149;34
+60104;Lubelskie;gm. Drelów;4333;1624;28;283;9;;;1141;26;64;65;8
+60105;Lubelskie;gm. Janów Podlaski;4191;1641;19;522;9;;;922;30;73;64;2
+60106;Lubelskie;gm. Kodeñ;3247;1373;37;403;8;;;837;20;35;28;5
+60107;Lubelskie;gm. Konstantynów;3310;1352;38;386;10;;;803;29;39;32;15
+60108;Lubelskie;gm. Leœna Podlaska;3452;1432;17;326;10;;;966;16;42;46;9
+60109;Lubelskie;gm. £omazy;4149;1771;27;363;11;;;1052;37;46;224;11
+60110;Lubelskie;gm. Miêdzyrzec Podlaski;8198;3584;58;587;12;;;2647;43;124;103;10
+60111;Lubelskie;gm. Piszczac;5867;2185;37;491;10;;;1458;46;65;64;14
+60112;Lubelskie;gm. Rokitno;2430;911;17;227;10;;;570;13;31;39;4
+60113;Lubelskie;gm. Rossosz;1875;840;10;148;4;;;587;11;32;43;5
+60114;Lubelskie;gm. S³awatycze;1963;792;19;237;7;;;467;17;20;21;4
+60115;Lubelskie;gm. Sosnówka;2084;678;11;185;2;;;413;14;22;27;4
+60116;Lubelskie;gm. Terespol;5347;2227;36;526;12;;;1450;38;80;71;14
+60117;Lubelskie;gm. Tuczna;2586;936;10;197;3;;;630;12;38;46;0
+60118;Lubelskie;gm. Wisznice;4112;1737;21;498;7;;;1035;47;61;57;11
+60119;Lubelskie;gm. Zalesie;3570;1373;28;413;4;;;831;18;44;31;4
+60201;Lubelskie;m. Bi³goraj;21308;9903;76;3201;49;;;5193;337;536;463;48
+60202;Lubelskie;gm. Aleksandrów;2612;1093;10;131;2;;;828;16;59;43;4
+60203;Lubelskie;gm. Bi³goraj;10594;4718;46;828;20;;;3327;72;226;175;24
+60204;Lubelskie;gm. Biszcza;3187;1323;14;202;5;;;973;23;46;49;11
+60205;Lubelskie;gm. Frampol;5098;2069;33;326;16;;;1472;38;97;78;9
+60206;Lubelskie;gm. Goraj;3458;1506;22;183;12;;;1151;18;74;37;9
+60207;Lubelskie;gm. Józefów;5775;2175;42;507;14;;;1329;67;82;127;7
+60208;Lubelskie;gm. Ksiê¿pol;5532;2259;30;297;10;;;1627;47;117;119;12
+60209;Lubelskie;gm. £ukowa;3517;1490;16;205;7;;;1143;15;51;49;4
+60210;Lubelskie;gm. Obsza;3480;1394;20;172;10;;;1070;17;55;47;3
+60211;Lubelskie;gm. Potok Górny;4596;2009;21;183;11;;;1628;18;68;76;4
+60212;Lubelskie;gm. Tarnogród;5434;2431;28;470;9;;;1682;39;91;109;3
+60213;Lubelskie;gm. Tereszpol;3202;1287;9;260;5;;;900;19;36;55;3
+60214;Lubelskie;gm. Turobin;5235;2588;23;330;9;;;2016;25;91;76;18
+60301;Lubelskie;m. Rejowiec Fabryczny;3631;1224;24;338;10;;;731;45;34;34;8
+60302;Lubelskie;gm. Bia³opole;2448;817;10;165;12;;;555;24;29;20;2
+60303;Lubelskie;gm. Che³m;11568;4528;48;1153;40;;;2711;120;223;198;35
+60304;Lubelskie;gm. Dorohusk;5219;2001;50;328;20;;;1376;50;86;72;19
+60305;Lubelskie;gm. Dubienka;2035;740;11;217;19;;;408;29;41;13;2
+60306;Lubelskie;gm. Kamieñ;3352;1180;19;223;8;;;805;38;48;36;3
+60307;Lubelskie;gm. Leœniowice;3051;1005;21;268;7;;;607;29;27;43;3
+60308;Lubelskie;gm. Rejowiec Fabryczny;3471;1122;10;202;7;;;828;25;28;18;4
+60309;Lubelskie;gm. Ruda-Huta;3660;1303;21;369;11;;;771;20;58;44;9
+60310;Lubelskie;gm. Sawin;4520;1513;26;308;9;;;1003;50;50;61;6
+60311;Lubelskie;gm. Siedliszcze;5454;1689;52;293;14;;;1158;48;60;55;9
+60312;Lubelskie;gm. Wierzbica;4185;1486;24;246;8;;;1045;38;59;61;5
+60313;Lubelskie;gm. Wojs³awice;3208;1146;14;171;10;;;863;17;35;30;6
+60314;Lubelskie;gm. ¯mudŸ;2586;828;13;188;5;;;539;13;32;34;4
+60315;Lubelskie;gm. Rejowiec;5169;1680;23;346;19;;;1091;61;70;58;12
+60401;Lubelskie;m. Hrubieszów;15137;6017;57;2117;41;;;3015;231;223;299;34
+60402;Lubelskie;gm. Do³hobyczów;4557;1507;17;340;12;;;1002;21;37;69;9
+60403;Lubelskie;gm. Horod³o;4295;1357;31;274;13;;;907;24;45;58;5
+60404;Lubelskie;gm. Hrubieszów;8331;2904;43;519;19;;;2004;56;91;163;9
+60405;Lubelskie;gm. Mircze;6095;2100;35;458;14;;;1379;39;53;112;10
+60406;Lubelskie;gm. Trzeszczany;3511;1251;14;211;6;;;919;25;24;48;4
+60407;Lubelskie;gm. Uchanie;3845;1493;29;191;9;;;1139;30;42;49;4
+60408;Lubelskie;gm. Werbkowice;7863;2938;32;481;16;;;2043;60;93;194;19
+60501;Lubelskie;gm. Batorz;2694;1332;16;175;4;;;1046;7;50;27;7
+60502;Lubelskie;gm. Chrzanów;2414;1378;6;88;8;;;1204;5;31;34;2
+60503;Lubelskie;gm. Dzwola;5137;2634;35;179;13;;;2208;14;108;72;5
+60504;Lubelskie;gm. Godziszów;4777;2813;23;133;7;;;2468;14;94;73;1
+60505;Lubelskie;gm. Janów Lubelski;13046;6237;66;1290;28;;;4198;139;300;176;40
+60506;Lubelskie;gm. Modliborzyce;5758;2436;38;370;19;;;1785;38;94;81;11
+60507;Lubelskie;gm. Potok Wielki;3864;1486;23;197;9;;;1138;13;51;48;7
+60601;Lubelskie;m. Krasnystaw;15826;6573;67;2393;52;;;3182;275;335;232;37
+60602;Lubelskie;gm. Fajs³awice;3827;1750;21;262;12;;;1275;44;77;51;8
+60603;Lubelskie;gm. Gorzków;2984;1207;13;261;10;;;763;28;50;73;9
+60604;Lubelskie;gm. Izbica;6860;2590;36;426;23;;;1825;79;93;92;16
+60605;Lubelskie;gm. Krasnystaw;7075;2663;36;600;17;;;1675;86;117;117;15
+60606;Lubelskie;gm. Kraœniczyn;3196;1173;27;243;15;;;747;36;50;46;9
+60607;Lubelskie;gm. £opiennik Górny;3336;1242;18;165;6;;;932;27;49;42;3
+60609;Lubelskie;gm. Rudnik;2600;950;12;157;3;;;682;22;27;35;12
+60610;Lubelskie;gm. Siennica Ró¿ana;3490;1277;29;410;4;;;688;40;45;53;8
+60611;Lubelskie;gm. ¯ó³kiewka;4612;1705;36;249;11;;;1287;30;38;46;8
+60701;Lubelskie;m. Kraœnik;27929;12642;136;4100;123;;;6877;386;507;459;54
+60702;Lubelskie;gm. Annopol;7085;2866;64;575;23;;;1954;78;82;73;17
+60703;Lubelskie;gm. Dzierzkowice;4301;1899;16;399;9;;;1254;47;80;81;13
+60704;Lubelskie;gm. Goœcieradów;5829;2260;43;432;20;;;1581;41;65;63;15
+60705;Lubelskie;gm. Kraœnik;5825;2500;37;530;14;;;1663;48;110;80;18
+60706;Lubelskie;gm. Szastarka;4773;2133;30;227;13;;;1741;25;38;52;7
+60707;Lubelskie;gm. Trzydnik Du¿y;5263;2021;27;372;28;;;1406;50;65;63;10
+60708;Lubelskie;gm. Urzêdów;7018;3042;48;567;14;;;2074;45;112;161;21
+60709;Lubelskie;gm. Wilko³az;4372;2063;23;262;10;;;1550;31;98;79;10
+60710;Lubelskie;gm. Zakrzówek;5322;2203;19;357;5;;;1612;35;91;73;11
+60801;Lubelskie;m. Lubartów;17402;8381;64;2872;68;;;4174;394;430;289;90
+60802;Lubelskie;gm. Abramów;3359;1523;19;167;9;;;1164;19;68;64;13
+60803;Lubelskie;gm. Firlej;4755;1860;22;338;21;;;1249;45;114;49;22
+60804;Lubelskie;gm. Jeziorzany;2269;887;12;138;6;;;675;10;20;21;5
+60805;Lubelskie;gm. Kamionka;5168;2061;46;448;20;;;1294;81;90;71;11
+60806;Lubelskie;gm. Kock;5212;2093;27;328;7;;;1518;39;71;85;18
+60807;Lubelskie;gm. Lubartów;9012;3768;52;834;20;;;2368;133;186;150;25
+60808;Lubelskie;gm. Michów;4976;1961;25;326;15;;;1438;33;66;49;9
+60809;Lubelskie;gm. NiedŸwiada;4981;2073;21;290;5;;;1543;44;82;76;12
+60810;Lubelskie;gm. Ostrów Lubelski;4290;1903;22;399;14;;;1271;37;82;65;13
+60811;Lubelskie;gm. Ostrówek;3121;1248;17;247;3;;;871;14;54;37;5
+60812;Lubelskie;gm. Serniki;3982;1835;20;230;9;;;1383;29;95;57;12
+60813;Lubelskie;gm. Uœcimów;2585;1043;10;209;10;;;728;13;28;28;17
+60901;Lubelskie;gm. Be³¿yce;10695;4488;49;1052;31;;;2890;67;179;178;42
+60902;Lubelskie;gm. Borzechów;3151;1513;19;278;8;;;1069;9;49;73;8
+60903;Lubelskie;gm. Bychawa;9494;3914;46;826;23;;;2606;58;198;123;34
+60904;Lubelskie;gm. Garbów;7224;3251;36;634;17;;;2121;99;162;148;34
+60905;Lubelskie;gm. G³usk;8511;4193;38;1350;27;;;2198;123;217;189;51
+60906;Lubelskie;gm. Jab³onna;6423;2425;16;544;21;;;1592;53;114;77;8
+60907;Lubelskie;gm. Jastków;10843;5562;51;1602;25;;;3213;195;242;194;40
+60908;Lubelskie;gm. Konopnica;10890;5482;41;2183;26;;;2472;192;318;215;35
+60909;Lubelskie;gm. Krzczonów;3818;1602;19;347;8;;;1080;36;44;58;10
+60910;Lubelskie;gm. Niedrzwica Du¿a;9205;4120;71;876;24;;;2580;115;255;161;38
+60911;Lubelskie;gm. Niemce;15288;7244;68;2176;49;;;4027;224;368;276;56
+60912;Lubelskie;gm. Strzy¿ewice;6251;2626;31;664;12;;;1596;61;135;107;20
+60913;Lubelskie;gm. Wojciechów;4764;2006;26;429;12;;;1332;48;86;61;12
+60914;Lubelskie;gm. Wólka;9143;4344;51;1266;26;;;2344;158;269;185;45
+60915;Lubelskie;gm. Wysokie;3884;1684;9;316;14;;;1264;16;31;28;6
+60916;Lubelskie;gm. Zakrzew;2475;1031;6;142;8;;;798;7;27;36;7
+61001;Lubelskie;gm. Cyców;6122;2331;26;498;17;;;1550;57;96;73;14
+61002;Lubelskie;gm. Ludwin;4317;1677;29;356;12;;;1085;41;75;71;8
+61003;Lubelskie;gm. £êczna;18225;8268;73;2155;53;;;4834;275;471;323;84
+61004;Lubelskie;gm. Milejów;7206;2544;35;554;12;;;1635;73;121;102;12
+61005;Lubelskie;gm. Puchaczów;4389;1915;14;348;10;;;1319;45;103;68;8
+61006;Lubelskie;gm. Spiczyn;4494;1659;23;398;9;;;974;35;126;77;17
+61101;Lubelskie;m. £uków;23319;10724;109;2920;80;;;6195;363;514;447;96
+61102;Lubelskie;m. Stoczek £ukowski;2092;964;10;242;8;;;596;30;39;35;4
+61103;Lubelskie;gm. Adamów;4505;1785;28;305;12;;;1262;40;62;70;6
+61104;Lubelskie;gm. Krzywda;8131;3041;57;420;20;;;2236;58;117;122;11
+61105;Lubelskie;gm. £uków;13662;5915;79;765;49;;;4466;88;231;207;30
+61106;Lubelskie;gm. Serokomla;3265;1251;22;146;12;;;954;21;51;39;6
+61107;Lubelskie;gm. Stanin;7587;3062;70;448;23;;;2295;41;87;78;20
+61108;Lubelskie;gm. Stoczek £ukowski;6388;2712;43;262;13;;;2197;35;83;68;11
+61109;Lubelskie;gm. Trzebieszów;5894;3048;39;211;16;;;2539;31;128;72;12
+61110;Lubelskie;gm. Wojcieszków;5429;2085;29;272;18;;;1607;28;51;73;7
+61111;Lubelskie;gm. Wola Mys³owska;3952;1559;30;177;12;;;1211;23;52;47;7
+61201;Lubelskie;gm. Chodel;5267;2092;32;268;3;;;1422;18;88;251;10
+61202;Lubelskie;gm. Józefów nad Wis³¹;5414;2079;23;423;14;;;1366;48;76;112;17
+61203;Lubelskie;gm. Karczmiska;4623;1644;28;411;9;;;1005;40;66;71;14
+61204;Lubelskie;gm. £aziska;4024;1496;19;303;5;;;996;32;62;74;5
+61205;Lubelskie;gm. Opole Lubelskie;14520;5515;76;1330;45;;;3301;215;226;291;31
+61206;Lubelskie;gm. Poniatowa;11615;4924;51;1394;24;;;3009;121;151;148;26
+61207;Lubelskie;gm. Wilków;3718;1533;21;247;13;;;1126;27;45;48;6
+61301;Lubelskie;gm. Dêbowa K³oda;3306;1196;24;319;5;;;722;27;43;51;5
+61302;Lubelskie;gm. Jab³oñ;3099;1373;19;229;8;;;895;24;96;96;6
+61303;Lubelskie;gm. Milanów;3102;1232;28;218;7;;;805;30;56;78;10
+61304;Lubelskie;gm. Parczew;11931;4946;46;1599;45;;;2680;151;204;190;31
+61305;Lubelskie;gm. Podedwórze;1429;598;13;135;2;;;366;8;37;33;4
+61306;Lubelskie;gm. Siemieñ;3755;1455;14;256;9;;;1022;27;53;69;5
+61307;Lubelskie;gm. Sosnowica;2159;841;13;222;6;;;496;23;29;44;8
+61401;Lubelskie;m. Pu³awy;38487;18858;146;7205;176;;;8678;986;831;658;178
+61402;Lubelskie;gm. Baranów;3326;1367;32;217;13;;;928;46;73;53;5
+61403;Lubelskie;gm. Janowiec;3106;1391;20;363;5;;;825;57;52;56;13
+61404;Lubelskie;gm. Kazimierz Dolny;5836;2502;30;742;25;;;1390;98;90;106;21
+61405;Lubelskie;gm. Koñskowola;7246;3202;36;699;21;;;1993;105;166;152;30
+61406;Lubelskie;gm. Kurów;6243;2680;31;543;30;;;1700;92;162;101;21
+61407;Lubelskie;gm. Markuszów;2416;1024;12;185;7;;;679;25;49;56;11
+61408;Lubelskie;gm. Na³êczów;8352;4185;50;1226;33;;;2349;155;194;146;32
+61409;Lubelskie;gm. Pu³awy;9767;4199;62;1016;48;;;2517;176;173;169;38
+61410;Lubelskie;gm. W¹wolnica;3868;1631;31;226;22;;;1100;37;133;70;12
+61411;Lubelskie;gm. ¯yrzyn;5294;2346;45;411;23;;;1613;55;114;70;15
+61501;Lubelskie;m. Radzyñ Podlaski;12670;5785;61;1738;41;;;3244;164;257;215;65
+61502;Lubelskie;gm. Borki;4924;1761;16;338;4;;;1266;41;54;40;2
+61503;Lubelskie;gm. Czemierniki;3535;1585;20;322;10;;;1088;34;63;40;8
+61504;Lubelskie;gm. K¹kolewnica;6553;2686;31;302;9;;;2069;34;107;72;62
+61505;Lubelskie;gm. Komarówka Podlaska;3646;1438;16;282;12;;;957;22;78;61;10
+61506;Lubelskie;gm. Radzyñ Podlaski;6524;2648;27;386;9;;;1992;44;107;73;10
+61507;Lubelskie;gm. Ulan-Majorat;4783;2060;27;216;10;;;1667;20;59;54;7
+61508;Lubelskie;gm. Wohyñ;5598;2029;35;376;12;;;1345;56;98;93;14
+61601;Lubelskie;m. Dêblin;12897;5772;43;1971;56;;;2856;344;250;209;43
+61602;Lubelskie;gm. K³oczew;5691;2540;34;225;16;;;2024;48;87;93;13
+61603;Lubelskie;gm. Nowodwór;3348;1500;30;182;7;;;1165;13;33;66;4
+61604;Lubelskie;gm. Ryki;16629;7231;70;1873;62;;;4285;290;293;330;28
+61605;Lubelskie;gm. Stê¿yca;4283;1864;22;433;11;;;1228;55;45;62;8
+61606;Lubelskie;gm. U³ê¿;2692;1163;25;248;10;;;719;38;45;73;5
+61701;Lubelskie;m. Œwidnik;31153;14956;129;4782;142;;;7499;679;1050;558;117
+61702;Lubelskie;gm. Me³giew;7623;3359;39;817;27;;;2055;89;194;117;21
+61703;Lubelskie;gm. Piaski;8535;3588;37;1018;25;;;2197;82;126;88;15
+61704;Lubelskie;gm. Rybczewice;2911;1232;12;173;7;;;924;17;57;36;6
+61705;Lubelskie;gm. Trawniki;7208;2616;29;473;33;;;1817;66;104;82;12
+61801;Lubelskie;m. Tomaszów Lubelski;15991;7270;70;2242;44;;;3785;233;314;538;44
+61802;Lubelskie;gm. Be³¿ec;2682;991;28;203;8;;;626;39;28;52;7
+61803;Lubelskie;gm. Jarczów;2898;1082;10;152;4;;;824;12;25;48;7
+61804;Lubelskie;gm. Krynice;2754;1098;13;180;5;;;774;16;29;77;4
+61805;Lubelskie;gm. Lubycza Królewska;5028;1527;24;380;13;;;878;36;72;117;7
+61806;Lubelskie;gm. £aszczów;5077;1909;29;388;18;;;1307;55;28;78;6
+61807;Lubelskie;gm. Rachanie;4421;1706;28;192;8;;;1252;30;69;119;8
+61808;Lubelskie;gm. Susiec;6254;2504;26;494;13;;;1737;35;56;129;14
+61809;Lubelskie;gm. Tarnawatka;3205;1275;14;148;11;;;972;21;53;51;5
+61810;Lubelskie;gm. Telatyn;3336;1259;19;193;11;;;878;14;52;82;10
+61811;Lubelskie;gm. Tomaszów Lubelski;9221;3746;41;565;22;;;2594;73;170;270;11
+61812;Lubelskie;gm. Tyszowce;4775;1727;24;278;10;;;1239;29;41;101;5
+61813;Lubelskie;gm. Ulhówek;4024;1369;28;224;7;;;951;35;31;90;3
+61901;Lubelskie;m. W³odawa;11197;4780;55;1963;41;;;2130;210;178;173;30
+61902;Lubelskie;gm. Hanna;2497;947;19;246;5;;;552;27;42;50;6
+61903;Lubelskie;gm. Hañsk;3021;1100;20;321;10;;;635;30;41;34;9
+61904;Lubelskie;gm. Stary Brus;1785;763;6;160;5;;;530;25;17;17;3
+61905;Lubelskie;gm. Urszulin;3418;1473;24;362;7;;;950;36;51;38;5
+61906;Lubelskie;gm. W³odawa;4929;1888;25;606;22;;;1006;59;87;66;17
+61907;Lubelskie;gm. Wola Uhruska;3290;1276;28;351;11;;;768;30;44;36;8
+61908;Lubelskie;gm. Wyryki;2219;809;19;202;10;;;495;21;28;31;3
+62001;Lubelskie;gm. Adamów;4027;1587;18;217;14;;;1191;29;38;78;2
+62002;Lubelskie;gm. Grabowiec;3489;1266;15;161;7;;;961;30;37;54;1
+62003;Lubelskie;gm. Komarów-Osada;4246;1880;41;467;7;;;1205;27;49;72;12
+62004;Lubelskie;gm. Krasnobród;5919;2760;30;379;11;;;2077;54;80;123;6
+62005;Lubelskie;gm. £abunie;5107;2231;21;263;8;;;1669;46;75;142;7
+62006;Lubelskie;gm. Mi¹czyn;4788;1745;34;328;9;;;1222;38;47;63;4
+62007;Lubelskie;gm. Nielisz;4744;1708;22;274;7;;;1221;28;30;119;7
+62008;Lubelskie;gm. Radecznica;4930;2018;27;233;3;;;1562;24;79;86;4
+62009;Lubelskie;gm. Sitno;5466;2261;26;278;14;;;1674;35;72;152;10
+62010;Lubelskie;gm. Skierbieszów;4282;1746;29;209;12;;;1320;32;67;69;8
+62011;Lubelskie;gm. Stary Zamoœæ;4340;1912;29;300;11;;;1369;33;60;101;9
+62012;Lubelskie;gm. Su³ów;3802;1370;16;194;11;;;996;34;46;69;4
+62013;Lubelskie;gm. Szczebrzeszyn;9325;3516;47;660;20;;;2387;100;137;146;19
+62014;Lubelskie;gm. Zamoœæ;18725;8181;79;1805;51;;;4913;256;369;645;63
+62015;Lubelskie;gm. Zwierzyniec;5646;2230;26;626;18;;;1309;82;65;86;18
+66101;Lubelskie;m. Bia³a Podlaska;45553;21013;134;8490;101;;;10090;536;974;569;119
+66201;Lubelskie;m. Che³m;51246;22179;215;8235;151;;;10580;986;968;921;123
+66301;Lubelskie;m. Lublin;262001;135599;837;57378;1179;;;57754;5734;6956;4504;1257
+66401;Lubelskie;m. Zamoœæ;51665;22754;193;7696;165;;;11188;923;871;1587;131
+80101;Lubuskie;m. Kostrzyn nad Odr¹;13364;5661;56;2819;72;;;1810;492;252;160;
+80102;Lubuskie;gm. Bogdaniec;5456;2153;21;897;24;;;963;143;55;50;
+80103;Lubuskie;gm. Deszczno;7433;2899;24;1182;31;;;1287;191;90;94;
+80104;Lubuskie;gm. K³odawa;6599;3291;35;1753;38;;;1016;221;144;84;
+80105;Lubuskie;gm. Lubiszyn;5353;1891;15;777;24;;;789;155;68;63;
+80106;Lubuskie;gm. Santok;6695;2535;21;1108;25;;;1035;178;97;71;
+80107;Lubuskie;gm. Witnica;9924;3318;51;1208;39;;;1514;254;141;111;
+80201;Lubuskie;m. Gubin;12801;4956;42;2651;67;;;1348;448;213;187;
+80202;Lubuskie;gm. Bobrowice;2595;897;16;359;7;;;379;52;38;46;
+80203;Lubuskie;gm. Bytnica;1986;575;8;215;14;;;254;39;24;21;
+80204;Lubuskie;gm. D¹bie;3922;1177;28;416;9;;;544;71;47;62;
+80205;Lubuskie;gm. Gubin;5779;1746;18;639;30;;;738;140;77;104;
+80206;Lubuskie;gm. Krosno Odrzañskie;14123;5545;56;2755;56;;;1942;343;207;186;
+80207;Lubuskie;gm. Maszewo;2251;661;8;231;5;;;343;38;18;18;
+80301;Lubuskie;gm. Bledzew;3518;1213;20;555;13;;;518;44;31;32;
+80302;Lubuskie;gm. Miêdzyrzecz;19997;8041;69;4109;95;;;2648;557;288;275;
+80303;Lubuskie;gm. Przytoczna;4435;1574;26;697;16;;;621;100;47;67;
+80304;Lubuskie;gm. Pszczew;3447;1347;31;518;18;;;569;90;75;46;
+80305;Lubuskie;gm. Skwierzyna;9706;3816;59;1737;54;;;1435;272;136;123;
+80306;Lubuskie;gm. Trzciel;5157;1861;32;767;16;;;785;139;61;61;
+80401;Lubuskie;m. Nowa Sól;29571;13024;73;6355;112;;;4787;797;501;399;
+80402;Lubuskie;gm. Bytom Odrzañski;4252;1621;18;727;18;;;627;108;67;56;
+80403;Lubuskie;gm. Kolsko;2689;933;15;303;14;;;478;53;37;33;
+80404;Lubuskie;gm. Ko¿uchów;12420;4421;38;1903;48;;;1867;276;163;126;
+80405;Lubuskie;gm. Nowa Sól;5496;2098;26;797;20;;;987;102;95;71;
+80406;Lubuskie;gm. Nowe Miasteczko;4221;1470;16;498;14;;;786;73;34;49;
+80407;Lubuskie;gm. Otyñ;5435;2054;31;894;18;;;852;101;82;76;
+80408;Lubuskie;gm. Siedlisko;2742;870;3;289;5;;;476;53;23;21;
+80501;Lubuskie;gm. Cybinka;5205;1665;25;664;12;;;751;99;56;58;
+80502;Lubuskie;gm. Górzyca;3295;1056;27;371;12;;;489;59;50;48;
+80503;Lubuskie;gm. Oœno Lubuskie;5022;1805;33;859;28;;;642;109;70;64;
+80504;Lubuskie;gm. Rzepin;7566;2782;33;1285;26;;;1090;188;90;70;
+80505;Lubuskie;gm. S³ubice;15116;6030;50;3327;57;;;1717;491;226;162;
+80601;Lubuskie;gm. Dobiegniew;5332;1907;21;773;21;;;865;105;58;64;
+80602;Lubuskie;gm. Drezdenko;13593;5024;53;2146;49;;;2187;275;184;130;
+80603;Lubuskie;gm. Stare Kurowo;3221;951;16;374;14;;;458;45;22;22;
+80604;Lubuskie;gm. Strzelce Krajeñskie;13379;4893;45;2401;64;;;1842;290;137;114;
+80605;Lubuskie;gm. Zwierzyn;3440;1031;15;352;12;;;514;68;29;41;
+80701;Lubuskie;gm. Krzeszyce;3722;1320;17;511;12;;;624;47;74;35;
+80702;Lubuskie;gm. Lubniewice;2589;936;10;396;17;;;392;78;25;18;
+80703;Lubuskie;gm. S³oñsk;3914;1237;22;472;16;;;583;72;38;34;
+80704;Lubuskie;gm. Sulêcin;12078;4773;53;1954;59;;;2101;281;186;139;
+80705;Lubuskie;gm. Torzym;5325;1692;20;683;21;;;680;149;71;68;
+80801;Lubuskie;gm. Lubrza;2816;952;7;405;10;;;372;83;42;33;
+80802;Lubuskie;gm. £agów;4105;1418;12;616;27;;;559;72;77;55;
+80803;Lubuskie;gm. Sk¹pe;4030;1425;19;622;19;;;550;106;69;40;
+80804;Lubuskie;gm. Szczaniec;3131;1170;17;360;18;;;613;73;45;44;
+80805;Lubuskie;gm. Œwiebodzin;22949;9239;66;4314;125;;;3447;591;409;287;
+80806;Lubuskie;gm. Zb¹szynek;6486;2724;22;1309;45;;;937;199;89;123;
+80901;Lubuskie;gm. Babimost;4905;1971;17;937;30;;;719;114;79;75;
+80902;Lubuskie;gm. Bojad³a;2637;842;16;332;12;;;350;55;41;36;
+80903;Lubuskie;gm. Czerwieñsk;7691;2994;24;1390;35;;;1084;231;134;96;
+80904;Lubuskie;gm. Kargowa;4638;1673;16;829;17;;;601;114;39;57;
+80905;Lubuskie;gm. Nowogród Bobrzañski;8075;2912;50;1297;37;;;1066;224;111;127;
+80906;Lubuskie;gm. Sulechów;20109;8443;63;4090;100;;;2913;631;372;274;
+80907;Lubuskie;gm. Œwidnica;5176;2301;17;1233;36;;;704;195;60;56;
+80908;Lubuskie;gm. Trzebiechów;2585;800;23;322;12;;;323;57;40;23;
+80909;Lubuskie;gm. Zabór;3301;1403;15;754;19;;;384;134;53;44;
+81001;Lubuskie;m. Gozdnica;2470;810;3;316;14;;;360;69;30;18;
+81002;Lubuskie;m. ¯agañ;19756;8160;45;4089;97;;;2806;585;297;241;
+81003;Lubuskie;gm. BrzeŸnica;2917;1029;19;316;13;;;545;48;52;36;
+81004;Lubuskie;gm. I³owa;5426;1861;20;670;31;;;866;153;61;60;
+81005;Lubuskie;gm. Ma³omice;4157;1483;15;752;8;;;565;59;49;35;
+81006;Lubuskie;gm. Niegos³awice;3493;1150;13;289;13;;;718;46;34;37;
+81007;Lubuskie;gm. Szprotawa;16301;5527;34;2280;58;;;2510;280;190;175;
+81008;Lubuskie;gm. Wymiarki;1831;545;6;179;9;;;285;31;20;15;
+81009;Lubuskie;gm. ¯agañ;5654;1852;18;780;25;;;755;124;74;76;
+81101;Lubuskie;m. £êknica;1941;718;10;349;14;;;220;54;45;26;
+81102;Lubuskie;m. ¯ary;29221;12211;61;5839;152;;;4240;986;497;436;
+81103;Lubuskie;gm. Brody;2658;830;9;296;7;;;329;49;25;115;
+81104;Lubuskie;gm. Jasieñ;5541;1735;19;731;30;;;703;109;87;56;
+81105;Lubuskie;gm. Lipinki £u¿yckie;2580;823;13;291;15;;;359;64;44;37;
+81106;Lubuskie;gm. Lubsko;14568;5089;43;2265;79;;;1848;382;262;210;
+81107;Lubuskie;gm. Przewóz;2482;865;8;234;14;;;466;68;40;35;
+81108;Lubuskie;gm. Trzebiel;4537;1405;23;457;22;;;664;113;59;67;
+81109;Lubuskie;gm. Tuplice;2461;753;12;348;9;;;250;62;31;41;
+81110;Lubuskie;gm. ¯ary;9601;3370;28;1255;45;;;1498;248;141;155;
+81201;Lubuskie;gm. S³awa;10015;3685;39;1425;49;;;1667;266;138;101;
+81202;Lubuskie;gm. Szlichtyngowa;3962;1384;18;329;14;;;856;67;57;43;
+81203;Lubuskie;gm. Wschowa;16558;5907;68;2032;78;;;3015;308;224;182;
+86101;Lubuskie;m. Gorzów Wielkopolski;93916;43841;230;21935;509;;;14986;3292;1762;1127;
+86201;Lubuskie;m. Zielona Góra;106022;55049;243;31220;521;;;14836;4574;2007;1648;
+100101;Lodzkie;m. Be³chatów;45685;21467;161;5756;421;;;11775;914;1674;766;
+100102;Lodzkie;gm. Be³chatów;9116;4334;21;716;71;;;2901;148;287;190;
+100103;Lodzkie;gm. Dru¿bice;4320;1786;15;324;20;;;1230;73;73;51;
+100104;Lodzkie;gm. Kleszczów;4577;1790;21;340;41;;;1103;72;137;76;
+100105;Lodzkie;gm. Kluki;3565;1491;10;216;21;;;1078;59;71;36;
+100106;Lodzkie;gm. Rusiec;4224;1991;19;303;44;;;1377;52;73;123;
+100107;Lodzkie;gm. Szczerców;6595;2975;44;512;58;;;1960;95;170;136;
+100108;Lodzkie;gm. Zelów;11948;5014;59;974;98;;;3249;207;224;203;
+100201;Lodzkie;m. Kutno;36239;16302;149;6533;309;;;7257;922;585;547;
+100202;Lodzkie;gm. Bedlno;4544;1650;17;351;44;;;1050;50;69;69;
+100203;Lodzkie;gm. D¹browice;1626;602;15;110;15;;;407;23;16;16;
+100204;Lodzkie;gm. Kroœniewice;6828;2421;33;649;52;;;1428;104;68;87;
+100205;Lodzkie;gm. Krzy¿anów;3452;1281;24;295;21;;;828;37;37;39;
+100206;Lodzkie;gm. Kutno;7020;2788;24;775;52;;;1572;133;115;117;
+100207;Lodzkie;gm. £aniêta;1910;613;4;100;15;;;420;20;28;26;
+100208;Lodzkie;gm. Nowe Ostrowy;2888;1003;13;247;19;;;602;47;34;41;
+100209;Lodzkie;gm. Oporów;2068;780;5;141;14;;;557;22;23;18;
+100210;Lodzkie;gm. Strzelce;3211;1224;21;249;20;;;829;37;26;42;
+100211;Lodzkie;gm. ¯ychlin;9812;3684;52;1249;68;;;1849;226;132;108;
+100301;Lodzkie;gm. Buczek;4063;1777;18;425;41;;;1069;77;64;83;
+100302;Lodzkie;gm. £ask;22461;10096;86;3738;171;;;4621;679;443;358;
+100303;Lodzkie;gm. Sêdziejowice;5234;2201;14;504;34;;;1420;74;100;55;
+100304;Lodzkie;gm. Widawa;6265;2582;29;484;44;;;1741;98;96;90;
+100305;Lodzkie;gm. Wodzierady;2794;1234;20;403;26;;;639;69;36;41;
+100401;Lodzkie;m. £êczyca;11530;4882;51;2226;126;;;1827;283;211;158;
+100402;Lodzkie;gm. Daszyna;3251;1041;11;201;16;;;714;33;32;34;
+100403;Lodzkie;gm. Góra Œwiêtej Ma³gorzaty;3593;1346;24;200;25;;;975;36;51;35;
+100404;Lodzkie;gm. Grabów;4982;1725;12;313;43;;;1205;51;52;49;
+100405;Lodzkie;gm. £êczyca;7817;2756;38;579;57;;;1796;91;93;102;
+100406;Lodzkie;gm. Pi¹tek;4932;1887;14;389;25;;;1308;45;56;50;
+100407;Lodzkie;gm. Œwinice Warckie;3238;1234;12;300;23;;;790;45;35;29;
+100408;Lodzkie;gm. Witonia;2722;1017;21;201;17;;;652;38;45;43;
+100501;Lodzkie;m. £owicz;23458;10923;108;4332;159;;;4854;535;421;514;
+100502;Lodzkie;gm. Bielawy;4552;1723;25;387;26;;;1127;41;61;56;
+100503;Lodzkie;gm. Ch¹œno;2428;1007;12;212;15;;;659;8;51;50;
+100504;Lodzkie;gm. Domaniewice;3702;1563;15;311;19;;;1012;43;85;78;
+100505;Lodzkie;gm. Kiernozia;2790;1115;20;211;16;;;768;14;41;45;
+100506;Lodzkie;gm. Kocierzew Po³udniowy;3474;1517;15;218;18;;;1127;18;43;78;
+100507;Lodzkie;gm. £owicz;6224;2680;15;613;45;;;1672;87;103;145;
+100508;Lodzkie;gm. £yszkowice;5355;1982;31;377;32;;;1349;50;62;81;
+100509;Lodzkie;gm. Nieborów;7604;3343;29;736;54;;;2089;137;126;172;
+100510;Lodzkie;gm. Zduny;4684;1934;23;561;27;;;1106;50;75;92;
+100602;Lodzkie;gm. Andrespol;11007;5893;38;2391;133;;;2450;360;258;263;
+100603;Lodzkie;gm. Brójce;5231;2684;16;844;36;;;1478;108;100;102;
+100607;Lodzkie;gm. Koluszki;18578;9169;60;3266;184;;;4383;481;427;368;
+100608;Lodzkie;gm. Nowosolna;3950;2321;22;1204;41;;;732;158;89;75;
+100610;Lodzkie;gm. Rzgów;7935;4280;24;1561;52;;;2060;212;222;149;
+100611;Lodzkie;gm. Tuszyn;9990;4515;30;1570;102;;;2212;239;207;155;
+100701;Lodzkie;gm. Bia³aczów;4744;1863;14;314;35;;;1334;53;69;44;
+100702;Lodzkie;gm. Drzewica;8622;4129;44;636;82;;;2981;101;133;152;
+100703;Lodzkie;gm. Mniszków;3833;1730;21;260;17;;;1314;33;45;40;
+100704;Lodzkie;gm. Opoczno;27303;13004;120;3179;242;;;7858;451;545;609;
+100705;Lodzkie;gm. Parady¿;3529;1955;21;142;21;;;1653;18;50;50;
+100706;Lodzkie;gm. Poœwiêtne;2687;1343;16;184;15;;;1012;22;53;41;
+100707;Lodzkie;gm. S³awno;6024;2726;26;352;46;;;2069;35;95;103;
+100708;Lodzkie;gm. ¯arnów;5025;2219;19;355;39;;;1586;58;81;81;
+100801;Lodzkie;m. Konstantynów £ódzki;14560;7211;49;3156;116;;;2723;477;338;352;
+100802;Lodzkie;m. Pabianice;51786;25656;180;11260;504;;;9759;2078;1089;786;
+100803;Lodzkie;gm. D³utów;3714;1609;10;484;24;;;883;93;66;49;
+100804;Lodzkie;gm. Dobroñ;6100;3007;28;1040;54;;;1391;216;135;143;
+100805;Lodzkie;gm. Ksawerów;6127;3185;28;1321;52;;;1263;224;164;133;
+100806;Lodzkie;gm. Lutomiersk;6677;2995;15;1172;55;;;1277;193;142;141;
+100807;Lodzkie;gm. Pabianice;5616;2909;23;1008;50;;;1386;181;128;133;
+100901;Lodzkie;gm. Dzia³oszyn;10115;4291;44;1001;62;;;2395;173;172;444;
+100902;Lodzkie;gm. Kie³czyg³ów;3411;1546;18;181;20;;;1186;42;44;55;
+100903;Lodzkie;gm. Nowa BrzeŸnica;3819;1540;13;305;32;;;1027;55;47;61;
+100904;Lodzkie;gm. Pajêczno;9521;3942;27;1022;61;;;2304;182;143;203;
+100905;Lodzkie;gm. Rz¹œnia;3974;1846;18;249;30;;;1348;59;82;60;
+100906;Lodzkie;gm. Siemkowice;3951;1594;24;271;28;;;1075;53;56;87;
+100907;Lodzkie;gm. Strzelce Wielkie;3758;1493;13;210;17;;;1075;45;53;80;
+100908;Lodzkie;gm. Sulmierzyce;3687;1693;25;276;31;;;1160;47;71;83;
+101001;Lodzkie;gm. Aleksandrów;3751;1643;25;289;31;;;1158;39;51;50;
+101002;Lodzkie;gm. Czarnocin;3277;1491;10;293;15;;;990;51;80;52;
+101003;Lodzkie;gm. Gorzkowice;6892;2916;25;508;52;;;2049;78;110;94;
+101004;Lodzkie;gm. Grabica;4789;1985;14;292;32;;;1473;46;66;62;
+101005;Lodzkie;gm. £êki Szlacheckie;2905;1039;7;153;19;;;761;27;22;50;
+101006;Lodzkie;gm. Moszczenica;10242;4527;40;853;71;;;2984;161;223;195;
+101007;Lodzkie;gm. Rêczno;2983;1318;17;250;25;;;883;31;53;59;
+101008;Lodzkie;gm. Rozprza;9607;3896;43;711;64;;;2700;98;119;161;
+101009;Lodzkie;gm. Sulejów;13056;5903;50;1501;108;;;3543;242;226;233;
+101010;Lodzkie;gm. Wola Krzysztoporska;9372;4142;42;566;47;;;3083;102;142;160;
+101011;Lodzkie;gm. Wolbórz;6332;3084;20;708;65;;;1875;122;171;123;
+101101;Lodzkie;gm. Dalików;3175;1315;12;360;21;;;785;49;40;48;
+101102;Lodzkie;gm. Pêczniew;2890;1226;13;297;21;;;773;47;46;29;
+101103;Lodzkie;gm. Poddêbice;12673;5273;69;1915;95;;;2584;252;192;166;
+101104;Lodzkie;gm. Uniejów;5799;2550;25;656;48;;;1568;82;81;90;
+101105;Lodzkie;gm. Wartkowice;5062;1620;16;305;55;;;1057;64;73;50;
+101106;Lodzkie;gm. Zadzim;4184;1723;22;441;38;;;1043;56;55;68;
+101201;Lodzkie;m. Radomsko;37288;15808;89;5927;262;;;7103;1379;529;519;
+101202;Lodzkie;gm. Dobryszyce;3481;1396;14;381;24;;;771;73;70;63;
+101203;Lodzkie;gm. Gidle;5136;1960;20;482;53;;;1151;84;85;85;
+101204;Lodzkie;gm. Gomunice;4731;2079;30;498;37;;;1257;101;82;74;
+101205;Lodzkie;gm. Kamieñsk;4773;2151;24;358;19;;;1516;73;85;76;
+101206;Lodzkie;gm. Kobiele Wielkie;3558;1290;17;346;21;;;732;80;43;51;
+101207;Lodzkie;gm. Kodr¹b;3780;1377;15;301;30;;;866;61;54;50;
+101208;Lodzkie;gm. Lgota Wielka;3480;1426;18;263;28;;;970;55;50;42;
+101209;Lodzkie;gm. £adzice;3898;1367;15;303;18;;;868;73;44;46;
+101210;Lodzkie;gm. Mas³owice;3464;1367;15;251;34;;;922;55;33;57;
+101211;Lodzkie;gm. Przedbórz;6008;2332;42;448;32;;;1414;64;83;249;
+101212;Lodzkie;gm. Radomsko;4447;1777;9;427;25;;;1020;134;89;73;
+101213;Lodzkie;gm. Wielgom³yny;3776;1398;24;197;26;;;1016;55;40;40;
+101214;Lodzkie;gm. ¯ytno;4311;1709;23;272;43;;;1205;56;42;68;
+101301;Lodzkie;m. Rawa Mazowiecka;13767;6569;47;2287;137;;;3264;289;295;250;
+101302;Lodzkie;gm. Bia³a Rawska;9155;3454;40;694;73;;;2173;112;237;125;
+101303;Lodzkie;gm. Ciel¹dz;3219;1228;19;142;20;;;925;21;62;39;
+101304;Lodzkie;gm. Rawa Mazowiecka;6945;2763;28;509;56;;;1876;81;124;89;
+101305;Lodzkie;gm. Regnów;1491;608;12;78;13;;;462;16;17;10;
+101306;Lodzkie;gm. Sadkowice;4481;1722;23;204;32;;;1190;34;180;59;
+101401;Lodzkie;m. Sieradz;34607;16608;148;6510;412;;;7124;1037;818;559;
+101402;Lodzkie;gm. B³aszki;11762;4553;67;1062;66;;;2926;140;163;129;
+101403;Lodzkie;gm. Br¹szewice;3554;1501;12;173;30;;;1118;28;70;70;
+101404;Lodzkie;gm. BrzeŸnio;5066;2096;17;541;39;;;1277;74;78;70;
+101405;Lodzkie;gm. Burzenin;4460;1725;35;355;31;;;1064;106;71;63;
+101406;Lodzkie;gm. Goszczanów;4388;1482;12;244;27;;;1054;44;45;56;
+101407;Lodzkie;gm. Klonowa;2316;926;8;162;6;;;673;32;20;25;
+101408;Lodzkie;gm. Sieradz;8325;3596;34;795;58;;;2303;146;140;120;
+101409;Lodzkie;gm. Warta;10274;4035;62;875;100;;;2553;159;153;133;
+101410;Lodzkie;gm. Wróblew;4925;2037;26;359;35;;;1369;75;93;80;
+101411;Lodzkie;gm. Z³oczew;5870;2326;27;457;40;;;1556;89;71;86;
+101501;Lodzkie;gm. Bolimów;3183;1270;16;295;30;;;754;62;62;51;
+101502;Lodzkie;gm. G³uchów;4678;2341;25;290;30;;;1820;36;70;70;
+101503;Lodzkie;gm. Godzianów;2098;962;9;102;21;;;716;32;37;45;
+101504;Lodzkie;gm. Kowiesy;2402;997;9;213;27;;;604;43;49;52;
+101505;Lodzkie;gm. Lipce Reymontowskie;2664;1154;10;198;29;;;813;33;38;33;
+101506;Lodzkie;gm. Maków;4856;1986;26;338;36;;;1325;62;99;100;
+101507;Lodzkie;gm. Nowy Kawêczyn;2817;1188;20;253;28;;;753;38;56;40;
+101508;Lodzkie;gm. Skierniewice;5851;2436;28;563;60;;;1526;86;87;86;
+101509;Lodzkie;gm. S³upia;2051;902;10;119;11;;;675;30;33;24;
+101601;Lodzkie;m. Tomaszów Mazowiecki;48920;22562;162;8759;456;;;10153;1320;848;864;
+101602;Lodzkie;gm. Bêdków;2713;1219;10;254;23;;;807;31;56;38;
+101603;Lodzkie;gm. Budziszewice;1716;767;13;167;22;;;475;25;39;26;
+101604;Lodzkie;gm. Czerniewice;4115;1689;25;294;24;;;1195;43;43;65;
+101605;Lodzkie;gm. Inow³ódz;3233;1481;19;417;36;;;828;65;67;49;
+101606;Lodzkie;gm. Lubochnia;5575;2385;24;444;44;;;1638;44;103;88;
+101607;Lodzkie;gm. Rokiciny;4930;2188;16;531;53;;;1323;111;75;79;
+101608;Lodzkie;gm. Rzeczyca;3899;1547;28;234;32;;;1119;45;56;33;
+101609;Lodzkie;gm. Tomaszów Mazowiecki;8731;3968;39;1054;81;;;2313;159;141;181;
+101610;Lodzkie;gm. Ujazd;6206;2720;34;725;45;;;1593;106;95;122;
+101611;Lodzkie;gm. ¯elechlinek;2687;1245;17;270;24;;;851;12;42;29;
+101701;Lodzkie;gm. Bia³a;4453;1686;26;333;33;;;1123;64;39;68;
+101702;Lodzkie;gm. Czarno¿y³y;3642;1565;15;370;30;;;992;62;38;58;
+101703;Lodzkie;gm. Konopnica;3144;1366;24;358;29;;;807;51;52;45;
+101704;Lodzkie;gm. Mokrsko;4345;1881;28;406;63;;;1163;67;72;82;
+101705;Lodzkie;gm. Osjaków;3815;1721;22;310;39;;;1156;58;61;75;
+101706;Lodzkie;gm. Ostrówek;3646;1437;21;313;32;;;937;57;46;31;
+101707;Lodzkie;gm. P¹tnów;5263;2284;25;352;47;;;1634;90;54;82;
+101708;Lodzkie;gm. Skomlin;2620;1110;13;292;23;;;643;51;46;42;
+101709;Lodzkie;gm. Wieluñ;25671;11744;76;4461;231;;;5362;750;426;438;
+101710;Lodzkie;gm. Wierzchlas;5457;2101;25;504;40;;;1285;104;58;85;
+101801;Lodzkie;gm. Boles³awiec;3305;1276;14;294;16;;;749;73;75;55;
+101802;Lodzkie;gm. Czastary;3176;1232;18;258;19;;;789;52;40;56;
+101803;Lodzkie;gm. Galewice;4961;1785;21;360;42;;;1116;74;97;75;
+101804;Lodzkie;gm. Lututów;3665;1478;26;319;25;;;935;65;44;64;
+101805;Lodzkie;gm. £ubnice;3338;1242;21;321;19;;;757;41;40;43;
+101806;Lodzkie;gm. Sokolniki;4007;1702;17;412;31;;;1027;57;81;77;
+101807;Lodzkie;gm. Wieruszów;11490;5070;54;1696;82;;;2484;310;224;220;
+101901;Lodzkie;m. Zduñska Wola;32965;15469;99;5805;242;;;7151;940;696;536;
+101902;Lodzkie;gm. Szadek;5939;2403;21;654;41;;;1413;113;81;80;
+101903;Lodzkie;gm. Zapolice;4155;1559;19;373;31;;;941;85;58;52;
+101904;Lodzkie;gm. Zduñska Wola;9509;4090;41;1032;73;;;2410;207;166;161;
+102001;Lodzkie;m. G³owno;11602;5172;41;2190;106;;;2153;312;168;202;
+102002;Lodzkie;m. Ozorków;15293;6858;52;2564;141;;;3120;450;282;249;
+102003;Lodzkie;m. Zgierz;44500;21649;150;9516;524;;;8417;1499;846;697;
+102004;Lodzkie;gm. Aleksandrów £ódzki;24529;12485;88;6204;230;;;4263;766;486;448;
+102005;Lodzkie;gm. G³owno;3927;1598;11;323;30;;;1072;38;55;69;
+102006;Lodzkie;gm. Ozorków;5700;2730;28;778;40;;;1583;118;105;78;
+102007;Lodzkie;gm. Parzêczew;4198;1946;16;680;32;;;955;108;90;65;
+102008;Lodzkie;gm. Stryków;10155;4872;30;1899;73;;;2186;286;228;170;
+102009;Lodzkie;gm. Zgierz;11484;6000;40;2426;110;;;2639;334;219;232;
+102101;Lodzkie;m. Brzeziny;9986;4296;41;1440;100;;;2131;234;152;198;
+102102;Lodzkie;gm. Brzeziny;4524;2071;17;566;40;;;1183;87;87;91;
+102103;Lodzkie;gm. Dmosin;3689;1641;23;438;21;;;964;79;52;64;
+102104;Lodzkie;gm. Je¿ów;2745;1197;16;249;26;;;792;32;46;36;
+102105;Lodzkie;gm. Rogów;3776;1647;14;432;33;;;969;64;70;65;
+106101;Lodzkie;m. £ódŸ;530752;282908;1381;151976;5775;;;85179;19212;11281;8104;
+106201;Lodzkie;m. Piotrków Trybunalski;58353;27639;173;10586;588;;;12346;1572;1253;1121;
+106301;Lodzkie;m. Skierniewice;37368;18450;162;7636;403;;;7546;1088;845;770;
+120101;Malopolskie;m. Bochnia;23205;11590;56;3660;119;43;;5971;604;517;502;118
+120102;Malopolskie;gm. Bochnia;15589;7168;81;1207;47;18;;4937;229;308;288;53
+120103;Malopolskie;gm. Drwinia;5273;2616;35;281;11;7;;2034;58;76;107;7
+120104;Malopolskie;gm. Lipnica Murowana;4417;2109;15;260;11;4;;1695;25;46;47;6
+120105;Malopolskie;gm. £apanów;6349;2867;45;451;21;10;;2007;79;115;125;14
+120106;Malopolskie;gm. Nowy Wiœnicz;11043;5559;74;766;29;21;;4142;135;187;178;27
+120107;Malopolskie;gm. Rzezawa;8817;4157;31;537;27;9;;3076;107;184;162;24
+120108;Malopolskie;gm. Trzciana;4321;2281;14;242;6;6;;1842;19;69;70;13
+120109;Malopolskie;gm. ¯egocina;4188;2440;11;212;11;7;;2027;26;84;52;10
+120201;Malopolskie;gm. Borzêcin;6778;2839;35;366;17;15;;2064;61;140;122;19
+120202;Malopolskie;gm. Brzesko;28853;13261;103;3274;91;44;;7895;405;819;533;97
+120203;Malopolskie;gm. Czchów;7695;3582;48;549;19;10;;2575;67;144;151;19
+120204;Malopolskie;gm. Dêbno;11535;5459;55;850;32;23;;3819;149;258;229;44
+120205;Malopolskie;gm. Gnojnik;6148;2933;43;259;14;8;;2334;50;119;90;16
+120206;Malopolskie;gm. Iwkowa;4965;2597;23;257;8;7;;2124;27;87;59;5
+120207;Malopolskie;gm. Szczurowa;7714;2995;34;411;19;19;;2169;79;122;132;10
+120301;Malopolskie;gm. Alwernia;10186;4560;32;1237;46;21;;2533;256;185;217;33
+120302;Malopolskie;gm. Babice;7402;3407;54;855;33;14;;1926;166;149;187;23
+120303;Malopolskie;gm. Chrzanów;36972;17276;125;6738;262;80;;7087;1320;749;758;157
+120304;Malopolskie;gm. Libi¹¿;17716;8451;82;2539;109;36;;4503;410;299;397;76
+120305;Malopolskie;gm. Trzebinia;27083;12570;111;4304;152;68;;5670;928;560;659;118
+120401;Malopolskie;gm. Boles³aw;2286;745;9;133;5;2;;534;7;27;27;1
+120402;Malopolskie;gm. D¹browa Tarnowska;16795;7323;69;1331;46;21;;5166;141;301;202;46
+120403;Malopolskie;gm. Grêboszów;2811;1085;10;193;8;4;;801;10;31;23;5
+120404;Malopolskie;gm. Mêdrzechów;2876;1128;22;202;12;3;;766;19;45;55;4
+120405;Malopolskie;gm. Olesno;6367;2621;27;276;19;5;;2045;43;114;84;8
+120406;Malopolskie;gm. Radgoszcz;5929;2693;23;210;19;4;;2220;42;98;71;6
+120407;Malopolskie;gm. Szczucin;10550;4172;63;585;29;11;;3019;91;136;217;21
+120501;Malopolskie;m. Gorlice;22346;10316;84;3134;94;32;;5223;399;387;723;240
+120502;Malopolskie;gm. Biecz;13644;5898;48;809;48;11;;4238;151;188;352;53
+120503;Malopolskie;gm. Bobowa;7471;3511;35;355;9;6;;2831;53;94;114;14
+120504;Malopolskie;gm. Gorlice;13816;6126;66;975;29;16;;4040;153;245;537;65
+120505;Malopolskie;gm. Lipinki;5503;2433;22;294;22;8;;1763;34;74;203;13
+120506;Malopolskie;gm. £u¿na;6644;2882;36;385;20;6;;2099;53;122;146;15
+120507;Malopolskie;gm. Moszczenica;3870;1627;18;153;6;2;;1263;12;61;103;9
+120508;Malopolskie;gm. Ropa;4155;1974;17;229;12;8;;1501;39;66;91;11
+120509;Malopolskie;gm. Sêkowa;4081;1779;10;434;5;4;;1047;59;57;143;20
+120510;Malopolskie;gm. Uœcie Gorlickie;5536;2183;23;591;22;12;;1205;121;92;88;29
+120601;Malopolskie;gm. Czernichów;11445;5180;57;1211;39;13;;3128;244;225;228;35
+120602;Malopolskie;gm. Igo³omia-Wawrzeñczyce;6205;2405;22;454;20;2;;1605;73;76;145;8
+120603;Malopolskie;gm. Iwanowice;7214;3438;25;664;28;10;;2274;125;148;136;28
+120604;Malopolskie;gm. Jerzmanowice-Przeginia;8840;4187;51;752;66;14;;2725;137;231;175;36
+120605;Malopolskie;gm. Kocmyrzów-Luborzyca;12115;5685;54;1554;43;21;;3157;300;229;284;43
+120606;Malopolskie;gm. Krzeszowice;25664;12452;100;3809;138;53;;6377;695;562;624;94
+120607;Malopolskie;gm. Liszki;13281;6501;49;1421;36;18;;4105;261;310;270;31
+120608;Malopolskie;gm. Micha³owice;8003;4242;25;1502;36;6;;2013;248;203;176;33
+120609;Malopolskie;gm. Mogilany;10787;5787;41;1907;45;10;;2908;298;262;261;55
+120610;Malopolskie;gm. Ska³a;8408;4158;46;961;31;15;;2534;190;205;144;32
+120611;Malopolskie;gm. Skawina;33720;15924;135;4594;191;72;;8473;850;796;644;169
+120612;Malopolskie;gm. S³omniki;10897;4841;41;909;35;23;;3140;200;221;240;32
+120613;Malopolskie;gm. Su³oszowa;4663;2299;20;348;17;9;;1703;61;64;60;17
+120614;Malopolskie;gm. Œwi¹tniki Górne;7955;3951;39;1090;20;12;;2218;168;202;170;32
+120615;Malopolskie;gm. Wielka Wieœ;9613;5150;44;1781;49;15;;2457;296;250;196;62
+120616;Malopolskie;gm. Zabierzów;20849;11764;86;4357;118;54;;5167;701;628;520;133
+120617;Malopolskie;gm. Zielonki;16476;9226;51;3910;100;27;;3477;677;431;422;131
+120701;Malopolskie;m. Limanowa;11867;6047;42;1353;46;15;;3819;152;289;290;41
+120702;Malopolskie;m. Mszana Dolna;6202;2968;25;649;16;8;;1917;108;100;118;27
+120703;Malopolskie;gm. Dobra;7751;3353;34;444;16;15;;2508;84;131;104;17
+120704;Malopolskie;gm. Jod³ownik;6637;3016;60;321;23;6;;2349;43;93;107;14
+120705;Malopolskie;gm. Kamienica;5997;2705;31;246;16;6;;2166;41;97;88;14
+120706;Malopolskie;gm. Laskowa;6112;3538;37;210;17;6;;3036;21;112;85;14
+120707;Malopolskie;gm. Limanowa;19250;9766;89;956;60;21;;7854;142;298;296;50
+120708;Malopolskie;gm. £ukowica;7483;3638;45;326;17;8;;2920;54;110;145;13
+120709;Malopolskie;gm. Mszana Dolna;13308;6346;63;549;29;10;;5209;108;179;168;31
+120710;Malopolskie;gm. NiedŸwiedŸ;5537;2139;22;221;12;6;;1706;23;70;68;11
+120711;Malopolskie;gm. S³opnice;4924;2475;22;174;5;4;;2054;22;111;75;8
+120712;Malopolskie;gm. Tymbark;5039;2682;20;275;14;10;;2130;54;70;94;15
+120801;Malopolskie;gm. Charsznica;6168;2566;22;502;26;13;;1697;87;107;106;6
+120802;Malopolskie;gm. Go³cza;4971;2220;44;401;15;3;;1529;76;69;71;12
+120803;Malopolskie;gm. Koz³ów;3886;1494;16;166;8;8;;1164;34;42;51;5
+120804;Malopolskie;gm. Ksi¹¿ Wielki;4243;1886;19;328;15;9;;1335;54;47;68;11
+120805;Malopolskie;gm. Miechów;15901;7034;64;1870;96;23;;3945;363;321;296;56
+120806;Malopolskie;gm. Rac³awice;2090;792;7;132;4;0;;581;19;25;21;3
+120807;Malopolskie;gm. S³aboszów;2935;1117;17;183;8;3;;800;32;34;35;5
+120901;Malopolskie;gm. Dobczyce;11731;5733;50;1200;49;23;;3530;214;322;304;41
+120902;Malopolskie;gm. Lubieñ;7699;3706;38;434;20;4;;2857;74;133;113;33
+120903;Malopolskie;gm. Myœlenice;34230;17664;143;4287;147;50;;10619;685;796;791;146
+120904;Malopolskie;gm. Pcim;8617;4534;67;565;28;11;;3390;103;151;180;39
+120905;Malopolskie;gm. Raciechowice;5071;2154;22;335;22;7;;1528;69;72;88;11
+120906;Malopolskie;gm. Siepraw;6901;3370;28;682;24;8;;2194;106;129;139;60
+120907;Malopolskie;gm. Su³kowice;11491;5129;54;987;42;12;;3372;196;210;212;44
+120908;Malopolskie;gm. Tokarnia;6730;3506;26;327;16;8;;2824;58;117;113;17
+120909;Malopolskie;gm. Wiœniowa;5681;2955;22;287;9;12;;2303;66;116;128;12
+121001;Malopolskie;m. Grybów;4797;2464;15;423;18;4;;1728;62;119;84;11
+121002;Malopolskie;gm. Che³miec;21816;11034;75;1441;42;25;;8323;265;424;385;54
+121003;Malopolskie;gm. Gródek nad Dunajcem;7163;3345;37;369;16;9;;2643;84;91;76;20
+121004;Malopolskie;gm. Grybów;18911;10304;84;792;32;18;;8492;117;453;277;39
+121005;Malopolskie;gm. Kamionka Wielka;7801;4176;38;416;18;6;;3279;76;167;152;24
+121006;Malopolskie;gm. Korzenna;11135;5747;74;400;29;15;;4831;80;142;156;20
+121007;Malopolskie;gm. Krynica-Zdrój;14650;7284;61;2182;85;42;;4062;248;248;304;52
+121008;Malopolskie;gm. £abowa;4449;2101;26;209;12;7;;1657;37;73;62;18
+121009;Malopolskie;gm. £¹cko;12414;6191;102;639;38;17;;4836;68;211;260;20
+121010;Malopolskie;gm. £ososina Dolna;8275;4342;26;365;15;10;;3668;55;98;96;9
+121011;Malopolskie;gm. Muszyna;9344;4413;64;937;43;34;;2816;175;158;150;36
+121012;Malopolskie;gm. Nawojowa;6442;3167;35;338;13;7;;2502;88;67;90;27
+121013;Malopolskie;gm. Piwniczna-Zdrój;8414;3791;24;596;11;17;;2813;63;126;130;11
+121014;Malopolskie;gm. Podegrodzie;9825;4987;57;430;18;7;;4035;78;160;173;29
+121015;Malopolskie;gm. Rytro;2965;1463;13;191;4;1;;1114;25;57;49;9
+121016;Malopolskie;gm. Stary S¹cz;18419;9304;89;1474;53;28;;6740;208;343;317;52
+121101;Malopolskie;m. Nowy Targ;26236;11645;98;3578;129;59;;5981;547;612;531;110
+121102;Malopolskie;gm. Szczawnica;6025;2786;34;838;26;13;;1544;82;125;108;16
+121103;Malopolskie;gm. Czarny Dunajec;17618;6121;66;634;21;27;;4823;69;250;212;19
+121104;Malopolskie;gm. Czorsztyn;6024;2558;35;510;16;8;;1660;63;104;138;24
+121105;Malopolskie;gm. Jab³onka;14216;6401;60;414;26;12;;5386;72;261;149;21
+121106;Malopolskie;gm. Kroœcienko nad Dunajcem;5368;2421;19;515;18;8;;1574;68;99;103;17
+121107;Malopolskie;gm. Lipnica Wielka;4535;2006;29;149;7;9;;1647;25;53;83;4
+121108;Malopolskie;gm. £apsze Ni¿ne;7335;2817;41;359;35;13;;2093;53;97;107;19
+121109;Malopolskie;gm. Nowy Targ;18657;7313;99;1108;54;43;;5297;148;246;284;34
+121110;Malopolskie;gm. Ochotnica Dolna;6582;3170;40;293;17;7;;2583;48;95;75;12
+121111;Malopolskie;gm. Raba Wy¿na;11338;4800;50;589;21;15;;3608;134;189;170;24
+121112;Malopolskie;gm. Rabka-Zdrój;14249;6611;66;1426;63;26;;4209;233;270;278;40
+121113;Malopolskie;gm. Spytkowice;3515;1481;14;153;4;3;;1158;26;43;75;5
+121114;Malopolskie;gm. Szaflary;8537;3027;58;335;17;13;;2308;42;146;92;16
+121201;Malopolskie;m. Bukowno;8273;3791;26;1299;187;20;;1643;237;152;193;34
+121203;Malopolskie;gm. Boles³aw;6427;2623;28;761;217;8;;1176;176;120;111;26
+121204;Malopolskie;gm. Klucze;12303;5780;56;1704;218;25;;2748;351;213;418;47
+121205;Malopolskie;gm. Olkusz;38943;19078;154;5293;986;58;;9818;1021;801;804;143
+121206;Malopolskie;gm. Trzyci¹¿;5686;2597;30;369;29;8;;1893;68;81;100;19
+121207;Malopolskie;gm. Wolbrom;18552;8343;83;1702;241;25;;5158;324;367;355;88
+121301;Malopolskie;m. Oœwiêcim;30443;15220;93;6354;198;91;;6356;857;586;560;125
+121302;Malopolskie;gm. Brzeszcze;16955;8542;69;2724;117;23;;4505;384;264;370;86
+121303;Malopolskie;gm. Che³mek;10288;4910;45;1577;60;29;;2475;263;171;248;42
+121304;Malopolskie;gm. Kêty;26703;13368;148;4393;103;51;;6940;580;501;544;108
+121305;Malopolskie;gm. Osiek;6501;3027;32;645;29;16;;1936;112;103;128;26
+121306;Malopolskie;gm. Oœwiêcim;14799;7792;83;2546;73;29;;4006;364;296;323;72
+121307;Malopolskie;gm. Polanka Wielka;3420;1626;18;399;12;7;;972;54;67;85;12
+121308;Malopolskie;gm. Przeciszów;5455;2547;24;722;24;10;;1453;97;84;113;20
+121309;Malopolskie;gm. Zator;7478;3561;54;873;26;18;;2083;189;139;149;30
+121401;Malopolskie;gm. Koniusza;7026;2912;37;449;16;6;;1943;80;92;275;14
+121402;Malopolskie;gm. Koszyce;4580;1694;16;317;6;3;;1100;40;46;162;4
+121403;Malopolskie;gm. Nowe Brzesko;4657;2089;18;338;9;4;;1389;65;62;198;6
+121404;Malopolskie;gm. Pa³ecznica;2869;1196;13;220;3;5;;821;19;33;80;2
+121405;Malopolskie;gm. Proszowice;13295;5557;52;1054;41;20;;3220;157;160;834;19
+121406;Malopolskie;gm. Radziemice;2762;1130;13;161;9;4;;791;17;37;96;2
+121501;Malopolskie;m. Jordanów;4200;1956;23;471;14;4;;1130;99;118;90;7
+121502;Malopolskie;m. Sucha Beskidzka;7608;3577;41;1273;30;14;;1707;145;173;163;31
+121503;Malopolskie;gm. Budzów;6821;2820;41;342;12;9;;2078;82;125;108;23
+121504;Malopolskie;gm. Bystra-Sidzina;5357;2227;24;287;15;8;;1671;49;70;88;15
+121505;Malopolskie;gm. Jordanów;8622;3962;50;427;34;12;;3036;82;172;131;18
+121506;Malopolskie;gm. Maków Podhalañski;12810;6127;58;1239;55;38;;3992;177;253;265;50
+121507;Malopolskie;gm. Stryszawa;9635;4528;60;843;38;21;;3050;136;173;172;35
+121508;Malopolskie;gm. Zawoja;7315;3181;37;645;10;14;;2169;89;106;94;17
+121509;Malopolskie;gm. Zembrzyce;4559;2077;28;459;13;12;;1277;79;72;121;16
+121601;Malopolskie;gm. Ciê¿kowice;8927;3690;45;661;28;10;;2620;79;91;134;22
+121602;Malopolskie;gm. Gromnik;6922;3118;35;301;13;12;;2493;50;76;123;15
+121603;Malopolskie;gm. Lisia Góra;11820;5457;62;789;35;10;;3951;143;233;206;28
+121604;Malopolskie;gm. Pleœna;9507;4300;45;708;36;13;;2986;114;185;168;45
+121605;Malopolskie;gm. Rad³ów;7822;3220;37;482;25;18;;2277;84;139;138;20
+121606;Malopolskie;gm. Ryglice;9170;3958;52;487;21;11;;2956;80;187;151;13
+121607;Malopolskie;gm. Rzepiennik Strzy¿ewski;5406;2594;20;237;10;9;;2082;31;68;127;10
+121608;Malopolskie;gm. Skrzyszów;11186;5250;62;874;34;14;;3594;155;214;266;37
+121609;Malopolskie;gm. Tarnów;20348;10061;93;2300;75;19;;6237;352;452;448;85
+121610;Malopolskie;gm. Tuchów;14129;6410;68;926;56;20;;4648;156;261;238;37
+121611;Malopolskie;gm. Wierzchos³awice;8635;4098;40;881;23;17;;2695;98;159;161;24
+121612;Malopolskie;gm. Wietrzychowice;3311;1232;15;223;12;4;;845;26;44;57;6
+121613;Malopolskie;gm. Wojnicz;10739;5064;69;856;36;23;;3461;119;304;164;32
+121614;Malopolskie;gm. Zakliczyn;9770;4404;74;624;28;12;;3258;87;176;121;24
+121615;Malopolskie;gm. ¯abno;15264;6545;93;1225;52;14;;4558;138;215;214;36
+121616;Malopolskie;gm. Szerzyny;6346;2788;44;267;9;3;;2239;33;95;87;11
+121701;Malopolskie;m. Zakopane;22732;11635;73;4140;104;46;;5731;474;481;515;71
+121702;Malopolskie;gm. Bia³y Dunajec;5574;2218;16;252;10;4;;1720;23;123;63;7
+121703;Malopolskie;gm. Bukowina Tatrzañska;10399;4562;30;683;15;17;;3444;61;149;141;22
+121704;Malopolskie;gm. Koœcielisko;6860;2863;23;599;25;4;;1800;72;120;208;12
+121705;Malopolskie;gm. Poronin;8919;3586;24;550;15;10;;2592;81;164;135;15
+121801;Malopolskie;gm. Andrychów;34328;16830;143;4632;161;78;;9422;701;823;742;128
+121802;Malopolskie;gm. BrzeŸnica;8173;3624;39;881;30;9;;2203;146;149;142;25
+121803;Malopolskie;gm. Kalwaria Zebrzydowska;15932;6779;68;1679;53;36;;3955;299;279;331;79
+121804;Malopolskie;gm. Lanckorona;4860;2034;26;430;19;7;;1303;68;117;55;9
+121805;Malopolskie;gm. Mucharz;3254;1496;20;334;14;4;;904;66;58;78;18
+121806;Malopolskie;gm. Spytkowice;8169;3628;58;683;36;15;;2426;102;127;151;30
+121807;Malopolskie;gm. Stryszów;5492;2267;24;463;19;15;;1451;77;88;112;18
+121808;Malopolskie;gm. Tomice;6205;2646;40;591;36;17;;1561;128;112;140;21
+121809;Malopolskie;gm. Wadowice;30386;14067;114;4098;133;72;;7545;777;519;692;117
+121810;Malopolskie;gm. Wieprz;9526;4520;33;846;29;14;;3042;130;154;234;38
+121901;Malopolskie;gm. Biskupice;7885;3659;46;718;18;15;;2402;146;131;164;19
+121902;Malopolskie;gm. Gdów;14088;6537;83;1367;43;18;;4248;203;284;250;41
+121903;Malopolskie;gm. K³aj;8436;3958;31;1109;44;22;;2136;200;188;190;38
+121904;Malopolskie;gm. Niepo³omice;21643;10774;68;3238;111;28;;5535;628;500;555;111
+121905;Malopolskie;gm. Wieliczka;45152;22939;128;7947;195;64;;10941;1271;1179;965;249
+126101;Malopolskie;m. Kraków;586275;330754;1575;144615;4690;1038;;118494;27632;16439;12309;3962
+126201;Malopolskie;m. Nowy S¹cz;64963;32726;193;9732;236;129;;17829;1634;1458;1290;225
+126301;Malopolskie;m. Tarnów;88970;43163;269;15986;356;150;;20129;2142;2313;1466;352
+140101;Mazowieckie;gm. Bia³obrzegi;8317;3861;36;1370;23;;4;2101;96;123;89;19
+140102;Mazowieckie;gm. Promna;4480;1825;16;395;3;;1;1244;29;73;56;8
+140103;Mazowieckie;gm. Radzanów;3033;1386;22;193;4;;5;1078;14;22;43;5
+140104;Mazowieckie;gm. Stara B³otnica;4224;1740;24;157;11;;1;1423;30;51;41;2
+140105;Mazowieckie;gm. Stromiec;4499;1690;21;198;10;;8;1274;51;51;66;11
+140106;Mazowieckie;gm. Wyœmierzyce;2328;1054;15;149;3;;1;799;16;38;31;2
+140201;Mazowieckie;m. Ciechanów;35241;15594;145;5881;133;;33;7519;736;576;422;149
+140202;Mazowieckie;gm. Ciechanów;5660;2091;23;647;11;;7;1192;74;62;61;14
+140203;Mazowieckie;gm. Glinojeck;6181;2127;33;547;20;;7;1316;64;64;60;16
+140204;Mazowieckie;gm. Go³ymin-Oœrodek;3106;1086;11;143;6;;1;824;23;35;34;9
+140205;Mazowieckie;gm. Grudusk;2962;1180;15;218;2;;0;859;24;27;29;6
+140206;Mazowieckie;gm. Ojrzeñ;3473;1226;23;192;7;;0;871;35;47;41;10
+140207;Mazowieckie;gm. Opinogóra Górna;4770;1693;23;357;8;;6;1109;50;83;51;6
+140208;Mazowieckie;gm. Regimin;4060;1507;18;290;11;;9;1072;37;44;24;2
+140209;Mazowieckie;gm. Soñsk;6272;2347;18;488;17;;8;1554;73;128;50;11
+140301;Mazowieckie;m. Garwolin;13458;6794;46;2104;43;;12;3552;288;344;346;59
+140302;Mazowieckie;m. £askarzew;3886;1751;19;362;7;;3;1144;57;60;85;14
+140303;Mazowieckie;gm. Borowie;4174;1882;13;213;4;;0;1448;41;64;81;18
+140304;Mazowieckie;gm. Garwolin;10054;4629;37;930;27;;21;3011;150;198;202;53
+140305;Mazowieckie;gm. Górzno;5123;2318;31;221;13;;6;1870;29;68;74;6
+140306;Mazowieckie;gm. £askarzew;4283;1843;32;269;13;;2;1356;42;59;59;11
+140307;Mazowieckie;gm. Maciejowice;5771;2481;34;315;15;;6;1898;46;75;85;7
+140308;Mazowieckie;gm. Miastków Koœcielny;3841;1715;18;236;7;;7;1281;28;69;62;7
+140309;Mazowieckie;gm. Parysów;3247;1296;16;127;4;;4;1015;26;49;47;8
+140310;Mazowieckie;gm. Pilawa;8485;3885;46;622;25;;7;2637;137;166;213;32
+140311;Mazowieckie;gm. Sobolew;6407;2828;30;337;15;;4;2183;50;101;101;7
+140312;Mazowieckie;gm. Trojanów;5915;2708;20;282;8;;6;2181;35;81;81;14
+140313;Mazowieckie;gm. Wilga;4347;1845;20;433;17;;6;1153;75;59;71;11
+140314;Mazowieckie;gm. ¯elechów;6638;3039;47;395;13;;13;2289;67;99;98;18
+140401;Mazowieckie;m. Gostynin;15066;6342;72;2321;47;;26;3059;348;233;191;45
+140402;Mazowieckie;gm. Gostynin;9988;3540;44;874;27;;13;2199;144;96;113;30
+140403;Mazowieckie;gm. Pacyna;2938;1110;17;182;8;;5;817;20;33;21;7
+140404;Mazowieckie;gm. Sanniki;4979;1933;27;338;6;;3;1374;61;48;64;12
+140405;Mazowieckie;gm. Szczawin Koœc.;4046;1435;18;276;4;;6;1004;51;37;34;5
+140501;Mazowieckie;m. Milanówek;12715;7579;19;3350;106;;;2620;719;358;277;130
+140502;Mazowieckie;m. Podkowa Leœna;3113;2185;14;1128;57;;;586;217;70;78;35
+140503;Mazowieckie;gm. Baranów;4139;1808;9;416;19;;;1011;123;102;108;20
+140504;Mazowieckie;gm. Grodzisk Mazowiecki;35219;18738;109;7680;264;;;6784;1865;906;833;297
+140505;Mazowieckie;gm. Jaktorów;9471;4718;39;1551;53;;;2200;405;217;183;70
+140506;Mazowieckie;gm. ¯abia Wola;6824;3311;26;1163;43;;;1427;274;151;175;52
+140601;Mazowieckie;gm. Belsk Du¿y;5264;2284;12;599;18;;12;1355;73;110;90;15
+140602;Mazowieckie;gm. B³êdów;6120;2598;18;535;10;;13;1710;69;142;88;13
+140603;Mazowieckie;gm. Chynów;7861;3300;40;873;26;;9;1861;182;168;116;25
+140604;Mazowieckie;gm. Goszczyn;2374;1086;8;155;5;;2;791;17;66;37;5
+140605;Mazowieckie;gm. Grójec;19933;9012;73;3629;77;;25;3867;592;372;293;84
+140606;Mazowieckie;gm. Jasieniec;4295;1737;18;423;19;;7;1008;73;99;76;14
+140607;Mazowieckie;gm. Mogielnica;7283;3004;37;606;17;;8;1981;94;137;101;23
+140608;Mazowieckie;gm. Nowe Miasto nad Pilic¹;6504;3095;29;737;19;;11;2059;71;93;61;15
+140609;Mazowieckie;gm. Pniewy;3878;1635;13;483;8;;2;888;77;82;66;16
+140611;Mazowieckie;gm. Warka;15107;6638;60;1801;45;;19;3732;297;353;281;50
+140701;Mazowieckie;gm. Garbatka-Letnisko;4661;2078;26;445;22;;7;1327;74;82;81;14
+140702;Mazowieckie;gm. G³owaczów;5961;2557;32;295;15;;4;1921;70;113;90;17
+140703;Mazowieckie;gm. Gniewoszów;3206;1330;13;199;8;;0;987;37;37;40;9
+140704;Mazowieckie;gm. Grabów nad Pilic¹;3214;1422;17;200;11;;2;1096;32;34;24;6
+140705;Mazowieckie;gm. Kozienice;24126;10871;92;3102;85;;27;6190;474;463;364;74
+140706;Mazowieckie;gm. Magnuszew;5652;2458;21;418;13;;8;1776;68;57;87;10
+140707;Mazowieckie;gm. Sieciechów;3256;1279;4;215;7;;5;886;45;55;47;15
+140801;Mazowieckie;m. Legionowo;40075;22107;142;9564;297;;;8029;1968;879;846;382
+140802;Mazowieckie;gm. Jab³onna;13835;7710;48;3474;109;;;2470;753;386;325;145
+140803;Mazowieckie;gm. Nieporêt;11279;6509;37;2733;84;;;2433;539;295;248;140
+140804;Mazowieckie;gm. Serock;11809;5592;55;2111;65;;;2362;453;255;198;93
+140805;Mazowieckie;gm. Wieliszew;11043;5809;54;2225;87;;;2330;500;245;254;114
+140901;Mazowieckie;gm. Chotcza;1981;732;8;142;4;;2;507;11;37;18;3
+140902;Mazowieckie;gm. Ciepielów;4592;1677;28;256;10;;7;1156;32;73;112;3
+140903;Mazowieckie;gm. Lipsko;9226;3706;44;916;30;;11;2173;123;245;129;35
+140904;Mazowieckie;gm. Rzeczniów;3628;1391;16;201;9;;1;1050;33;37;40;4
+140905;Mazowieckie;gm. Sienno;4863;1982;31;373;24;;3;1399;36;60;40;16
+140906;Mazowieckie;gm. Solec nad Wis³¹;4175;1452;19;320;17;;7;933;51;66;30;9
+141001;Mazowieckie;gm. Huszlew;2263;980;3;99;5;;3;800;4;34;24;8
+141002;Mazowieckie;gm. £osice;8960;3711;27;830;38;;7;2316;113;202;152;26
+141003;Mazowieckie;gm. Olszanka;2411;1144;12;117;5;;3;907;17;41;37;5
+141004;Mazowieckie;gm. Platerów;3964;1521;20;262;12;;6;1050;50;44;75;2
+141005;Mazowieckie;gm. Sarnaki;4016;1731;22;346;18;;16;1098;41;103;73;14
+141006;Mazowieckie;gm. Stara Kornica;3899;1527;19;162;4;;4;1166;26;81;54;11
+141101;Mazowieckie;m. Maków Mazowiecki;7876;3246;26;1089;28;;5;1710;108;162;97;21
+141102;Mazowieckie;gm. Czerwonka;2127;860;13;138;1;;1;664;6;16;18;3
+141103;Mazowieckie;gm. Karniewo;4131;1568;13;266;9;;5;1167;29;53;17;9
+141104;Mazowieckie;gm. Krasnosielc;5137;1886;20;404;12;;6;1267;36;71;62;8
+141105;Mazowieckie;gm. M³ynarze;1390;614;15;81;1;;1;467;2;30;14;3
+141106;Mazowieckie;gm. P³oniawy-Bramura;4499;1699;24;305;7;;4;1193;41;67;49;9
+141107;Mazowieckie;gm. Ró¿an;3608;1643;20;447;9;;5;997;46;46;58;15
+141108;Mazowieckie;gm. Rzewnie;2233;1023;18;243;6;;0;692;15;20;26;3
+141109;Mazowieckie;gm. Sypniewo;2653;1242;18;245;6;;2;872;12;52;29;6
+141110;Mazowieckie;gm. Szelków;2952;1284;15;269;5;;6;897;26;36;28;2
+141201;Mazowieckie;m. Miñsk Mazowiecki;30543;16124;129;6351;202;;49;6835;937;787;618;216
+141204;Mazowieckie;gm. Ceg³ów;4863;2362;38;752;20;;11;1242;109;102;75;13
+141205;Mazowieckie;gm. Dêbe Wielkie;7908;3520;25;871;29;;12;2027;182;185;151;38
+141206;Mazowieckie;gm. Dobre;4864;2020;17;377;13;;5;1365;74;75;66;28
+141207;Mazowieckie;gm. Halinów;12010;6061;42;1938;70;;15;2826;431;388;262;89
+141208;Mazowieckie;gm. Jakubów;3981;1779;9;267;17;;5;1285;46;72;60;18
+141209;Mazowieckie;gm. Ka³uszyn;4623;2012;24;449;7;;2;1301;60;89;68;12
+141210;Mazowieckie;gm. Latowicz;4201;1558;27;222;12;;4;1154;28;59;40;12
+141211;Mazowieckie;gm. Miñsk Mazowiecki;11752;5467;42;1454;48;;17;3055;288;289;224;50
+141212;Mazowieckie;gm. Mrozy;6983;3103;36;806;29;;5;1777;155;165;92;38
+141213;Mazowieckie;gm. Siennica;6013;2498;21;612;26;;12;1490;87;126;94;30
+141214;Mazowieckie;gm. Stanis³awów;5366;2357;27;359;34;;4;1636;93;97;84;23
+141215;Mazowieckie;m. Sulejówek;15392;8786;46;3295;118;;19;3655;565;531;419;138
+141301;Mazowieckie;m. M³awa;24126;10285;66;3745;77;;37;4955;563;455;308;79
+141302;Mazowieckie;gm. Dzierzgowo;2477;861;11;134;3;;5;653;16;17;19;3
+141303;Mazowieckie;gm. Lipowiec Koœcielny;3905;1314;19;252;12;;6;893;35;56;34;7
+141304;Mazowieckie;gm. Radzanów;2785;971;5;191;7;;4;675;23;29;30;7
+141305;Mazowieckie;gm. Strzegowo;6170;2109;19;419;11;;6;1477;57;57;55;8
+141306;Mazowieckie;gm. Stupsk;3932;1427;27;325;14;;2;908;50;56;37;8
+141307;Mazowieckie;gm. Szreñsk;3415;1212;22;221;5;;3;843;32;41;31;14
+141308;Mazowieckie;gm. Szyd³owo;3670;1324;26;295;10;;2;874;39;37;34;7
+141309;Mazowieckie;gm. Wieczfnia Koœcielna;3172;1152;15;201;9;;6;835;23;38;19;6
+141310;Mazowieckie;gm. Wiœniewo;4123;1376;30;285;6;;4;893;49;46;52;11
+141401;Mazowieckie;m. Nowy Dwór Mazowiecki;21611;10048;72;4169;104;;;3716;945;455;450;137
+141402;Mazowieckie;gm. Czosnów;8020;4009;32;1487;45;;;1664;360;206;163;52
+141403;Mazowieckie;gm. Leoncin;4513;2088;25;483;19;;;1238;125;90;75;33
+141404;Mazowieckie;gm. Nasielsk;15657;6043;68;1431;57;;;3625;319;225;250;68
+141405;Mazowieckie;gm. Pomiechówek;7327;3456;32;1123;59;;;1665;266;139;129;43
+141406;Mazowieckie;gm. Zakroczym;5091;1746;30;450;11;;;961;133;66;79;16
+141501;Mazowieckie;gm. Baranowo;5280;1971;27;477;12;;5;1304;28;54;60;4
+141502;Mazowieckie;gm. Czarnia;1986;668;10;94;2;;1;529;4;15;11;2
+141503;Mazowieckie;gm. Czerwin;4153;1674;14;269;7;;2;1261;24;25;57;15
+141504;Mazowieckie;gm. Goworowo;6839;2440;23;402;11;;5;1780;41;72;79;27
+141505;Mazowieckie;gm. Kadzid³o;8927;3234;32;589;16;;15;2229;61;166;117;9
+141506;Mazowieckie;gm. Lelis;7438;3053;48;541;9;;6;2124;75;114;125;11
+141507;Mazowieckie;gm. £yse;6571;2178;29;429;11;;5;1518;44;75;51;16
+141508;Mazowieckie;gm. Myszyniec;8335;3155;54;542;16;;5;2242;55;132;94;15
+141509;Mazowieckie;gm. Olszewo-Borki;8369;3616;34;750;23;;4;2258;106;202;209;30
+141510;Mazowieckie;gm. Rzekuñ;8938;3798;41;934;37;;13;2218;138;174;213;30
+141511;Mazowieckie;gm. Troszyn;3822;1596;18;221;6;;4;1228;31;43;35;10
+141601;Mazowieckie;m. Ostrów Mazowiecka;18003;7640;50;2462;44;;21;4045;372;365;236;45
+141602;Mazowieckie;gm. Andrzejewo;3450;1486;3;170;8;;5;1196;14;46;36;8
+141603;Mazowieckie;gm. Boguty-Pianki;2149;932;7;97;2;;1;777;8;16;21;3
+141604;Mazowieckie;gm. Brok;2364;1014;9;256;8;;1;623;44;43;26;4
+141605;Mazowieckie;gm. Ma³kinia Górna;9434;3962;45;749;26;;3;2772;107;120;107;33
+141606;Mazowieckie;gm. Nur;2379;1040;11;134;4;;2;827;17;16;22;7
+141607;Mazowieckie;gm. Ostrów Mazowiecka;10234;4036;29;675;23;;7;2854;109;161;152;26
+141608;Mazowieckie;gm. Stary Lubotyñ;2968;1206;20;108;3;;4;1019;8;27;14;3
+141609;Mazowieckie;gm. Szulborze Wielkie;1414;558;8;137;2;;0;373;13;17;7;1
+141610;Mazowieckie;gm. W¹sewo;3513;1501;18;326;5;;0;1021;34;52;34;11
+141611;Mazowieckie;gm. Zarêby Koœcielne;3002;1272;10;172;2;;1;1007;16;31;22;11
+141701;Mazowieckie;m. Józefów;14944;9256;58;3721;95;;;3372;827;576;416;191
+141702;Mazowieckie;m. Otwock;34767;18754;142;6752;235;;;7948;1537;946;910;284
+141703;Mazowieckie;gm. Celestynów;9253;4850;49;1159;59;;;2789;291;195;241;67
+141704;Mazowieckie;gm. Karczew;12403;6332;54;1771;81;;;3363;407;287;267;102
+141705;Mazowieckie;gm. Ko³biel;6464;3069;43;543;28;;;2005;113;136;165;36
+141706;Mazowieckie;gm. Osieck;2885;1361;18;180;10;;;981;32;47;78;15
+141707;Mazowieckie;gm. Sobienie-Jeziory;5073;2356;28;540;21;;;1418;100;79;143;27
+141708;Mazowieckie;gm. Wi¹zowna;9619;5334;41;1768;56;;;2416;402;277;289;85
+141801;Mazowieckie;gm. Góra Kalwaria;20742;9591;97;3284;133;;;4269;702;473;472;161
+141802;Mazowieckie;gm. Konstancin-Jeziorna;19740;11609;79;5125;128;;;4248;925;518;393;193
+141803;Mazowieckie;gm. Lesznowola;18802;11505;65;5531;145;;;3375;1212;525;460;192
+141804;Mazowieckie;gm. Piaseczno;58927;34573;230;17122;442;;;10238;3333;1384;1315;509
+141805;Mazowieckie;gm. Pra¿mów;8443;4083;27;1439;49;;;1790;334;206;172;66
+141806;Mazowieckie;gm. Tarczyn;8840;4215;41;1176;50;;;2289;270;165;174;50
+141901;Mazowieckie;gm. Bielsk;7103;2654;32;624;17;;16;1645;98;107;105;10
+141902;Mazowieckie;gm. Bodzanów;6642;2484;45;647;12;;8;1513;97;88;49;25
+141903;Mazowieckie;gm. Brudzeñ Du¿y;6545;2416;24;457;15;;8;1678;72;61;83;18
+141904;Mazowieckie;gm. Bulkowo;4551;1585;26;250;11;;5;1152;41;46;36;18
+141905;Mazowieckie;gm. Drobin;6255;1943;24;502;7;;2;1229;47;56;66;10
+141906;Mazowieckie;gm. G¹bin;8914;3645;58;868;26;;13;2292;124;118;102;44
+141907;Mazowieckie;gm. £¹ck;4403;1830;31;531;9;;6;1008;77;74;83;11
+141908;Mazowieckie;gm. Ma³a Wieœ;4893;1628;23;350;14;;6;1063;57;40;49;26
+141909;Mazowieckie;gm. Nowy Duninów;3204;1241;18;330;10;;3;755;55;33;31;6
+141910;Mazowieckie;gm. Radzanowo;6569;2648;25;862;26;;7;1430;115;85;84;14
+141911;Mazowieckie;gm. S³ubice;3600;1421;16;248;6;;6;1022;43;43;33;4
+141912;Mazowieckie;gm. S³upno;6250;3059;29;1365;26;;6;1181;230;101;103;18
+141913;Mazowieckie;gm. Stara Bia³a;9140;3870;39;1139;22;;12;2137;202;139;146;34
+141914;Mazowieckie;gm. StaroŸreby;5829;1952;21;359;15;;3;1360;69;55;59;11
+141915;Mazowieckie;gm. Wyszogród;4576;1627;22;427;10;;6;943;94;40;23;62
+142001;Mazowieckie;m. P³oñsk;17450;7561;80;3064;79;;22;3309;427;334;191;55
+142002;Mazowieckie;m. Raci¹¿;3599;1336;11;363;14;;4;764;77;50;46;7
+142003;Mazowieckie;gm. Baboszewo;6348;2228;29;462;14;;4;1495;78;77;52;17
+142004;Mazowieckie;gm. Czerwiñsk nad Wis³¹;6120;1739;21;293;12;;5;1218;52;36;72;30
+142005;Mazowieckie;gm. Dzierz¹¿nia;3033;1123;22;209;8;;0;794;21;33;27;9
+142006;Mazowieckie;gm. Joniec;2240;916;8;245;11;;7;530;50;30;27;8
+142007;Mazowieckie;gm. Naruszewo;5111;1522;23;318;13;;2;1015;38;57;42;14
+142008;Mazowieckie;gm. Nowe Miasto;3788;1520;34;389;3;;3;940;55;33;49;14
+142009;Mazowieckie;gm. P³oñsk;6282;2126;21;566;19;;6;1244;101;92;58;19
+142010;Mazowieckie;gm. Raci¹¿;6976;2165;51;357;11;;6;1540;50;53;84;13
+142011;Mazowieckie;gm. Sochocin;4780;1787;19;437;11;;6;1148;41;67;37;21
+142012;Mazowieckie;gm. Za³uski;4515;1375;32;317;11;;4;865;67;46;29;4
+142101;Mazowieckie;m. Piastów;17570;10201;58;3877;155;;;4009;895;526;504;177
+142102;Mazowieckie;m. Pruszków;46267;25490;126;10700;340;;;8951;2412;1149;1395;417
+142103;Mazowieckie;gm. Brwinów;19850;11755;63;5056;179;;;4004;1155;505;594;199
+142104;Mazowieckie;gm. Micha³owice;13671;9141;52;4385;112;;;2721;864;390;429;188
+142105;Mazowieckie;gm. Nadarzyn;10696;6049;39;2735;60;;;2026;532;286;272;99
+142106;Mazowieckie;gm. Raszyn;16656;9361;79;3168;106;;;4140;807;473;462;126
+142201;Mazowieckie;m. Przasnysz;13357;5698;46;2009;51;;21;2870;200;297;162;42
+142202;Mazowieckie;gm. Chorzele;7979;2732;35;649;13;;5;1842;53;75;50;10
+142203;Mazowieckie;gm. Czernice Borowe;3057;1111;17;172;6;;1;813;26;47;24;5
+142204;Mazowieckie;gm. Jednoro¿ec;5629;1763;23;355;13;;8;1174;37;85;54;14
+142205;Mazowieckie;gm. Krasne;2973;1062;7;201;5;;3;751;22;34;32;7
+142206;Mazowieckie;gm. Krzynow³oga Ma³a;2851;1217;16;134;4;;1;976;4;52;26;4
+142207;Mazowieckie;gm. Przasnysz;5668;2118;20;361;15;;4;1568;32;61;47;10
+142301;Mazowieckie;gm. Borkowice;3613;1417;12;313;12;;6;941;32;28;62;11
+142302;Mazowieckie;gm. Gielniów;3804;1713;34;154;11;;3;1344;29;47;88;3
+142303;Mazowieckie;gm. Klwów;2759;1431;27;287;5;;2;997;13;37;57;6
+142304;Mazowieckie;gm. Odrzywó³;3215;1725;14;171;7;;4;1404;18;48;49;10
+142305;Mazowieckie;gm. Potworów;3360;1325;18;142;11;;5;1010;23;44;61;11
+142306;Mazowieckie;gm. Przysucha;10043;4628;38;996;30;;10;2945;147;188;254;20
+142307;Mazowieckie;gm. Rusinów;3557;1800;17;150;2;;2;1421;22;44;136;6
+142308;Mazowieckie;gm. Wieniawa;4405;2061;20;256;15;;3;1602;32;59;67;7
+142401;Mazowieckie;gm. Gzy;3115;1182;18;248;2;;3;816;17;38;27;13
+142402;Mazowieckie;gm. Obryte;3933;1765;38;383;13;;8;1193;35;43;40;12
+142403;Mazowieckie;gm. Pokrzywnica;4012;1593;15;423;10;;1;997;56;53;31;7
+142404;Mazowieckie;gm. Pu³tusk;19229;7862;62;2785;50;;19;4010;351;328;200;57
+142405;Mazowieckie;gm. Œwiercze;3825;1323;18;329;5;;2;814;59;52;38;6
+142406;Mazowieckie;gm. Winnica;3229;1409;16;370;8;;6;892;26;58;23;10
+142407;Mazowieckie;gm. Zatory;3927;1675;21;395;6;;1;1105;34;65;37;11
+142501;Mazowieckie;m. Pionki;14960;6206;52;1964;58;;14;3324;341;239;152;62
+142502;Mazowieckie;gm. Gózd;6942;3289;23;347;15;;7;2552;90;123;107;25
+142503;Mazowieckie;gm. I³¿a;12209;4527;36;1059;21;;8;2911;156;168;137;31
+142504;Mazowieckie;gm. Jastrzêbia;5530;2516;31;411;9;;7;1798;58;100;81;21
+142505;Mazowieckie;gm. Jedliñsk;11080;4668;38;741;21;;14;3386;161;172;110;25
+142506;Mazowieckie;gm. Jedlnia-Letnisko;10196;4900;15;1005;22;;13;3262;217;195;140;31
+142507;Mazowieckie;gm. Kowala;9344;4331;43;781;17;;6;2975;139;197;141;32
+142508;Mazowieckie;gm. Pionki;8242;3288;36;599;14;;8;2284;81;123;118;25
+142509;Mazowieckie;gm. Przytyk;5741;2546;18;238;11;;4;2081;41;104;40;9
+142510;Mazowieckie;gm. Skaryszew;11343;5117;31;720;20;;14;3875;113;162;141;41
+142511;Mazowieckie;gm. Wierzbica;7717;3152;37;485;21;;9;2232;88;137;122;21
+142512;Mazowieckie;gm. Wolanów;6991;3035;24;429;11;;10;2282;80;100;78;21
+142513;Mazowieckie;gm. Zakrzew;9998;4870;38;821;36;;12;3497;112;170;156;28
+142601;Mazowieckie;gm. Domanice;2098;966;8;86;9;;0;786;10;35;30;2
+142602;Mazowieckie;gm. Korczew;2231;933;8;205;3;;1;632;20;34;27;3
+142603;Mazowieckie;gm. Kotuñ;6792;2755;47;473;18;;12;1795;102;143;106;59
+142604;Mazowieckie;gm. Mokobody;4078;1803;14;187;9;;3;1400;33;107;44;6
+142605;Mazowieckie;gm. Mordy;4756;2030;20;306;18;;4;1447;53;115;51;16
+142606;Mazowieckie;gm. Paprotnia;2112;1011;10;117;4;;2;796;7;39;29;7
+142607;Mazowieckie;gm. Przesmyki;2690;1165;10;149;3;;1;924;14;40;19;5
+142608;Mazowieckie;gm. Siedlce;14158;6325;36;1250;77;;12;4045;240;379;232;54
+142609;Mazowieckie;gm. Skórzec;6099;2641;35;301;17;;11;2040;45;112;58;22
+142610;Mazowieckie;gm. Sucho¿ebry;3756;1672;15;235;8;;8;1253;25;86;35;7
+142611;Mazowieckie;gm. Wiœniew;4610;2391;21;218;11;;6;1921;42;74;82;16
+142612;Mazowieckie;gm. Wodynie;3607;1573;24;175;6;;2;1237;22;60;42;5
+142613;Mazowieckie;gm. Zbuczyn;7912;3848;41;391;16;;10;2963;58;199;136;34
+142701;Mazowieckie;m. Sierpc;14395;5972;53;2148;47;;11;2935;334;220;167;57
+142702;Mazowieckie;gm. Gozdowo;4753;1529;25;318;5;;9;1001;54;66;42;9
+142703;Mazowieckie;gm. Mochowo;4866;1546;24;299;5;;3;1050;56;45;50;14
+142704;Mazowieckie;gm. Roœciszewo;3366;1246;15;208;6;;1;916;25;35;34;6
+142705;Mazowieckie;gm. Sierpc;5455;1746;22;369;17;;9;1152;58;55;50;14
+142706;Mazowieckie;gm. Szczutowo;3510;1182;32;230;17;;4;786;41;34;32;6
+142707;Mazowieckie;gm. Zawidz;5357;1940;20;421;10;;2;1330;44;67;38;8
+142801;Mazowieckie;m. Sochaczew;27924;13183;82;4832;142;;24;6128;793;483;341;358
+142802;Mazowieckie;gm. Brochów;3564;1352;16;273;14;;5;904;48;44;34;14
+142803;Mazowieckie;gm. I³ów;4968;1975;18;326;7;;3;1438;43;85;45;10
+142804;Mazowieckie;gm. M³odzieszyn;4460;1735;17;281;9;;3;1271;47;50;40;17
+142805;Mazowieckie;gm. Nowa Sucha;5240;2194;30;497;20;;3;1360;85;92;67;40
+142806;Mazowieckie;gm. Rybno;2748;1081;8;177;7;;0;765;20;58;39;7
+142807;Mazowieckie;gm. Sochaczew;8354;3529;29;943;28;;11;2000;182;168;114;54
+142808;Mazowieckie;gm. Teresin;9047;4164;42;1141;35;;13;2333;188;177;177;58
+142901;Mazowieckie;m. Soko³ów Podlaski;15297;7294;47;2078;60;;15;4174;331;322;212;55
+142902;Mazowieckie;gm. Bielany;3020;1433;7;114;3;;4;1210;27;39;22;7
+142903;Mazowieckie;gm. Ceranów;1896;764;7;90;1;;1;618;9;21;17;0
+142904;Mazowieckie;gm. Jab³onna Lacka;3834;1732;18;298;7;;6;1296;23;42;33;9
+142905;Mazowieckie;gm. Kosów Lacki;5046;2133;11;321;13;;6;1622;38;70;39;13
+142906;Mazowieckie;gm. Repki;4358;1999;15;328;12;;1;1495;20;83;41;4
+142907;Mazowieckie;gm. Sabnie;3084;1347;13;289;4;;6;942;21;35;33;4
+142908;Mazowieckie;gm. Soko³ów Podlaski;4930;2198;12;342;9;;5;1615;46;101;56;12
+142909;Mazowieckie;gm. Sterdyñ;3383;1428;15;295;6;;3;1023;14;40;26;6
+143001;Mazowieckie;gm. Chlewiska;5089;1871;24;287;17;;7;1375;53;42;55;11
+143002;Mazowieckie;gm. Jastrz¹b;4212;1647;20;220;16;;2;1221;37;70;45;16
+143003;Mazowieckie;gm. Mirów;3061;1218;19;101;4;;5;991;22;47;19;10
+143004;Mazowieckie;gm. Oroñsko;4674;2056;18;269;15;;5;1550;62;64;55;18
+143005;Mazowieckie;gm. Szyd³owiec;15013;6663;46;1432;59;;13;4351;226;271;217;48
+143201;Mazowieckie;gm. B³onie;16653;8171;58;2965;120;;;3582;691;329;296;130
+143202;Mazowieckie;gm. Izabelin;8235;5048;25;2038;68;;;1935;432;301;162;87
+143203;Mazowieckie;gm. Kampinos;3582;1688;15;452;17;;;914;123;50;95;22
+143204;Mazowieckie;gm. Leszno;7911;3857;36;1437;63;;;1635;329;146;161;50
+143205;Mazowieckie;gm. £omianki;20114;12363;66;5654;176;;;4068;1177;600;421;201
+143206;Mazowieckie;gm. O¿arów Mazowiecki;18395;9831;67;3512;142;;;4101;841;530;464;174
+143207;Mazowieckie;gm. Stare Babice;14070;8182;38;3570;95;;;2886;686;475;307;125
+143301;Mazowieckie;m. Wêgrów;10282;4845;68;1709;29;;12;2553;144;190;107;33
+143302;Mazowieckie;gm. Grêbków;3586;1351;14;194;3;;7;1022;24;56;28;3
+143303;Mazowieckie;gm. Korytnica;5032;2182;45;260;14;;2;1695;50;62;46;8
+143304;Mazowieckie;gm. Liw;6032;2543;33;488;9;;7;1792;60;80;63;11
+143305;Mazowieckie;gm. £ochów;14195;6676;63;1341;37;;19;4507;199;272;206;32
+143306;Mazowieckie;gm. Miedzna;3257;1426;16;217;4;;2;1079;18;49;35;6
+143307;Mazowieckie;gm. Sadowne;4818;2087;10;468;2;;1;1464;40;55;42;5
+143308;Mazowieckie;gm. Stoczek;4025;1682;13;293;8;;1;1241;36;43;37;10
+143309;Mazowieckie;gm. Wierzbno;2296;943;13;165;2;;2;704;13;20;22;2
+143401;Mazowieckie;m. Koby³ka;17470;9292;65;2841;124;;;4219;827;578;457;181
+143402;Mazowieckie;m. Marki;24253;12128;67;4270;134;;;5002;1135;707;593;220
+143403;Mazowieckie;m. Z¹bki;25111;13000;93;4763;182;;;5082;1180;819;658;223
+143404;Mazowieckie;m. Zielonka;13515;7778;32;2791;99;;;3150;597;490;464;155
+143405;Mazowieckie;gm. D¹brówka;6205;3142;31;423;35;;;2301;128;98;88;38
+143406;Mazowieckie;gm. Jadów;6161;2496;38;551;20;;;1582;112;82;83;28
+143407;Mazowieckie;gm. Klembów;7645;3537;38;635;38;;;2249;211;165;155;46
+143408;Mazowieckie;gm. Poœwiêtne;4840;1957;18;173;10;;;1473;53;100;106;24
+143409;Mazowieckie;gm. Radzymin;19713;9436;58;2373;113;;;5203;637;483;415;154
+143410;Mazowieckie;gm. Strachówka;2294;888;17;119;8;;;645;32;13;39;15
+143411;Mazowieckie;gm. T³uszcz;15468;6751;77;1358;62;;;4285;346;277;253;93
+143412;Mazowieckie;gm. Wo³omin;39290;20353;149;5727;225;;;10061;1655;1222;1014;300
+143501;Mazowieckie;gm. Brañszczyk;6745;2777;24;583;15;;11;1883;53;112;82;14
+143502;Mazowieckie;gm. D³ugosiod³o;6158;2471;22;549;9;;5;1650;58;99;66;13
+143503;Mazowieckie;gm. Rz¹œnik;5512;2544;32;384;16;;4;1885;48;105;56;14
+143504;Mazowieckie;gm. Somianka;4667;2183;44;679;8;;6;1265;40;91;44;6
+143505;Mazowieckie;gm. Wyszków;30716;13875;120;4400;102;;30;7419;541;746;422;95
+143506;Mazowieckie;gm. Zabrodzie;4689;1964;16;363;13;;5;1370;55;80;45;17
+143601;Mazowieckie;gm. Kazanów;3704;1577;23;263;11;;10;1162;31;51;17;9
+143602;Mazowieckie;gm. Policzna;4787;1754;31;293;9;;3;1214;57;68;64;15
+143603;Mazowieckie;gm. Przy³êk;4980;1736;17;240;11;;8;1329;26;34;61;10
+143604;Mazowieckie;gm. Tczów;3835;1508;15;221;9;;8;1126;33;43;40;13
+143605;Mazowieckie;gm. Zwoleñ;12254;5199;41;1208;32;;12;3265;206;233;167;35
+143701;Mazowieckie;gm. Bie¿uñ;4021;1530;16;374;9;;1;992;47;35;50;6
+143702;Mazowieckie;gm. Kuczbork-Osada;3848;1342;26;360;14;;6;797;49;37;45;8
+143703;Mazowieckie;gm. Lubowidz;5556;1972;33;421;13;;4;1304;91;61;28;17
+143704;Mazowieckie;gm. Lutocin;3582;1195;17;186;5;;5;895;24;24;34;5
+143705;Mazowieckie;gm. Siemi¹tkowo;2834;999;21;218;5;;0;708;11;17;15;4
+143706;Mazowieckie;gm. ¯uromin;11684;4537;41;1650;20;;5;2343;197;108;142;31
+143801;Mazowieckie;m. ¯yrardów;30261;14577;109;5753;172;;46;6164;1080;651;427;175
+143802;Mazowieckie;gm. Mszczonów;8981;3858;47;916;41;;11;2231;202;189;178;43
+143803;Mazowieckie;gm. Puszcza Mariañska;6873;2770;38;710;35;;12;1579;144;129;88;35
+143804;Mazowieckie;gm. Radziejowice;4489;2073;23;683;17;;13;1017;124;99;72;25
+143805;Mazowieckie;gm. Wiskitki;7862;3231;28;640;32;;10;2050;152;168;123;28
+146101;Mazowieckie;m. Ostro³êka;41014;18645;135;5835;126;;41;9314;755;885;1411;143
+146201;Mazowieckie;m. P³ock;94115;44683;310;19025;408;;93;18843;2893;1537;1241;333
+146301;Mazowieckie;m. Radom;163344;80559;422;28347;677;;205;40585;3875;3373;2521;554
+146401;Mazowieckie;m. Siedlce;59929;29288;158;9145;428;;80;14925;1344;1840;1069;299
+146502;Mazowieckie;Bemowo;93100;60465;218;31935;988;;;15011;6485;2770;2075;983
+146503;Mazowieckie;Bia³o³êka;86656;52381;191;26157;929;;;12903;6084;2623;2427;1067
+146504;Mazowieckie;Bielany;103053;64115;261;30526;1209;;;19476;6506;2941;2103;1093
+146505;Mazowieckie;Mokotów;168408;108540;469;57814;2447;;;26995;11826;4409;2831;1749
+146506;Mazowieckie;Ochota;63491;39268;166;19817;940;;;10400;4441;1678;1144;682
+146507;Mazowieckie;Praga-Po³udnie;140506;87647;422;42888;1817;;;25320;9190;3770;2724;1516
+146508;Mazowieckie;Praga-Pó³noc;48582;25364;149;10346;663;;;8966;2872;1175;773;420
+146509;Mazowieckie;Rembertów;17917;10810;49;4979;154;;;3383;1056;567;432;190
+146510;Mazowieckie;Œródmieœcie;88197;54321;212;26978;1331;;;15192;6227;2159;1370;852
+146511;Mazowieckie;Targówek;95565;55055;256;24020;873;;;19512;4989;2509;2006;890
+146512;Mazowieckie;Ursus;42962;25965;116;11434;419;;;8449;2646;1343;1041;517
+146513;Mazowieckie;Ursynów;112842;78584;315;44219;1501;;;17514;8263;3051;2311;1410
+146514;Mazowieckie;Wawer;58063;37132;149;17440;493;;;12083;3227;1783;1327;630
+146515;Mazowieckie;Weso³a;18598;12425;57;5903;178;;;3671;1179;658;542;237
+146516;Mazowieckie;Wilanów;28001;19617;61;11996;266;;;3517;2228;661;533;355
+146517;Mazowieckie;W³ochy;31884;19810;88;9378;358;;;5635;2152;1059;726;414
+146518;Mazowieckie;Wola;108061;63101;269;29594;1325;;;18656;7007;3019;2062;1169
+146519;Mazowieckie;¯oliborz;40747;27419;89;14183;708;;;6739;3356;1086;752;506
+149901;Mazowieckie;zagranica;111630;98234;565;35840;2483;;;28474;14396;12856;2589;1031
+160101;Opolskie;m. Brzeg;28092;12405;54;4894;111;;;4805;623;524;1394;
+160102;Opolskie;gm. Skarbimierz;6113;2628;27;734;25;;;1235;140;129;338;
+160103;Opolskie;gm. Grodków;15169;5578;46;2122;56;;;2565;231;191;367;
+160104;Opolskie;gm. Lewin Brzeski;10234;3807;32;1181;33;;;1694;155;174;538;
+160105;Opolskie;gm. Lubsza;7109;2784;23;782;39;;;1378;108;98;356;
+160106;Opolskie;gm. Olszanka;3895;1704;7;395;14;;;952;46;76;214;
+160201;Opolskie;gm. Baborów;4991;1526;13;444;16;;;843;57;96;57;
+160202;Opolskie;gm. Branice;5630;1983;35;636;31;;;1022;105;81;73;
+160203;Opolskie;gm. G³ubczyce;17867;7140;55;2542;68;;;3696;224;263;292;
+160204;Opolskie;gm. Kietrz;8696;3271;32;1071;33;;;1755;111;144;125;
+160301;Opolskie;m. Kêdzierzyn-KoŸle;46824;19865;146;9337;242;;;6364;1825;1031;920;
+160302;Opolskie;gm. Bierawa;6220;2029;20;841;29;;;739;152;142;106;
+160303;Opolskie;gm. Cisek;4548;1248;22;566;14;;;468;68;55;55;
+160304;Opolskie;gm. Paw³owiczki;6150;1616;32;647;25;;;690;71;82;69;
+160305;Opolskie;gm. Polska Cerekiew;3395;1008;21;453;21;;;353;62;58;40;
+160306;Opolskie;gm. Reñska Wieœ;6764;1768;24;806;23;;;638;77;91;109;
+160401;Opolskie;gm. Byczyna;7496;2630;31;989;27;;;1255;116;123;89;
+160402;Opolskie;gm. Kluczbork;29147;11733;84;6098;103;;;4067;468;508;405;
+160403;Opolskie;gm. Lasowice Wielkie;5630;1425;16;731;7;;;517;46;56;52;
+160404;Opolskie;gm. Wo³czyn;10584;3878;50;1360;30;;;1970;147;168;153;
+160501;Opolskie;gm. Gogolin;9966;2709;35;1337;26;;;845;176;118;172;
+160502;Opolskie;gm. Krapkowice;18171;6133;53;3026;94;;;2038;317;286;319;
+160503;Opolskie;gm. Strzeleczki;6085;1399;18;769;12;;;460;51;35;54;
+160504;Opolskie;gm. Walce;4494;1032;16;509;9;;;351;24;68;55;
+160505;Opolskie;gm. Zdzieszowice;12007;3992;45;1924;60;;;1305;231;229;198;
+160601;Opolskie;gm. Domaszowice;2902;1225;10;378;22;;;687;41;40;47;
+160602;Opolskie;gm. Namys³ów;20670;8595;54;3394;88;;;3931;406;408;314;
+160603;Opolskie;gm. Pokój;4299;1471;21;741;23;;;525;56;43;62;
+160604;Opolskie;gm. Œwierczów;2804;1044;11;365;20;;;523;44;36;45;
+160605;Opolskie;gm. Wilków;3526;1123;13;350;8;;;593;69;31;59;
+160701;Opolskie;gm. G³ucho³azy;19911;7286;51;2751;87;;;3471;314;279;333;
+160702;Opolskie;gm. Kamiennik;2827;1018;10;201;15;;;650;35;49;58;
+160703;Opolskie;gm. Korfantów;7548;2363;33;581;28;;;1439;53;68;161;
+160704;Opolskie;gm. £ambinowice;6027;2073;24;609;20;;;1077;68;108;167;
+160705;Opolskie;gm. Nysa;46113;19345;129;8089;200;;;8325;861;844;897;
+160706;Opolskie;gm. Otmuchów;11063;4382;46;1368;47;;;2374;160;169;218;
+160707;Opolskie;gm. Paczków;10178;3830;37;1275;38;;;2042;126;139;173;
+160708;Opolskie;gm. Pakos³awice;2983;1173;10;363;12;;;680;27;34;47;
+160709;Opolskie;gm. Skoroszyce;4971;1685;29;443;15;;;1004;53;52;89;
+160801;Opolskie;gm. Dobrodzieñ;8006;2173;33;991;21;;;862;62;116;88;
+160802;Opolskie;gm. Gorzów Œl¹ski;5909;1710;17;711;12;;;765;63;67;75;
+160803;Opolskie;gm. Olesno;14491;4954;41;2447;57;;;1651;218;324;216;
+160804;Opolskie;gm. Praszka;10986;5135;41;1853;70;;;2478;288;205;200;
+160805;Opolskie;gm. Rad³ów;3468;836;19;357;9;;;343;24;34;50;
+160806;Opolskie;gm. Rudniki;6712;2762;27;849;23;;;1530;119;103;111;
+160807;Opolskie;gm. Zêbowice;2946;641;14;294;5;;;242;31;28;27;
+160901;Opolskie;gm. Chrz¹stowice;5550;1841;10;1078;25;;;459;101;72;96;
+160902;Opolskie;gm. D¹browa;6609;2573;29;1222;19;;;899;129;91;184;
+160903;Opolskie;gm. Dobrzeñ Wielki;7530;2529;22;1572;33;;;528;104;113;157;
+160904;Opolskie;gm. Komprachcice;7251;2366;24;1272;47;;;625;161;113;124;
+160905;Opolskie;gm. £ubniany;7793;2520;26;1478;35;;;630;141;95;115;
+160906;Opolskie;gm. Murów;4441;1178;17;617;7;;;371;66;43;57;
+160907;Opolskie;gm. Niemodlin;10387;3853;37;1321;27;;;1695;184;169;420;
+160908;Opolskie;gm. Ozimek;15805;4895;64;2495;67;;;1617;225;212;215;
+160909;Opolskie;gm. Popielów;6498;1945;23;915;24;;;717;62;73;131;
+160910;Opolskie;gm. Prószków;7224;2327;30;1130;29;;;766;111;134;127;
+160911;Opolskie;gm. Tarnów Opolski;7653;2401;25;1173;30;;;756;146;125;146;
+160912;Opolskie;gm. Tu³owice;4129;1747;18;667;15;;;755;70;90;132;
+160913;Opolskie;gm. Turawa;8022;2537;24;1403;49;;;690;141;95;135;
+161001;Opolskie;gm. Bia³a;8643;2263;39;997;24;;;919;81;101;102;
+161002;Opolskie;gm. G³ogówek;10577;3045;36;1264;46;;;1325;82;161;131;
+161003;Opolskie;gm. Lubrza;3488;1406;10;425;20;;;745;47;70;89;
+161004;Opolskie;gm. Prudnik;21508;9034;73;3041;92;;;4413;363;376;676;
+161101;Opolskie;gm. Izbicko;4338;1274;12;708;13;;;357;54;71;59;
+161102;Opolskie;gm. Jemielnica;5938;1574;24;625;11;;;659;72;113;70;
+161103;Opolskie;gm. Kolonowskie;4852;1308;9;659;20;;;445;44;60;71;
+161104;Opolskie;gm. Leœnica;6222;1885;20;868;18;;;713;77;103;86;
+161105;Opolskie;gm. Strzelce Opolskie;25269;8768;103;4536;127;;;2762;450;404;386;
+161106;Opolskie;gm. Ujazd;5131;1591;22;674;21;;;651;52;91;80;
+161107;Opolskie;gm. Zawadzkie;9369;2847;22;1095;38;;;1340;92;161;99;
+166101;Opolskie;m. Opole;99384;50587;245;28620;695;;;12741;3374;2405;2507;
+180103;Podkarpackie;gm. Czarna;1939;681;9;152;6;0;;438;25;28;23;
+180105;Podkarpackie;gm. Lutowiska;1883;743;10;276;10;3;;329;49;43;23;
+180108;Podkarpackie;gm. Ustrzyki Dolne;14189;5259;55;1664;40;17;;2695;215;426;147;
+180201;Podkarpackie;gm. Brzozów;21337;8445;50;1293;44;21;;6220;147;452;218;
+180202;Podkarpackie;gm. Domaradz;4915;2095;14;151;15;2;;1726;32;109;46;
+180203;Podkarpackie;gm. Dydnia;6479;2530;31;245;15;8;;1956;45;114;116;
+180204;Podkarpackie;gm. Haczów;7341;3155;29;440;9;13;;2382;59;155;68;
+180205;Podkarpackie;gm. Jasienica Rosielna;6110;3200;26;220;8;1;;2705;42;149;49;
+180206;Podkarpackie;gm. Nozdrzec;6635;2736;50;372;18;16;;1981;57;111;131;
+180301;Podkarpackie;m. Dêbica;36584;17537;116;4983;167;83;;9633;770;1176;609;
+180302;Podkarpackie;gm. Brzostek;10428;4497;56;432;18;20;;3623;72;168;108;
+180303;Podkarpackie;gm. Czarna;10491;4556;34;597;25;17;;3413;91;212;167;
+180304;Podkarpackie;gm. Dêbica;20129;8580;80;1465;56;39;;6001;218;449;272;
+180305;Podkarpackie;gm. Jod³owa;4309;1691;31;176;5;6;;1307;32;72;62;
+180306;Podkarpackie;gm. Pilzno;14433;6472;89;764;32;24;;4905;133;305;220;
+180307;Podkarpackie;gm. ¯yraków;11221;5028;46;710;30;16;;3668;99;303;156;
+180401;Podkarpackie;m. Jaros³aw;30910;13773;79;4210;118;57;;7499;486;874;450;
+180402;Podkarpackie;m. Radymno;4402;1834;22;362;13;9;;1191;47;123;67;
+180403;Podkarpackie;gm. Ch³opice;4536;1874;29;218;11;6;;1458;32;80;40;
+180404;Podkarpackie;gm. Jaros³aw;10511;4349;45;725;23;11;;3095;96;221;133;
+180405;Podkarpackie;gm. Laszki;5507;2199;53;288;12;8;;1679;28;82;49;
+180406;Podkarpackie;gm. Paw³osiów;6897;3057;19;567;30;13;;2082;61;172;113;
+180407;Podkarpackie;gm. Pruchnik;7820;3683;38;505;19;9;;2788;54;192;78;
+180408;Podkarpackie;gm. Radymno;9052;3530;43;432;15;11;;2675;61;200;93;
+180409;Podkarpackie;gm. Rokietnica;3599;1293;15;212;9;1;;972;10;44;30;
+180410;Podkarpackie;gm. RoŸwienica;5010;2076;27;406;2;5;;1471;19;95;51;
+180411;Podkarpackie;gm. Wi¹zownica;9324;4224;49;503;16;21;;3260;80;172;123;
+180501;Podkarpackie;m. Jas³o;28940;13287;102;3700;106;41;;7490;557;802;489;
+180502;Podkarpackie;gm. Brzyska;5242;2349;31;148;12;2;;2011;32;63;50;
+180503;Podkarpackie;gm. Dêbowiec;7007;3133;27;322;8;7;;2540;63;104;62;
+180504;Podkarpackie;gm. Jas³o;13569;5941;34;829;34;19;;4449;147;284;145;
+180505;Podkarpackie;gm. Ko³aczyce;7222;3157;32;319;13;11;;2543;45;111;83;
+180506;Podkarpackie;gm. Krempna;1577;542;7;100;5;4;;351;20;28;27;
+180507;Podkarpackie;gm. Nowy ¯migród;7475;3404;33;384;10;8;;2710;31;158;70;
+180508;Podkarpackie;gm. Osiek Jasielski;4278;1782;13;171;5;6;;1462;18;58;49;
+180509;Podkarpackie;gm. Sko³yszyn;10105;4317;38;657;35;17;;3125;113;211;121;
+180511;Podkarpackie;gm. Tarnowiec;7555;3277;32;416;22;6;;2421;94;168;118;
+180601;Podkarpackie;gm. Cmolas;6526;2866;43;260;9;5;;2263;34;167;85;
+180602;Podkarpackie;gm. Kolbuszowa;20131;8420;62;1565;45;25;;5522;184;783;234;
+180603;Podkarpackie;gm. Majdan Królewski;7932;3280;28;261;23;6;;2642;70;131;119;
+180604;Podkarpackie;gm. Niwiska;4816;2003;24;191;12;3;;1575;31;117;50;
+180605;Podkarpackie;gm. Rani¿ów;5657;2553;41;229;10;6;;1987;48;159;73;
+180606;Podkarpackie;gm. Dzikowiec;5177;1922;24;188;13;3;;1529;18;93;54;
+180701;Podkarpackie;gm. Chorkówka;10722;4531;39;678;32;14;;3298;114;176;180;
+180702;Podkarpackie;gm. Dukla;11807;4682;43;809;20;15;;3304;114;236;141;
+180703;Podkarpackie;gm. Iwonicz-Zdrój;8327;4112;17;777;19;13;;2827;99;211;149;
+180704;Podkarpackie;gm. Jedlicze;12390;5009;60;905;34;9;;3288;220;308;185;
+180705;Podkarpackie;gm. Korczyna;9087;3877;29;621;21;10;;2656;154;237;149;
+180706;Podkarpackie;gm. Kroœcienko Wy¿ne;4440;2059;8;350;15;6;;1430;47;133;70;
+180707;Podkarpackie;gm. Miejsce Piastowe;11127;5132;49;1070;40;7;;3341;146;298;181;
+180708;Podkarpackie;gm. Rymanów;13215;6068;52;1124;25;17;;4168;185;310;187;
+180709;Podkarpackie;gm. Wojaszówka;7517;2876;20;521;14;11;;1942;120;169;79;
+180710;Podkarpackie;gm. Jaœliska;2079;791;7;144;1;5;;570;10;38;16;
+180801;Podkarpackie;m. Le¿ajsk;11491;5317;41;1352;42;17;;3092;163;399;211;
+180802;Podkarpackie;gm. Grodzisko Dolne;6511;2838;19;265;13;8;;2272;26;152;83;
+180803;Podkarpackie;gm. Kury³ówka;4605;1858;17;214;18;5;;1413;18;99;74;
+180804;Podkarpackie;gm. Le¿ajsk;15971;6994;59;580;35;14;;5478;97;507;224;
+180805;Podkarpackie;gm. Nowa Sarzyna;17104;7766;69;786;31;11;;6096;136;432;205;
+180901;Podkarpackie;m. Lubaczów;9971;4336;47;1264;37;32;;2370;203;241;142;
+180902;Podkarpackie;gm. Cieszanów;5933;2274;32;408;14;3;;1579;47;110;81;
+180903;Podkarpackie;gm. Horyniec-Zdrój;4002;1614;15;380;15;16;;1015;49;84;40;
+180904;Podkarpackie;gm. Lubaczów;7490;3010;31;373;23;8;;2313;67;104;91;
+180905;Podkarpackie;gm. Narol;6551;2429;34;390;24;11;;1734;57;104;75;
+180906;Podkarpackie;gm. Oleszyce;5211;2147;38;385;16;9;;1495;52;92;60;
+180907;Podkarpackie;gm. Stary Dzików;3560;1391;14;167;14;7;;1031;30;79;49;
+180908;Podkarpackie;gm. Wielkie Oczy;3045;1296;13;134;10;4;;1010;29;51;45;
+181001;Podkarpackie;m. £añcut;14387;6974;43;1784;107;19;;3974;274;488;285;
+181002;Podkarpackie;gm. Bia³obrzegi;6796;3013;20;329;16;10;;2210;63;243;122;
+181003;Podkarpackie;gm. Czarna;9229;4513;33;463;29;11;;3512;64;263;138;
+181004;Podkarpackie;gm. £añcut;16937;8034;48;1042;60;17;;5955;154;520;238;
+181005;Podkarpackie;gm. Markowa;5195;2271;16;222;26;5;;1730;61;118;93;
+181006;Podkarpackie;gm. Rakszawa;5817;2683;28;269;9;9;;2122;38;122;86;
+181007;Podkarpackie;gm. ¯o³ynia;5602;2469;17;313;14;6;;1875;46;136;62;
+181101;Podkarpackie;m. Mielec;47946;22773;120;6515;211;57;;13150;819;1277;624;
+181102;Podkarpackie;gm. Borowa;4514;1876;21;376;12;5;;1315;30;79;38;
+181103;Podkarpackie;gm. Czermin;5644;2247;20;313;13;10;;1739;39;75;38;
+181104;Podkarpackie;gm. Gaw³uszowice;2249;1063;10;209;5;3;;762;10;35;29;
+181105;Podkarpackie;gm. Mielec;10574;4777;44;901;27;16;;3316;102;230;141;
+181106;Podkarpackie;gm. Padew Narodowa;4306;2017;27;290;13;2;;1551;25;65;44;
+181107;Podkarpackie;gm. Przec³aw;9221;4134;47;573;12;9;;3128;89;156;120;
+181108;Podkarpackie;gm. Radomyœl Wielki;11061;4616;53;649;21;12;;3463;96;156;166;
+181109;Podkarpackie;gm. Tuszów Narodowy;6445;3178;31;403;13;7;;2462;58;121;83;
+181110;Podkarpackie;gm. Wadowice Górne;6003;2564;37;301;7;4;;2048;37;76;54;
+181201;Podkarpackie;gm. Harasiuki;5028;2131;34;193;11;6;;1653;35;99;100;
+181202;Podkarpackie;gm. Jarocin;4481;1655;12;225;19;5;;1229;39;75;51;
+181203;Podkarpackie;gm. Je¿owe;8004;3663;45;173;14;4;;3149;40;163;75;
+181204;Podkarpackie;gm. Krzeszów;3539;1404;13;134;4;4;;1068;42;79;60;
+181205;Podkarpackie;gm. Nisko;18094;7344;60;1489;34;27;;4593;344;574;223;
+181206;Podkarpackie;gm. Rudnik nad Sanem;8284;3078;45;580;32;22;;1959;118;211;111;
+181207;Podkarpackie;gm. Ulanów;6964;2641;23;312;10;8;;1924;50;250;64;
+181301;Podkarpackie;gm. Bircza;5370;2024;33;263;7;10;;1484;32;145;50;
+181302;Podkarpackie;gm. Dubiecko;7596;2696;35;489;23;6;;1880;53;108;102;
+181303;Podkarpackie;gm. Fredropol;4506;1695;38;323;8;9;;1134;33;75;75;
+181304;Podkarpackie;gm. Krasiczyn;4137;1540;10;409;12;5;;916;48;79;61;
+181305;Podkarpackie;gm. Krzywcza;3941;1554;17;173;7;3;;1222;22;59;51;
+181306;Podkarpackie;gm. Medyka;5364;2129;22;326;14;8;;1442;65;137;115;
+181307;Podkarpackie;gm. Or³y;7034;2842;47;454;26;12;;1936;53;223;91;
+181308;Podkarpackie;gm. Przemyœl;8440;3378;35;809;26;6;;2052;108;199;143;
+181309;Podkarpackie;gm. Stubno;3177;1016;17;190;9;3;;695;22;38;42;
+181310;Podkarpackie;gm. ¯urawica;10622;4202;47;823;33;15;;2778;95;264;147;
+181401;Podkarpackie;m. Przeworsk;12505;5626;33;1394;53;22;;3392;155;327;250;
+181402;Podkarpackie;gm. Adamówka;3362;1272;13;191;6;2;;930;26;66;38;
+181403;Podkarpackie;gm. Gaæ;3697;1547;22;240;13;5;;1096;21;90;60;
+181404;Podkarpackie;gm. Jawornik Polski;3800;1423;15;260;10;7;;1007;34;49;41;
+181405;Podkarpackie;gm. Kañczuga;10090;3553;36;791;31;10;;2347;87;141;110;
+181406;Podkarpackie;gm. Przeworsk;11864;5209;53;508;28;10;;4128;80;248;154;
+181407;Podkarpackie;gm. Sieniawa;5788;2398;26;557;11;4;;1539;52;117;92;
+181408;Podkarpackie;gm. Tryñcza;6688;2883;26;220;13;7;;2372;29;131;85;
+181409;Podkarpackie;gm. Zarzecze;5782;2235;25;357;17;9;;1606;47;115;59;
+181501;Podkarpackie;gm. Iwierzyce;6103;2985;37;328;22;12;;2242;57;188;99;
+181502;Podkarpackie;gm. Ostrów;5850;2223;27;245;11;2;;1731;36;122;49;
+181503;Podkarpackie;gm. Ropczyce;21447;9861;76;1651;52;21;;6858;229;628;346;
+181504;Podkarpackie;gm. Sêdziszów Ma³opolski;18911;9117;91;1114;39;28;;6843;187;543;272;
+181505;Podkarpackie;gm. Wielopole Skrzyñskie;6443;2952;31;225;24;10;;2413;35;144;70;
+181601;Podkarpackie;m. Dynów;4975;2227;17;433;16;6;;1516;49;112;78;
+181602;Podkarpackie;gm. B³a¿owa;8795;4096;49;454;18;10;;3252;66;171;76;
+181603;Podkarpackie;gm. Boguchwa³a;16043;8032;59;1654;64;40;;5123;229;498;365;
+181604;Podkarpackie;gm. Chmielnik;5447;2698;23;358;25;4;;1908;89;182;109;
+181605;Podkarpackie;gm. Dynów;5667;2163;23;230;15;8;;1677;31;106;73;
+181606;Podkarpackie;gm. G³ogów Ma³opolski;15161;7430;58;1364;58;17;;4956;214;478;285;
+181607;Podkarpackie;gm. Hy¿ne;5572;2874;28;220;12;5;;2363;43;148;55;
+181608;Podkarpackie;gm. Kamieñ;5657;2635;34;178;16;4;;2149;20;154;80;
+181609;Podkarpackie;gm. Krasne;8885;4335;24;1008;32;22;;2684;109;291;165;
+181610;Podkarpackie;gm. Lubenia;5233;2573;15;312;16;3;;1924;64;142;97;
+181611;Podkarpackie;gm. Soko³ów Ma³opolski;13520;6339;70;516;38;17;;5035;82;344;237;
+181612;Podkarpackie;gm. Œwilcza;12457;5853;45;1152;42;12;;3916;142;333;211;
+181613;Podkarpackie;gm. Trzebownisko;16870;8147;59;1511;56;34;;5396;216;554;321;
+181614;Podkarpackie;gm. Tyczyn;8073;3920;33;657;24;12;;2709;105;241;139;
+181701;Podkarpackie;m. Sanok;30311;13116;77;4748;92;32;;6601;495;700;371;
+181702;Podkarpackie;gm. Besko;3509;1276;11;176;8;4;;946;24;59;48;
+181703;Podkarpackie;gm. Bukowsko;4309;1665;18;264;14;6;;1189;47;90;37;
+181704;Podkarpackie;gm. Komañcza;4163;1259;16;497;11;11;;553;54;71;46;
+181705;Podkarpackie;gm. Sanok;14286;5949;64;1016;39;22;;4223;133;295;157;
+181706;Podkarpackie;gm. Tyrawa Wo³oska;1614;520;7;88;4;0;;372;14;17;18;
+181707;Podkarpackie;gm. Zagórz;10532;4149;38;853;18;13;;2807;100;192;128;
+181708;Podkarpackie;gm. Zarszyn;7421;2764;22;613;17;8;;1816;80;122;86;
+181801;Podkarpackie;m. Stalowa Wola;48124;21570;151;6175;137;81;;11765;922;1631;708;
+181802;Podkarpackie;gm. Bojanów;6068;2505;21;225;12;5;;1974;61;137;70;
+181803;Podkarpackie;gm. Pysznica;8842;3521;33;589;22;8;;2348;129;295;97;
+181804;Podkarpackie;gm. Radomyœl nad Sanem;5935;2318;21;329;17;11;;1665;46;126;103;
+181805;Podkarpackie;gm. Zaklików;6945;2660;24;482;17;8;;1845;56;133;95;
+181806;Podkarpackie;gm. Zaleszany;8782;3655;36;635;16;10;;2519;98;229;112;
+181901;Podkarpackie;gm. Czudec;9437;4407;34;499;25;14;;3203;245;256;131;
+181902;Podkarpackie;gm. Frysztak;8515;3424;45;403;28;14;;2442;112;232;148;
+181903;Podkarpackie;gm. Niebylec;8575;3882;28;350;20;11;;3036;55;263;119;
+181904;Podkarpackie;gm. Strzy¿ów;16702;6972;72;1247;49;30;;4544;247;563;220;
+181905;Podkarpackie;gm. Wiœniowa;6578;2699;29;324;21;7;;2014;53;149;102;
+182001;Podkarpackie;gm. Baranów Sandomierski;9742;4326;41;656;19;14;;3174;109;185;128;
+182002;Podkarpackie;gm. Gorzyce;10643;4148;52;1085;33;11;;2460;104;235;168;
+182003;Podkarpackie;gm. Grêbów;8060;3095;44;442;25;15;;2268;62;145;94;
+182004;Podkarpackie;gm. Nowa Dêba;15300;6268;52;1242;59;26;;4068;212;398;211;
+182101;Podkarpackie;gm. Baligród;2761;1060;7;232;10;2;;713;28;51;17;
+182102;Podkarpackie;gm. Cisna;1590;804;6;375;8;4;;286;71;34;20;
+182103;Podkarpackie;gm. Lesko;9298;3841;38;1108;20;10;;2255;119;181;110;
+182104;Podkarpackie;gm. Olszanica;4446;1647;13;418;14;6;;993;43;103;57;
+182105;Podkarpackie;gm. Solina;4974;2433;25;583;18;10;;1543;87;104;63;
+186101;Podkarpackie;m. Krosno;37614;17617;84;5991;122;37;;8617;1079;1131;556;
+186201;Podkarpackie;m. Przemyœl;49106;20696;127;7395;178;101;;9786;785;1346;978;
+186301;Podkarpackie;m. Rzeszów;147686;77420;382;29122;802;225;;34160;3870;5464;3395;
+186401;Podkarpackie;m. Tarnobrzeg;37695;16729;113;6576;146;76;;7562;855;904;497;
+200101;Podlaskie;m. Augustów;23652;9569;69;3210;114;;;5005;372;417;382;
+200102;Podlaskie;gm. Augustów;5357;1713;22;288;26;;;1204;51;61;61;
+200103;Podlaskie;gm. Barg³ów Koœcielny;4445;1153;5;193;6;;;847;24;42;36;
+200104;Podlaskie;gm. Lipsk;4401;1500;13;314;20;;;1021;44;48;40;
+200105;Podlaskie;gm. Nowinka;2434;1006;6;252;14;;;618;41;51;24;
+200106;Podlaskie;gm. P³aska;2180;792;9;260;13;;;415;22;35;38;
+200107;Podlaskie;gm. Sztabin;4229;1340;12;318;10;;;911;23;29;37;
+200201;Podlaskie;gm. Choroszcz;12691;5714;69;1654;52;;;2977;181;368;413;
+200202;Podlaskie;gm. Czarna Bia³ostocka;8945;3695;31;1200;35;;;1972;115;221;121;
+200203;Podlaskie;gm. Dobrzyniewo Du¿e;7392;3168;21;876;25;;;1839;115;165;127;
+200204;Podlaskie;gm. Gródek;4400;1367;17;704;35;;;423;106;42;40;
+200205;Podlaskie;gm. Juchnowiec Koœcielny;12587;5971;38;1821;57;;;3133;243;451;228;
+200206;Podlaskie;gm. £apy;17584;7815;61;1476;75;;;5331;177;396;299;
+200207;Podlaskie;gm. Micha³owo;5585;1684;28;647;43;;;717;110;79;60;
+200208;Podlaskie;gm. Poœwiêtne;2816;1209;11;110;12;;;978;8;54;36;
+200209;Podlaskie;gm. Supraœl;12287;5989;38;2707;95;;;2233;316;373;227;
+200210;Podlaskie;gm. Sura¿;1591;768;6;125;6;;;566;20;19;26;
+200211;Podlaskie;gm. Turoœñ Koœcielna;5032;2537;17;672;24;;;1508;92;128;96;
+200212;Podlaskie;gm. Tykocin;5116;2101;28;292;25;;;1567;39;99;51;
+200213;Podlaskie;gm. Wasilków;12895;5682;47;2156;50;;;2627;236;321;245;
+200214;Podlaskie;gm. Zab³udów;7328;2836;31;857;41;;;1552;91;160;104;
+200215;Podlaskie;gm. Zawady;2298;845;13;83;9;;;678;12;30;20;
+200301;Podlaskie;m. Bielsk Podlaski;20552;7509;46;3136;185;;;3041;552;326;223;
+200302;Podlaskie;m. Brañsk;3048;1389;14;198;19;;;1044;24;65;25;
+200303;Podlaskie;gm. Bielsk Podlaski;5807;1636;12;560;67;;;810;87;44;56;
+200304;Podlaskie;gm. Boæki;3713;1385;21;261;15;;;974;38;39;37;
+200305;Podlaskie;gm. Brañsk;4787;2194;26;158;23;;;1867;14;58;48;
+200306;Podlaskie;gm. Orla;2457;664;8;318;23;;;180;71;35;29;
+200307;Podlaskie;gm. Rudka;1561;657;6;82;7;;;508;17;20;17;
+200308;Podlaskie;gm. Wyszki;3626;1645;18;149;12;;;1383;23;37;23;
+200401;Podlaskie;m. Grajewo;17239;6374;58;1793;60;;;3584;206;503;170;
+200402;Podlaskie;gm. Grajewo;4635;1462;24;292;12;;;985;23;68;58;
+200403;Podlaskie;gm. Radzi³ów;3930;1337;16;125;15;;;1083;28;49;21;
+200404;Podlaskie;gm. Rajgród;4341;1354;17;383;16;;;770;50;66;52;
+200405;Podlaskie;gm. Szczuczyn;4950;1777;29;401;28;;;1154;44;65;56;
+200406;Podlaskie;gm. W¹sosz;2940;1108;16;164;9;;;840;20;41;18;
+200501;Podlaskie;m. Hajnówka;17369;6221;60;3185;118;;;1855;451;289;263;
+200502;Podlaskie;gm. Bia³owie¿a;1963;751;9;343;18;;;211;93;44;33;
+200503;Podlaskie;gm. Czeremcha;2731;811;14;331;30;;;310;50;48;28;
+200504;Podlaskie;gm. Czy¿e;1769;412;6;217;17;;;108;26;16;22;
+200505;Podlaskie;gm. Dubicze Cerkiewne;1378;390;2;143;11;;;166;37;12;19;
+200506;Podlaskie;gm. Hajnówka;3355;958;9;431;22;;;309;87;36;64;
+200507;Podlaskie;gm. Kleszczele;2147;707;10;258;17;;;292;57;44;29;
+200508;Podlaskie;gm. Narew;3031;792;16;346;19;;;313;66;18;14;
+200509;Podlaskie;gm. Narewka;3173;832;8;396;19;;;265;75;40;29;
+200601;Podlaskie;m. Kolno;8229;2960;22;767;33;;;1743;125;164;106;
+200602;Podlaskie;gm. Grabowo;2861;946;8;128;5;;;716;26;42;21;
+200603;Podlaskie;gm. Kolno;6843;2506;32;294;31;;;1919;68;108;54;
+200604;Podlaskie;gm. Ma³y P³ock;3988;1319;17;149;15;;;1014;36;48;40;
+200605;Podlaskie;gm. Stawiski;5025;1730;23;189;18;;;1348;40;64;48;
+200606;Podlaskie;gm. Turoœl;4010;1433;14;207;13;;;1061;40;43;55;
+200701;Podlaskie;gm. Jedwabne;4376;1697;11;143;14;;;1402;27;63;37;
+200702;Podlaskie;gm. £om¿a;8936;3610;43;772;25;;;2382;94;183;111;
+200703;Podlaskie;gm. Miastkowo;3350;1121;13;112;4;;;912;17;33;30;
+200704;Podlaskie;gm. Nowogród;3246;1277;10;240;5;;;858;36;70;58;
+200705;Podlaskie;gm. Pi¹tnica;8452;3048;32;517;26;;;2158;68;154;93;
+200706;Podlaskie;gm. Przytu³y;1725;660;5;33;5;;;583;6;24;4;
+200707;Podlaskie;gm. Œniadowo;4335;1743;14;188;10;;;1362;28;96;45;
+200708;Podlaskie;gm. Wizna;3328;1276;14;152;10;;;992;16;58;34;
+200709;Podlaskie;gm. Zbójna;3455;1106;10;178;16;;;801;24;41;36;
+200801;Podlaskie;gm. Goni¹dz;4045;1487;9;337;19;;;978;48;53;43;
+200802;Podlaskie;gm. Jasionówka;2330;903;5;182;6;;;622;20;36;32;
+200803;Podlaskie;gm. Jaœwi³y;4177;1445;20;170;11;;;1121;28;43;52;
+200804;Podlaskie;gm. Knyszyn;3967;1361;13;267;11;;;931;25;62;52;
+200805;Podlaskie;gm. Krypno;3217;1103;12;231;6;;;757;26;55;16;
+200806;Podlaskie;gm. Moñki;12141;4155;31;1187;47;;;2433;101;244;112;
+200807;Podlaskie;gm. Trzcianne;3621;1148;19;115;13;;;919;21;42;19;
+200901;Podlaskie;m. Sejny;4369;1603;5;686;17;;;700;73;65;57;
+200902;Podlaskie;gm. Giby;2390;903;9;265;17;;;492;33;49;38;
+200903;Podlaskie;gm. Krasnopol;3135;994;10;232;21;;;607;30;58;36;
+200904;Podlaskie;gm. Puñsk;3494;976;15;508;15;;;326;48;36;28;
+200905;Podlaskie;gm. Sejny;3348;1044;5;323;15;;;568;53;30;50;
+201001;Podlaskie;m. Siemiatycze;11837;4596;41;1635;68;;;2233;234;235;150;
+201002;Podlaskie;gm. Drohiczyn;5298;1945;12;364;22;;;1355;51;86;55;
+201003;Podlaskie;gm. Dziadkowice;2320;886;18;136;4;;;650;14;34;30;
+201004;Podlaskie;gm. Grodzisk;3449;1333;14;214;13;;;1003;18;41;30;
+201005;Podlaskie;gm. Mielnik;2169;823;9;308;13;;;371;45;43;34;
+201006;Podlaskie;gm. Milejczyce;1608;497;9;201;13;;;222;22;17;13;
+201007;Podlaskie;gm. Nurzec-Stacja;3388;923;9;307;14;;;437;61;60;35;
+201008;Podlaskie;gm. Perlejewo;2436;855;4;101;0;;;689;11;28;22;
+201009;Podlaskie;gm. Siemiatycze;4984;1509;14;379;29;;;896;72;62;57;
+201101;Podlaskie;gm. D¹browa Bia³ostocka;9639;3717;39;784;34;;;2429;109;197;125;
+201102;Podlaskie;gm. Janów;3437;1125;12;230;7;;;760;24;54;38;
+201103;Podlaskie;gm. Korycin;2651;919;4;155;11;;;622;19;62;46;
+201104;Podlaskie;gm. Krynki;2627;953;13;317;11;;;490;35;50;37;
+201105;Podlaskie;gm. KuŸnica;3268;1212;14;190;12;;;881;28;59;28;
+201106;Podlaskie;gm. Nowy Dwór;2255;762;5;123;14;;;548;16;27;29;
+201107;Podlaskie;gm. Sidra;2889;910;8;148;12;;;649;23;38;32;
+201108;Podlaskie;gm. Sokó³ka;20524;7430;47;2196;79;;;4190;294;395;229;
+201109;Podlaskie;gm. Suchowola;5718;2128;16;411;22;;;1488;44;90;57;
+201110;Podlaskie;gm. Szudzia³owo;2482;811;8;202;12;;;496;29;34;30;
+201201;Podlaskie;gm. Baka³arzewo;2523;848;4;217;16;;;495;37;32;47;
+201202;Podlaskie;gm. Filipów;3548;1167;10;235;16;;;759;37;26;84;
+201203;Podlaskie;gm. Jeleniewo;2550;973;10;197;17;;;605;35;49;60;
+201204;Podlaskie;gm. Przeroœl;2421;849;15;137;7;;;572;15;48;55;
+201205;Podlaskie;gm. Raczki;4731;1776;19;356;24;;;1163;51;80;83;
+201206;Podlaskie;gm. Rutka-Tartak;1957;754;5;173;7;;;487;20;33;29;
+201207;Podlaskie;gm. Suwa³ki;6188;2476;15;785;31;;;1307;93;114;131;
+201208;Podlaskie;gm. Szypliszki;3262;1052;14;292;19;;;590;39;52;46;
+201209;Podlaskie;gm. Wi¿ajny;1957;723;3;181;8;;;463;18;26;24;
+201301;Podlaskie;m. Wysokie Mazowieckie;7446;3252;31;970;40;;;1807;98;198;108;
+201302;Podlaskie;gm. Ciechanowiec;7323;2794;31;461;26;;;2024;66;100;86;
+201303;Podlaskie;gm. Czy¿ew;5197;1976;24;269;19;;;1494;47;63;60;
+201304;Podlaskie;gm. Klukowo;3585;1615;12;111;12;;;1389;20;50;21;
+201305;Podlaskie;gm. Kobylin-Borzymy;2721;1226;5;54;8;;;1076;6;60;17;
+201306;Podlaskie;gm. Kulesze Koœcielne;2511;1172;14;63;10;;;988;6;68;23;
+201307;Podlaskie;gm. Nowe Piekuty;3185;1415;13;132;9;;;1168;16;46;31;
+201308;Podlaskie;gm. Soko³y;4719;2007;14;177;15;;;1618;31;87;65;
+201309;Podlaskie;gm. Szepietowo;5659;2382;28;418;17;;;1702;41;123;53;
+201310;Podlaskie;gm. Wysokie Mazowieckie;4279;1695;12;233;17;;;1290;22;73;48;
+201401;Podlaskie;m. Zambrów;17454;6639;46;1995;70;;;3707;188;377;256;
+201402;Podlaskie;gm. Ko³aki Koœcielne;1937;944;9;79;6;;;767;3;50;30;
+201403;Podlaskie;gm. Rutki;4649;1722;18;242;12;;;1301;39;71;39;
+201404;Podlaskie;gm. Szumowo;3911;1554;17;237;20;;;1158;19;58;45;
+201405;Podlaskie;gm. Zambrów;7841;2938;24;506;34;;;2069;55;146;104;
+206101;Podlaskie;m. Bia³ystok;220702;109544;647;45508;1690;;;45501;5583;6779;3836;
+206201;Podlaskie;m. £om¿a;48054;20064;120;6469;181;;;10851;774;1010;659;
+206301;Podlaskie;m. Suwa³ki;53774;21705;150;8187;282;;;10134;1003;1047;902;
+220101;Pomorskie;gm. Borzytuchom;2470;856;10;330;10;;;370;78;28;22;8
+220102;Pomorskie;gm. Bytów;19074;8210;79;3676;67;;;3281;590;283;178;56
+220103;Pomorskie;gm. Czarna D¹brówka;4554;1698;27;510;10;;;941;114;57;30;9
+220104;Pomorskie;gm. Ko³czyg³owy;3399;1103;16;351;6;;;472;166;43;36;13
+220105;Pomorskie;gm. Lipnica;4192;1750;30;393;14;;;1141;58;58;46;10
+220106;Pomorskie;gm. Miastko;15308;5367;48;2399;37;;;2135;427;197;92;32
+220107;Pomorskie;gm. Parchowo;2835;1340;20;408;10;;;741;64;52;25;20
+220108;Pomorskie;gm. Studzienice;2861;1129;6;468;1;;;508;67;39;36;4
+220109;Pomorskie;gm. Trzebielino;2884;943;8;355;10;;;403;116;16;28;7
+220110;Pomorskie;gm. Tuchomie;3278;1140;8;398;8;;;572;78;36;32;8
+220201;Pomorskie;m. Chojnice;30524;13804;117;6704;106;;;5120;778;540;314;125
+220202;Pomorskie;gm. Brusy;10825;4849;51;1242;39;;;2985;170;197;121;44
+220203;Pomorskie;gm. Chojnice;14305;5719;56;2301;43;;;2565;315;223;168;48
+220204;Pomorskie;gm. Czersk;16485;6506;70;2010;44;;;3636;307;206;183;50
+220205;Pomorskie;gm. Konarzyny;1765;640;5;217;12;;;302;40;29;28;7
+220301;Pomorskie;m. Cz³uchów;10990;4861;49;2496;61;;;1551;369;179;121;35
+220302;Pomorskie;gm. Czarne;8088;2659;41;1214;41;;;987;196;73;77;30
+220303;Pomorskie;gm. Cz³uchów;8350;2551;54;834;32;;;1193;221;119;72;26
+220304;Pomorskie;gm. Debrzno;7065;2302;37;968;34;;;952;160;71;58;22
+220305;Pomorskie;gm. Kocza³a;2682;881;22;366;9;;;338;94;29;12;11
+220306;Pomorskie;gm. Przechlewo;5000;1756;16;736;25;;;705;123;87;32;32
+220307;Pomorskie;gm. Rzeczenica;2914;919;13;340;8;;;422;73;26;24;13
+220401;Pomorskie;m. Pruszcz Gdañski;21939;11374;77;6587;127;;;3048;627;442;323;143
+220402;Pomorskie;gm. Cedry Wielkie;5191;1762;25;794;8;;;707;107;62;46;13
+220403;Pomorskie;gm. Kolbudy;13002;6563;39;3840;60;;;1713;347;301;192;71
+220404;Pomorskie;gm. Pruszcz Gdañski;21434;10433;81;5904;102;;;2779;606;488;352;121
+220405;Pomorskie;gm. Przywidz;4483;1773;16;856;19;;;676;95;52;51;8
+220406;Pomorskie;gm. Pszczó³ki;7247;2998;24;1425;23;;;1026;181;165;113;41
+220407;Pomorskie;gm. Suchy D¹b;3257;1009;21;476;11;;;356;52;33;47;13
+220408;Pomorskie;gm. Tr¹bki Wielkie;8316;2951;42;1228;40;;;1184;147;130;150;30
+220501;Pomorskie;gm. Chmielno;5762;2459;19;802;15;;;1374;68;66;92;23
+220502;Pomorskie;gm. Kartuzy;24640;11988;101;5080;99;;;5384;479;409;341;95
+220503;Pomorskie;gm. Przodkowo;6714;3049;34;1078;23;;;1510;149;131;94;30
+220504;Pomorskie;gm. Sierakowice;13759;6950;65;1716;32;;;4530;157;191;199;60
+220505;Pomorskie;gm. Somonino;7873;3169;37;1093;26;;;1651;98;118;126;20
+220506;Pomorskie;gm. Stê¿yca;7690;3656;37;1219;21;;;2014;122;115;96;32
+220507;Pomorskie;gm. Sulêczyno;4192;1895;21;606;19;;;1057;71;50;62;9
+220508;Pomorskie;gm. ¯ukowo;28013;14165;100;7263;105;;;4727;720;636;472;142
+220601;Pomorskie;m. Koœcierzyna;17965;8334;58;4078;79;;;3188;372;281;211;67
+220602;Pomorskie;gm. Dziemiany;3375;1607;20;457;6;;;946;52;57;54;15
+220603;Pomorskie;gm. Karsin;4896;2125;26;686;18;;;1140;96;68;68;23
+220604;Pomorskie;gm. Koœcierzyna;11856;5259;49;1963;46;;;2618;205;173;166;39
+220605;Pomorskie;gm. Liniewo;3591;1409;21;471;17;;;763;44;33;51;9
+220606;Pomorskie;gm. Lipusz;2834;1391;12;391;11;;;787;61;58;53;18
+220607;Pomorskie;gm. Nowa Karczma;5170;2030;25;690;7;;;1084;79;63;71;11
+220608;Pomorskie;gm. Stara Kiszewa;5250;2092;18;671;16;;;1146;82;66;71;22
+220701;Pomorskie;m. Kwidzyn;29170;12855;127;6715;162;;;4198;706;485;354;108
+220702;Pomorskie;gm. Gardeja;6433;1676;31;514;25;;;910;81;62;43;10
+220703;Pomorskie;gm. Kwidzyn;8604;3005;32;1177;34;;;1352;157;127;98;28
+220704;Pomorskie;gm. Prabuty;10188;3351;37;1289;44;;;1537;184;132;100;28
+220705;Pomorskie;gm. Ryjewo;4379;1335;15;572;16;;;518;70;49;76;19
+220706;Pomorskie;gm. Sadlinki;4556;1485;17;437;17;;;800;78;65;54;17
+220801;Pomorskie;m. Lêbork;26357;11926;102;6088;92;;;3848;959;478;288;71
+220802;Pomorskie;m. £eba;3795;2146;7;1155;13;;;682;165;78;35;11
+220803;Pomorskie;gm. Cewice;5318;2084;36;771;19;;;956;180;62;42;18
+220804;Pomorskie;gm. Nowa Wieœ Lêborska;10255;3942;46;1685;33;;;1557;296;152;132;41
+220805;Pomorskie;gm. Wicko;4566;1458;20;619;15;;;507;165;65;62;5
+220901;Pomorskie;m. Malbork;30026;13120;99;7139;133;;;3935;782;493;399;140
+220903;Pomorskie;gm. Lichnowy;3512;997;20;391;10;;;434;52;39;33;18
+220904;Pomorskie;gm. Malbork;3714;1294;9;641;10;;;446;84;45;38;21
+220906;Pomorskie;gm. Mi³oradz;2688;874;17;301;7;;;427;47;35;33;7
+220907;Pomorskie;gm. Nowy Staw;5782;1739;24;726;20;;;727;92;81;55;14
+220908;Pomorskie;gm. Stare Pole;3601;1273;16;606;22;;;472;66;39;43;9
+221001;Pomorskie;m. Krynica Morska;2143;1481;4;803;12;;;541;55;37;22;7
+221002;Pomorskie;gm. Nowy Dwór Gdañski;13736;5097;71;2603;60;;;1712;271;195;154;31
+221003;Pomorskie;gm. Ostaszewo;2474;893;12;373;11;;;394;35;37;23;8
+221004;Pomorskie;gm. Stegna;8157;3304;38;1654;31;;;1180;164;125;90;22
+221005;Pomorskie;gm. Sztutowo;3002;1238;16;645;6;;;382;77;45;50;17
+221101;Pomorskie;m. Hel;2890;1417;15;810;19;;;363;76;78;47;9
+221102;Pomorskie;gm. Jastarnia;3939;2448;10;1231;17;;;967;82;79;44;18
+221103;Pomorskie;m. Puck;8668;4055;38;2347;45;;;1152;234;86;106;47
+221104;Pomorskie;gm. W³adys³awowo;12987;6799;51;3592;40;;;2181;369;261;168;137
+221105;Pomorskie;gm. Kosakowo;11313;6233;46;3374;52;;;1611;518;325;216;91
+221106;Pomorskie;gm. Krokowa;8406;3228;53;1252;17;;;1500;171;117;87;31
+221107;Pomorskie;gm. Puck;19529;8036;102;3064;58;;;3744;383;351;246;88
+221201;Pomorskie;m. Ustka;13144;6435;56;3312;65;;;2133;516;158;129;66
+221202;Pomorskie;gm. Damnica;4633;1511;28;556;11;;;649;167;42;46;12
+221203;Pomorskie;gm. Dêbnica Kaszubska;7379;2269;32;914;15;;;945;223;66;46;28
+221204;Pomorskie;gm. G³ówczyce;6883;1994;25;732;18;;;850;242;63;44;20
+221205;Pomorskie;gm. Kêpice;6983;2386;38;1017;20;;;864;251;88;76;32
+221206;Pomorskie;gm. Kobylnica;9286;3544;32;1636;31;;;1201;380;108;122;34
+221207;Pomorskie;gm. Potêgowo;5257;1554;27;572;20;;;663;171;45;43;13
+221208;Pomorskie;gm. S³upsk;12943;5400;45;2520;64;;;1740;656;214;122;39
+221209;Pomorskie;gm. Smo³dzino;2691;936;16;369;11;;;394;98;23;18;7
+221210;Pomorskie;gm. Ustka;6653;2862;26;1166;30;;;1102;292;136;85;25
+221301;Pomorskie;gm. Czarna Woda;2594;1116;14;396;7;;;593;40;26;31;9
+221302;Pomorskie;m. Skórcz;2708;1139;11;434;4;;;570;43;36;27;14
+221303;Pomorskie;m. Starogard Gdañski;36148;15929;130;6778;109;;;6980;757;523;452;200
+221304;Pomorskie;gm. Bobowo;2343;850;23;195;5;;;504;42;37;33;11
+221305;Pomorskie;gm. Kaliska;4197;1594;17;631;15;;;760;67;47;45;12
+221306;Pomorskie;gm. Lubichowo;5082;1932;26;707;13;;;944;82;57;79;24
+221307;Pomorskie;gm. Osieczna;2285;892;13;246;9;;;526;29;34;25;10
+221308;Pomorskie;gm. Osiek;2060;892;13;325;10;;;435;35;24;39;11
+221309;Pomorskie;gm. Skarszewy;10800;4135;42;1453;29;;;2148;166;158;113;26
+221310;Pomorskie;gm. Skórcz;3499;1276;13;308;8;;;816;40;52;29;10
+221311;Pomorskie;gm. Smêtowo Graniczne;4058;1423;21;417;12;;;773;60;69;48;23
+221312;Pomorskie;gm. Starogard Gdañski;12174;5358;67;2084;53;;;2419;254;218;193;70
+221313;Pomorskie;gm. Zblewo;8874;3318;43;1226;13;;;1668;122;129;92;25
+221401;Pomorskie;m. Tczew;44488;20233;137;9613;187;;;7576;1086;920;491;223
+221402;Pomorskie;gm. Gniew;11946;4031;60;1491;65;;;1871;218;145;121;60
+221403;Pomorskie;gm. Morzeszczyn;2811;864;18;248;10;;;485;39;30;30;4
+221404;Pomorskie;gm. Pelplin;12389;4173;52;1518;46;;;2072;173;165;96;51
+221405;Pomorskie;gm. Subkowy;4149;1468;17;537;17;;;655;85;74;56;27
+221406;Pomorskie;gm. Tczew;10822;4437;51;1970;37;;;1689;245;221;166;58
+221501;Pomorskie;m. Reda;18561;9343;76;4865;91;;;2591;786;501;303;130
+221502;Pomorskie;m. Rumia;36529;19637;124;10211;175;;;5769;1289;987;826;256
+221503;Pomorskie;m. Wejherowo;36059;16754;122;8231;167;;;5872;1054;704;420;184
+221504;Pomorskie;gm. Choczewo;4484;1598;26;740;12;;;586;115;61;39;19
+221505;Pomorskie;gm. Gniewino;5475;1863;32;772;22;;;767;101;107;45;17
+221506;Pomorskie;gm. Linia;4690;2004;26;471;11;;;1275;74;67;73;7
+221507;Pomorskie;gm. Luzino;11463;4884;64;1506;44;;;2584;245;234;150;57
+221508;Pomorskie;gm. £êczyce;8795;3370;47;1093;33;;;1703;201;160;105;28
+221509;Pomorskie;gm. Szemud;12940;6108;80;2546;50;;;2561;331;269;200;71
+221510;Pomorskie;gm. Wejherowo;18344;8168;76;3364;76;;;3363;550;390;267;82
+221601;Pomorskie;gm. Dzierzgoñ;7471;2320;33;955;34;;;959;167;68;87;17
+221602;Pomorskie;gm. Miko³ajki Pomorskie;2752;824;13;257;9;;;447;32;31;29;6
+221603;Pomorskie;gm. Stary Dzierzgoñ;3213;840;18;328;9;;;401;48;13;15;8
+221604;Pomorskie;gm. Stary Targ;4870;1249;18;422;17;;;631;56;39;53;13
+221605;Pomorskie;gm. Sztum;15080;5659;54;2917;73;;;1837;328;214;170;66
+226101;Pomorskie;m. Gdañsk;352188;197003;786;118309;1957;;;52049;9620;8025;4404;1853
+226201;Pomorskie;m. Gdynia;185804;106607;509;60900;1174;;;27341;8254;4531;2606;1292
+226301;Pomorskie;m. S³upsk;69638;33131;210;16101;294;;;10683;3668;1196;720;259
+226401;Pomorskie;m. Sopot;28966;18258;58;11159;167;;;4535;1144;684;331;180
+229801;Pomorskie;statki;116;106;2;50;2;;;28;7;14;3;0
+240101;Slaskie;m. Bêdzin;43479;20460;169;9617;288;;;6795;1781;889;681;240
+240102;Slaskie;m. CzeladŸ;25645;11995;93;5664;216;;;3858;1088;509;421;146
+240103;Slaskie;m. Wojkowice;8186;3537;50;1502;65;;;1035;525;163;152;45
+240104;Slaskie;gm. Bobrowniki;9775;4532;49;1967;49;;;1720;333;183;182;49
+240105;Slaskie;gm. Mierzêcice;6169;2582;20;901;45;;;1147;183;126;124;36
+240106;Slaskie;gm. Psary;9769;4581;35;2016;63;;;1631;410;225;153;48
+240107;Slaskie;gm. Siewierz;10089;4519;47;1461;70;;;2238;259;221;165;58
+240108;Slaskie;m. S³awków;5569;2662;29;940;27;;;1201;200;142;97;26
+240201;Slaskie;m. Szczyrk;4756;2393;28;691;27;;;1332;104;109;84;18
+240202;Slaskie;gm. Bestwina;9221;4446;28;1670;53;;;1980;248;220;211;36
+240203;Slaskie;gm. Buczkowice;8704;4298;33;1332;52;;;2306;172;186;166;51
+240204;Slaskie;gm. Czechowice-Dziedzice;34603;17184;112;6679;194;;;7470;996;829;705;199
+240205;Slaskie;gm. Jasienica;18503;9374;78;3359;96;;;4475;460;399;407;100
+240206;Slaskie;gm. Jaworze;5774;3223;26;1694;37;;;976;182;141;132;35
+240207;Slaskie;gm. Kozy;10009;5102;47;1856;58;;;2331;277;226;238;69
+240208;Slaskie;gm. Por¹bka;12348;5856;47;1618;63;;;3254;250;300;264;60
+240209;Slaskie;gm. Wilamowice;13492;6727;69;1839;67;;;3774;276;307;305;90
+240210;Slaskie;gm. Wilkowice;10756;5643;30;2360;53;;;2363;324;261;193;59
+240301;Slaskie;m. Cieszyn;27079;13492;99;6953;174;;;4373;732;583;438;140
+240302;Slaskie;m. Ustroñ;14974;7349;47;3803;85;;;2476;398;270;206;64
+240303;Slaskie;m. Wis³a;9119;3750;29;2498;50;;;721;163;180;80;29
+240304;Slaskie;gm. Brenna;8840;3972;21;1292;37;;;2026;221;187;149;39
+240305;Slaskie;gm. Chybie;7515;3446;41;1010;38;;;1868;173;168;117;31
+240306;Slaskie;gm. Dêbowiec;4508;1868;23;789;12;;;790;86;76;70;22
+240307;Slaskie;gm. Goleszów;10435;4582;32;2548;49;;;1304;237;208;154;50
+240308;Slaskie;gm. Ha¿lach;8283;3495;26;1300;53;;;1598;195;172;122;29
+240309;Slaskie;gm. Istebna;9284;4408;30;837;30;;;3127;87;147;113;37
+240310;Slaskie;gm. Skoczów;20953;9192;74;3515;104;;;4118;506;430;347;98
+240311;Slaskie;gm. Strumieñ;10216;4716;44;1532;43;;;2461;220;188;188;40
+240312;Slaskie;gm. Zebrzydowice;10192;4673;28;1572;55;;;2304;216;226;211;61
+240401;Slaskie;gm. Blachownia;10568;4455;46;1790;60;;;1831;264;215;196;53
+240402;Slaskie;gm. D¹browa Zielona;3367;1307;19;289;15;;;826;51;39;51;17
+240403;Slaskie;gm. Janów;4969;2161;26;475;28;;;1377;96;73;73;13
+240404;Slaskie;gm. Kamienica Polska;4518;1914;24;769;35;;;807;109;65;83;22
+240405;Slaskie;gm. K³omnice;11164;4597;43;1185;54;;;2650;218;162;228;57
+240406;Slaskie;gm. Koniecpol;7970;3233;39;719;41;;;2028;117;119;137;33
+240407;Slaskie;gm. Konopiska;8698;3379;42;1230;47;;;1568;181;140;133;38
+240408;Slaskie;gm. Kruszyna;3999;1528;13;366;10;;;921;60;64;78;16
+240409;Slaskie;gm. Lelów;4077;1797;33;298;14;;;1234;57;68;73;20
+240410;Slaskie;gm. Mstów;8790;3887;23;978;37;;;2308;148;142;214;37
+240411;Slaskie;gm. Mykanów;11973;5478;51;1506;72;;;3182;161;211;234;61
+240412;Slaskie;gm. Olsztyn;6567;2974;22;1061;29;;;1436;183;107;104;32
+240413;Slaskie;gm. Poczesna;10279;4467;48;1670;48;;;2063;229;192;173;44
+240414;Slaskie;gm. Przyrów;3106;1297;19;304;11;;;835;33;44;46;5
+240415;Slaskie;gm. Rêdziny;7992;3382;33;1058;43;;;1762;164;134;146;42
+240416;Slaskie;gm. Starcza;2289;969;17;345;6;;;486;38;32;41;4
+240501;Slaskie;m. Knurów;28795;12831;103;4543;167;;;6008;718;583;570;139
+240502;Slaskie;m. Pyskowice;13765;5575;62;2446;70;;;2070;366;298;202;61
+240503;Slaskie;gm. Giera³towice;9293;4585;39;1616;41;;;2230;161;201;250;47
+240504;Slaskie;gm. Pilchowice;9229;4007;47;1708;35;;;1720;187;136;121;53
+240505;Slaskie;gm. Rudziniec;8580;3108;41;1199;35;;;1373;141;138;142;39
+240506;Slaskie;gm. Soœnicowice;6867;2668;20;1299;23;;;971;119;116;98;22
+240507;Slaskie;gm. Toszek;7834;2645;43;913;27;;;1265;131;136;86;44
+240508;Slaskie;gm. Wielowieœ;4836;1423;14;459;13;;;756;48;63;49;21
+240601;Slaskie;gm. K³obuck;16668;7382;79;2961;83;;;3215;339;355;296;54
+240602;Slaskie;gm. Krzepice;7576;3162;29;955;30;;;1771;113;127;118;19
+240603;Slaskie;gm. Lipie;5199;2236;28;692;19;;;1274;60;60;88;15
+240604;Slaskie;gm. MiedŸno;6164;2654;42;533;28;;;1768;53;106;105;19
+240605;Slaskie;gm. Opatów;5509;2122;35;777;21;;;1024;62;95;92;16
+240606;Slaskie;gm. Panki;4093;1585;17;538;19;;;774;73;60;90;14
+240607;Slaskie;gm. Popów;4969;1910;15;531;25;;;1068;85;73;104;9
+240608;Slaskie;gm. Przystajñ;4824;1805;18;604;24;;;980;61;62;41;15
+240609;Slaskie;gm. Wrêczyca Wielka;14428;5607;54;2005;57;;;2768;218;240;218;47
+240701;Slaskie;m. Lubliniec;18550;8463;93;3475;99;;;3484;361;456;390;105
+240702;Slaskie;gm. Boronów;2738;1075;15;284;13;;;606;50;37;61;9
+240703;Slaskie;gm. Ciasna;6748;1788;23;633;14;;;901;63;58;80;16
+240704;Slaskie;gm. Herby;5698;2380;22;856;25;;;1116;103;113;122;23
+240705;Slaskie;gm. Kochanowice;5657;1999;24;527;15;;;1189;41;82;93;28
+240706;Slaskie;gm. Koszêcin;9470;3916;46;1113;33;;;2269;136;144;131;44
+240707;Slaskie;gm. Pawonków;5303;1658;26;473;8;;;941;37;74;68;31
+240708;Slaskie;gm. WoŸniki;7751;3308;27;851;36;;;1995;78;138;148;35
+240801;Slaskie;m. £aziska Górne;16726;7788;60;3003;81;;;3469;408;325;338;104
+240802;Slaskie;m. Miko³ów;31708;16271;106;7465;158;;;6101;939;672;653;177
+240803;Slaskie;m. Orzesze;16052;7729;84;2443;71;;;3932;343;446;319;91
+240804;Slaskie;gm. Ornontowice;4619;2090;8;573;17;;;1177;110;85;100;20
+240805;Slaskie;gm. Wyry;6193;3102;12;1157;32;;;1397;162;168;135;39
+240901;Slaskie;m. Myszków;25334;10827;81;3588;141;;;5219;783;530;381;104
+240902;Slaskie;gm. Kozieg³owy;11945;4963;61;1094;39;;;2995;226;221;279;48
+240903;Slaskie;gm. Niegowa;4616;2098;20;263;11;;;1615;38;67;51;33
+240904;Slaskie;gm. Poraj;8966;3971;26;1561;47;;;1793;238;141;138;27
+240905;Slaskie;gm. ¯arki;6888;2925;20;795;29;;;1713;108;128;99;33
+241001;Slaskie;gm. Gocza³kowice-Zdrój;5875;3047;24;1102;36;;;1460;170;109;114;32
+241002;Slaskie;gm. Kobiór;3834;2080;12;626;16;;;1165;86;92;61;22
+241003;Slaskie;gm. MiedŸna;12170;5906;49;1222;47;;;3874;183;258;227;46
+241004;Slaskie;gm. Paw³owice;13638;6442;63;1476;59;;;3978;228;286;295;57
+241005;Slaskie;gm. Pszczyna;39979;19920;144;6924;159;;;9838;958;884;826;187
+241006;Slaskie;gm. Suszec;9217;4436;37;1073;32;;;2618;145;247;233;51
+241101;Slaskie;m. Racibórz;42073;16541;123;6911;209;;;6849;1029;770;519;131
+241102;Slaskie;gm. Kornowac;4029;1721;10;440;14;;;1016;55;100;68;18
+241103;Slaskie;gm. Krzanowice;4619;1268;17;495;16;;;554;73;66;39;8
+241104;Slaskie;gm. Krzy¿anowice;9011;2591;24;1064;16;;;1161;101;106;87;32
+241105;Slaskie;gm. KuŸnia Raciborska;9241;2904;28;1196;24;;;1175;156;170;119;36
+241106;Slaskie;gm. Nêdza;5798;1864;24;633;22;;;887;102;113;59;24
+241107;Slaskie;gm. Pietrowice Wielkie;5493;1680;14;597;11;;;848;70;62;61;17
+241108;Slaskie;gm. Rudnik;4125;1174;7;340;10;;;681;42;41;49;4
+241201;Slaskie;gm. Czerwionka-Leszczyny;32150;13691;142;4037;152;;;7524;577;604;514;141
+241202;Slaskie;gm. Gaszowice;7486;3204;39;1000;26;;;1630;187;142;150;30
+241203;Slaskie;gm. Jejkowice;3164;1535;17;390;16;;;896;74;54;73;15
+241204;Slaskie;gm. Lyski;7728;3406;44;1135;41;;;1680;180;131;143;52
+241205;Slaskie;gm. Œwierklany;9396;4475;33;1001;33;;;2797;156;228;185;42
+241301;Slaskie;m. Kalety;7092;2949;33;1016;27;;;1468;104;139;149;13
+241302;Slaskie;m. Miasteczko Œl¹skie;5758;2389;14;701;14;;;1365;99;91;68;37
+241303;Slaskie;m. Radzionków;13129;6231;44;2241;49;;;2969;306;311;232;79
+241304;Slaskie;m. Tarnowskie Góry;48251;23560;166;10662;222;;;8923;1389;1046;849;303
+241305;Slaskie;gm. Krupski M³yn;2657;1181;12;429;13;;;524;83;67;48;5
+241306;Slaskie;gm. O¿arowice;4658;2178;36;776;38;;;989;110;103;108;18
+241307;Slaskie;gm. Œwierklaniec;9651;4307;24;1848;26;;;1844;201;178;132;54
+241308;Slaskie;gm. Tworóg;6603;2722;23;935;13;;;1378;130;118;87;38
+241309;Slaskie;gm. Zbros³awice;12335;4697;54;2063;48;;;1741;267;258;200;66
+241401;Slaskie;m. Bieruñ;15184;7000;79;1942;81;;;3919;292;340;276;71
+241402;Slaskie;m. Imielin;7024;3481;20;1191;42;;;1723;148;145;163;49
+241403;Slaskie;m. Lêdziny;12739;5633;42;1365;56;;;3481;197;226;204;62
+241404;Slaskie;gm. Bojszowy;6031;3272;17;756;21;;;2033;121;156;130;38
+241405;Slaskie;gm. Che³m Œl¹ski;4886;2430;18;687;32;;;1357;88;109;112;27
+241501;Slaskie;m. Pszów;10909;4395;35;1292;39;;;2444;186;200;161;38
+241502;Slaskie;m. Radlin;13608;5950;48;1987;70;;;2695;373;250;453;74
+241503;Slaskie;m. Rydu³towy;16413;6922;54;2291;80;;;3451;357;324;287;78
+241504;Slaskie;m. Wodzis³aw Œl¹ski;37080;17085;125;5978;170;;;8251;863;844;727;127
+241505;Slaskie;gm. Godów;10834;5029;29;1386;53;;;2817;180;217;291;56
+241506;Slaskie;gm. Gorzyce;16314;6889;59;2058;64;;;3787;240;314;289;78
+241507;Slaskie;gm. Lubomia;6227;2249;20;577;20;;;1370;74;98;57;33
+241508;Slaskie;gm. Marklowice;4251;1970;19;510;13;;;1181;89;63;83;12
+241509;Slaskie;gm. Mszana;5938;2829;14;527;14;;;1980;56;90;119;29
+241601;Slaskie;m. Porêba;7158;3068;32;1339;28;;;1197;209;138;78;47
+241602;Slaskie;m. Zawiercie;39894;17742;159;6897;231;;;7434;1158;1054;616;193
+241603;Slaskie;gm. Irz¹dze;2213;939;13;140;7;;;688;27;24;37;3
+241604;Slaskie;gm. Kroczyce;5244;2211;28;579;29;;;1314;80;85;72;24
+241605;Slaskie;gm. £azy;12807;5731;50;2061;82;;;2589;372;273;235;69
+241606;Slaskie;gm. Ogrodzieniec;7645;3472;20;1107;27;;;1709;160;342;79;28
+241607;Slaskie;gm. Pilica;7130;3238;44;706;23;;;2117;93;142;94;19
+241608;Slaskie;gm. Szczekociny;6506;2769;32;572;41;;;1834;89;88;92;21
+241609;Slaskie;gm. W³odowice;4309;1898;16;522;25;;;1075;95;99;52;14
+241610;Slaskie;gm. ¯arnowiec;3767;1721;20;272;15;;;1259;42;52;53;8
+241701;Slaskie;m. ¯ywiec;24815;12148;80;4667;117;;;5390;701;625;452;116
+241702;Slaskie;gm. Czernichów;5311;2682;22;677;19;;;1689;80;103;73;19
+241703;Slaskie;gm. Gilowice;4895;2232;16;525;16;;;1410;80;94;73;18
+241704;Slaskie;gm. Jeleœnia;10756;4831;80;998;31;;;3247;135;167;149;24
+241705;Slaskie;gm. Koszarawa;2031;920;13;144;7;;;660;24;48;19;5
+241706;Slaskie;gm. Lipowa;8351;3668;43;1074;41;;;1987;157;202;131;33
+241707;Slaskie;gm. £êkawica;3621;1648;16;336;8;;;1092;57;54;67;18
+241708;Slaskie;gm. £odygowice;11374;5675;44;1471;46;;;3209;291;313;238;63
+241709;Slaskie;gm. Milówka;7992;3493;38;673;20;;;2399;90;144;109;20
+241710;Slaskie;gm. Radziechowy-Wieprz;10329;4632;62;794;44;;;3191;139;194;172;36
+241711;Slaskie;gm. Rajcza;7184;2920;21;694;25;;;1882;80;106;96;16
+241712;Slaskie;gm. Œlemieñ;2886;1480;15;284;9;;;1023;34;63;47;5
+241713;Slaskie;gm. Œwinna;6467;3031;38;740;23;;;1826;123;137;115;29
+241714;Slaskie;gm. Ujso³y;3669;1529;23;365;7;;;996;43;45;38;12
+241715;Slaskie;gm. Wêgierska Górka;11888;5676;48;1284;41;;;3680;137;291;164;31
+246101;Slaskie;m. Bielsko-Bia³a;132367;69258;371;30211;749;;;27477;4124;3290;2436;600
+246201;Slaskie;m. Bytom;120226;48125;410;20134;655;;;18590;3631;2418;1763;524
+246301;Slaskie;m. Chorzów;80196;35826;313;17808;448;;;11545;2270;1662;1332;448
+246401;Slaskie;m. Czêstochowa;175484;86889;472;38779;968;;;33997;4532;3495;3417;1229
+246501;Slaskie;m. D¹browa Górnicza;94787;43660;290;19358;718;;;15724;3778;1926;1396;470
+246601;Slaskie;m. Gliwice;137172;68182;418;34826;850;;;21790;3843;3399;2318;738
+246701;Slaskie;m. Jastrzêbie-Zdrój;68899;30902;247;9460;339;;;16427;1395;1547;1244;243
+246801;Slaskie;m. Jaworzno;71533;31771;227;12416;441;;;13316;1982;1632;1436;321
+246901;Slaskie;m. Katowice;226611;119423;709;59093;1495;;;39579;7918;5386;3828;1415
+247001;Slaskie;m. Mys³owice;56325;26272;171;10591;302;;;11395;1425;1234;854;300
+247101;Slaskie;m. Piekary Œl¹skie;42721;18782;152;7299;191;;;8602;924;811;600;203
+247201;Slaskie;m. Ruda Œl¹ska;105501;45036;359;17158;585;;;20178;2369;1911;1903;573
+247301;Slaskie;m. Rybnik;105314;48267;329;17369;401;;;22102;3137;2320;2153;456
+247401;Slaskie;m. Siemianowice Œl¹skie;50814;23941;221;11142;305;;;8365;1631;1063;898;316
+247501;Slaskie;m. Sosnowiec;159790;75784;474;35405;1152;;;26361;5926;3266;2322;878
+247601;Slaskie;m. Œwiêtoch³owice;37396;15074;129;6451;204;;;5909;967;682;567;165
+247701;Slaskie;m. Tychy;97151;49367;316;20238;553;;;19908;3450;2332;1960;610
+247801;Slaskie;m. Zabrze;128936;48759;397;21556;740;;;17942;3002;2547;1945;630
+247901;Slaskie;m. ¯ory;46349;21277;153;7681;222;;;9903;1225;995;901;197
+260101;Swietokrzyskie;gm. Busko-Zdrój;27504;12906;67;4465;88;23;;6985;465;425;349;39
+260102;Swietokrzyskie;gm. Gnojno;3694;1546;18;246;16;5;;1174;26;32;26;3
+260103;Swietokrzyskie;gm. Nowy Korczyn;5065;2322;34;847;4;1;;1303;44;42;41;6
+260104;Swietokrzyskie;gm. Pacanów;6173;2512;46;586;5;9;;1707;45;58;51;5
+260105;Swietokrzyskie;gm. Solec-Zdrój;4425;2118;27;659;12;9;;1269;38;41;58;5
+260106;Swietokrzyskie;gm. Stopnica;6260;2675;29;610;13;3;;1841;50;64;62;3
+260107;Swietokrzyskie;gm. Tuczêpy;3066;1284;19;200;3;9;;967;27;32;23;4
+260108;Swietokrzyskie;gm. Wiœlica;4619;1812;13;389;6;8;;1295;23;31;45;2
+260201;Swietokrzyskie;gm. Imielno;3616;1450;30;292;10;5;;1039;23;19;26;6
+260202;Swietokrzyskie;gm. Jêdrzejów;22624;10190;107;3068;70;24;;5871;376;299;328;47
+260203;Swietokrzyskie;gm. Ma³ogoszcz;9290;4076;34;650;18;3;;3064;88;111;99;9
+260204;Swietokrzyskie;gm. Nag³owice;4027;1668;19;324;11;5;;1169;39;55;44;2
+260205;Swietokrzyskie;gm. Oksa;3802;1695;15;344;2;3;;1232;19;38;40;2
+260206;Swietokrzyskie;gm. Sêdziszów;10283;4377;51;1129;24;6;;2785;128;115;129;10
+260207;Swietokrzyskie;gm. S³upia (Jêdrzejowska);3545;1370;10;268;3;3;;988;37;26;34;1
+260208;Swietokrzyskie;gm. Sobków;6850;3050;30;565;19;6;;2147;79;115;80;9
+260209;Swietokrzyskie;gm. Wodzis³aw;5890;2582;29;530;16;6;;1792;64;58;72;15
+260301;Swietokrzyskie;gm. Bejsce;3404;1188;16;317;6;3;;740;19;31;53;3
+260302;Swietokrzyskie;gm. Czarnocin;3233;1273;21;322;7;2;;846;16;27;28;4
+260303;Swietokrzyskie;gm. Kazimierza Wielka;13383;5236;62;1457;23;10;;3196;121;126;225;16
+260304;Swietokrzyskie;gm. Opatowiec;3038;1122;11;390;4;1;;624;26;43;20;3
+260305;Swietokrzyskie;gm. Skalbmierz;5351;2025;21;407;6;4;;1445;37;42;62;1
+260401;Swietokrzyskie;gm. Bieliny;8117;3633;29;557;6;5;;2699;69;151;85;32
+260402;Swietokrzyskie;gm. Bodzentyn;9339;3822;52;887;12;8;;2528;74;146;101;14
+260403;Swietokrzyskie;gm. Chêciny;12400;5683;56;1405;41;11;;3536;145;271;189;29
+260404;Swietokrzyskie;gm. Chmielnik;9076;3982;46;840;25;6;;2694;80;149;124;18
+260405;Swietokrzyskie;gm. Daleszyce;12613;5384;63;1281;16;4;;3465;90;268;179;18
+260406;Swietokrzyskie;gm. Górno;11286;5311;44;988;19;8;;3705;120;252;150;25
+260407;Swietokrzyskie;gm. £agów;5582;2257;29;324;12;8;;1720;24;78;54;8
+260408;Swietokrzyskie;gm. £opuszno;7320;3530;24;666;18;0;;2508;58;134;109;13
+260409;Swietokrzyskie;gm. Mas³ów;8730;4201;29;1333;26;7;;2339;144;181;128;14
+260410;Swietokrzyskie;gm. Miedziana Góra;9145;4376;40;1405;27;10;;2406;141;173;151;23
+260411;Swietokrzyskie;gm. Mniów;7501;3338;42;497;3;3;;2575;51;93;63;11
+260412;Swietokrzyskie;gm. Morawica;13481;6140;47;1902;37;18;;3450;213;253;194;26
+260413;Swietokrzyskie;gm. Nowa S³upia;7948;3074;38;633;12;7;;2161;54;85;73;11
+260414;Swietokrzyskie;gm. Piekoszów;13164;5714;57;1155;30;9;;3894;129;232;180;28
+260415;Swietokrzyskie;gm. Pierzchnica;3993;1708;26;308;9;6;;1212;34;44;67;2
+260416;Swietokrzyskie;gm. Raków;4696;1913;30;384;6;6;;1350;42;44;45;6
+260417;Swietokrzyskie;gm. Sitkówka-Nowiny;6017;2906;21;1043;13;10;;1475;109;132;85;18
+260418;Swietokrzyskie;gm. Strawczyn;8471;3994;29;676;13;4;;2899;58;167;133;15
+260419;Swietokrzyskie;gm. Zagnañsk;10579;5033;46;1418;29;8;;2911;206;219;169;27
+260501;Swietokrzyskie;gm. Fa³ków;3743;1485;23;232;13;2;;1124;38;30;20;3
+260502;Swietokrzyskie;gm. Gowarczów;3857;1580;19;274;6;2;;1132;58;43;37;9
+260503;Swietokrzyskie;gm. Koñskie;29330;13458;139;4290;78;25;;7585;452;439;376;74
+260504;Swietokrzyskie;gm. Radoszyce;7383;3048;46;533;10;4;;2237;44;104;65;5
+260505;Swietokrzyskie;gm. Ruda Maleniecka;2633;1263;14;301;4;1;;864;21;37;16;5
+260506;Swietokrzyskie;S³upia Konecka;2736;1148;21;216;7;7;;834;19;13;27;4
+260507;Swietokrzyskie;gm. Smyków;3058;1338;14;213;7;2;;1004;28;49;19;2
+260508;Swietokrzyskie;gm. St¹porków;14309;5540;73;1604;72;17;;3209;147;176;216;26
+260601;Swietokrzyskie;gm. Baækowice;4015;1734;30;218;3;2;;1345;29;54;49;4
+260602;Swietokrzyskie;gm. Iwaniska;5472;2240;38;370;11;9;;1670;28;61;48;5
+260603;Swietokrzyskie;gm. Lipnik;4458;1569;28;262;4;7;;1126;41;42;53;6
+260604;Swietokrzyskie;gm. Opatów;9783;4206;57;1055;35;16;;2596;157;133;142;15
+260605;Swietokrzyskie;gm. O¿arów;8797;3549;64;1032;36;15;;2064;110;105;102;21
+260606;Swietokrzyskie;gm. Sadowie;3333;1389;10;259;9;2;;985;34;44;43;3
+260607;Swietokrzyskie;gm. Tar³ów;4466;1688;36;259;15;6;;1218;34;58;48;14
+260608;Swietokrzyskie;gm. Wojciechowice;3369;1334;25;368;12;3;;810;39;31;41;5
+260701;Swietokrzyskie;m. Ostrowiec Œwiêtokrzyski;55530;23407;171;9237;191;76;;10930;1139;883;686;94
+260702;Swietokrzyskie;gm. Ba³tów;3026;1141;17;318;9;4;;682;22;47;38;4
+260703;Swietokrzyskie;gm. Bodzechów;11075;4456;70;1370;34;16;;2408;178;211;147;22
+260704;Swietokrzyskie;gm. Æmielów;6035;2065;26;602;30;6;;1176;53;91;78;3
+260705;Swietokrzyskie;gm. Kunów;8087;3160;51;778;29;11;;1905;134;106;132;14
+260706;Swietokrzyskie;gm. Waœniów;5498;2052;19;328;7;3;;1549;30;59;51;6
+260801;Swietokrzyskie;gm. Dzia³oszyce;4255;1582;17;429;13;3;;1022;28;38;29;3
+260802;Swietokrzyskie;gm. Kije;3713;1616;11;325;10;2;;1095;42;68;55;8
+260803;Swietokrzyskie;gm. Micha³ów;3829;1601;16;405;9;2;;1063;33;32;39;2
+260804;Swietokrzyskie;gm. Piñczów;18055;7269;78;2322;58;23;;4059;205;272;224;28
+260805;Swietokrzyskie;gm. Z³ota;3809;1416;17;412;4;3;;907;24;25;19;5
+260901;Swietokrzyskie;m. Sandomierz;19739;8677;55;3556;66;39;;3768;527;336;290;40
+260902;Swietokrzyskie;gm. Dwikozy;7250;2687;25;894;16;1;;1488;89;81;81;12
+260903;Swietokrzyskie;gm. Klimontów;6668;2453;44;528;16;8;;1671;48;72;62;4
+260904;Swietokrzyskie;gm. Koprzywnica;5560;2469;34;598;11;5;;1628;34;89;59;11
+260905;Swietokrzyskie;gm. £oniów;6124;2633;45;584;11;6;;1780;43;96;63;5
+260906;Swietokrzyskie;gm. Obrazów;5326;2012;15;516;6;1;;1271;60;77;60;6
+260907;Swietokrzyskie;gm. Samborzec;7063;2949;23;824;21;8;;1783;62;142;79;7
+260908;Swietokrzyskie;gm. Wilczyce;3127;1164;13;319;10;2;;694;36;47;38;5
+260909;Swietokrzyskie;gm. Zawichost;3646;1429;20;444;7;0;;844;41;22;42;9
+261001;Swietokrzyskie;m. Skar¿ysko-Kamienna;37375;16878;124;6840;124;50;;7733;740;657;523;87
+261002;Swietokrzyskie;gm. Bli¿yn;6815;2771;45;733;19;7;;1682;90;83;102;10
+261003;Swietokrzyskie;gm. £¹czna;4199;1782;16;304;11;4;;1228;49;83;78;9
+261004;Swietokrzyskie;gm. Skar¿ysko Koœcielne;5048;2128;14;575;12;3;;1255;66;104;91;8
+261005;Swietokrzyskie;gm. Suchedniów;8464;3809;39;1388;25;9;;1864;161;163;136;24
+261101;Swietokrzyskie;m. Starachowice;40033;18159;182;7163;202;72;;8176;849;755;649;111
+261102;Swietokrzyskie;gm. Brody;8918;3612;37;760;23;12;;2310;111;141;200;18
+261103;Swietokrzyskie;gm. Mirzec;6753;3026;42;580;18;9;;2075;52;102;135;13
+261104;Swietokrzyskie;gm. Paw³ów;12116;4901;50;643;10;8;;3828;67;171;113;11
+261105;Swietokrzyskie;gm. W¹chock;5691;2483;39;703;20;5;;1418;110;85;87;16
+261201;Swietokrzyskie;gm. Bogoria;6342;2605;32;421;9;9;;1937;42;91;51;13
+261202;Swietokrzyskie;gm. £ubnice;3431;1457;13;178;4;4;;1141;23;49;42;3
+261203;Swietokrzyskie;gm. Oleœnica;3197;1184;15;261;6;1;;825;14;22;35;5
+261204;Swietokrzyskie;gm. Osiek;6315;2966;25;282;10;4;;2447;46;73;71;8
+261205;Swietokrzyskie;gm. Po³aniec;9573;4417;31;1094;29;11;;2808;124;176;126;18
+261206;Swietokrzyskie;gm. Rytwiany;5251;2120;26;387;9;3;;1476;62;80;68;9
+261207;Swietokrzyskie;gm. Staszów;21490;9037;78;2526;47;34;;5452;273;333;265;29
+261208;Swietokrzyskie;gm. Szyd³ów;3910;1723;29;419;8;7;;1106;32;61;55;6
+261301;Swietokrzyskie;gm. Kluczewsko;4291;1974;22;337;7;5;;1467;33;53;37;13
+261302;Swietokrzyskie;gm. Krasocin;8584;3792;31;687;17;7;;2718;65;135;114;18
+261303;Swietokrzyskie;gm. Moskorzew;2363;993;21;214;6;2;;704;11;12;20;3
+261304;Swietokrzyskie;gm. Radków;2092;868;15;276;6;3;;515;15;22;15;1
+261305;Swietokrzyskie;gm. Secemin;4050;1669;19;383;5;7;;1136;38;45;33;3
+261306;Swietokrzyskie;gm. W³oszczowa;16121;7431;82;2172;29;11;;4476;174;268;204;15
+266101;Swietokrzyskie;m. Kielce;153718;81562;453;35451;645;176;;33860;3806;3967;2706;498
+280101;Warminsko-Mazurskie;m. Bartoszyce;18704;7517;65;3384;101;;;2812;479;287;389;
+280102;Warminsko-Mazurskie;m. Górowo I³aweckie;3285;1181;13;674;10;;;376;40;38;30;
+280103;Warminsko-Mazurskie;gm. Bartoszyce;8573;2567;38;793;31;;;1357;126;111;111;
+280104;Warminsko-Mazurskie;gm. Bisztynek;5104;1308;21;472;16;;;613;69;60;57;
+280105;Warminsko-Mazurskie;gm. Górowo I³aweckie;6538;1514;39;663;36;;;579;81;62;54;
+280106;Warminsko-Mazurskie;gm. Sêpopol;5035;1349;20;494;18;;;651;71;40;55;
+280201;Warminsko-Mazurskie;m. Braniewo;13382;5039;39;2397;62;;;1693;433;242;173;
+280202;Warminsko-Mazurskie;gm. Braniewo;4843;1282;13;467;17;;;620;78;50;37;
+280203;Warminsko-Mazurskie;gm. Frombork;3144;1032;14;458;20;;;357;106;43;34;
+280204;Warminsko-Mazurskie;gm. Lelkowo;2369;544;3;199;7;;;272;28;18;17;
+280205;Warminsko-Mazurskie;gm. Pieniê¿no;5208;1515;10;576;19;;;750;64;51;45;
+280206;Warminsko-Mazurskie;gm. P³oskinia;2033;549;4;191;15;;;254;37;25;23;
+280207;Warminsko-Mazurskie;gm. Wilczêta;2355;751;16;331;19;;;322;25;22;16;
+280301;Warminsko-Mazurskie;m. Dzia³dowo;16992;6763;42;2876;113;;;2876;389;237;230;
+280302;Warminsko-Mazurskie;gm. Dzia³dowo;7413;2026;27;500;47;;;1193;101;74;84;
+280303;Warminsko-Mazurskie;gm. I³owo-Osada;5625;1818;28;545;36;;;954;124;68;63;
+280304;Warminsko-Mazurskie;gm. Lidzbark;11419;3706;44;1116;63;;;2041;186;131;125;
+280305;Warminsko-Mazurskie;gm. P³oœnica;4593;1515;19;391;27;;;885;75;51;67;
+280306;Warminsko-Mazurskie;gm. Rybno;5764;2128;23;504;48;;;1258;113;89;93;
+280401;Warminsko-Mazurskie;gm. Elbl¹g;5799;1846;14;752;33;;;731;165;79;72;
+280402;Warminsko-Mazurskie;gm. Godkowo;2537;656;8;168;5;;;408;31;20;16;
+280403;Warminsko-Mazurskie;gm. Gronowo Elbl¹skie;3941;1162;14;431;25;;;477;112;41;62;
+280404;Warminsko-Mazurskie;gm. Markusy;3179;862;18;246;14;;;449;66;38;31;
+280405;Warminsko-Mazurskie;gm. Milejewo;2719;919;6;309;8;;;445;67;44;40;
+280406;Warminsko-Mazurskie;gm. M³ynary;3610;1126;11;444;19;;;486;70;54;42;
+280407;Warminsko-Mazurskie;gm. Pas³êk;15297;5175;54;2308;62;;;2035;355;199;162;
+280408;Warminsko-Mazurskie;gm. Rychliki;3062;737;7;289;17;;;337;35;28;24;
+280409;Warminsko-Mazurskie;gm. Tolkmicko;5215;1692;27;646;17;;;731;137;73;61;
+280501;Warminsko-Mazurskie;m. E³k;45758;17037;112;6951;232;;;7065;981;1089;607;
+280502;Warminsko-Mazurskie;gm. E³k;8911;2668;19;996;29;;;1207;143;160;114;
+280503;Warminsko-Mazurskie;gm. Kalinowo;5358;1400;23;313;11;;;877;57;64;55;
+280504;Warminsko-Mazurskie;gm. Prostki;5670;1420;22;374;23;;;861;34;72;34;
+280505;Warminsko-Mazurskie;gm. Stare Juchy;3021;869;10;325;18;;;406;41;47;22;
+280601;Warminsko-Mazurskie;m. Gi¿ycko;23071;9418;66;4586;170;;;3028;749;494;325;
+280604;Warminsko-Mazurskie;gm. Gi¿ycko;6821;2398;30;975;39;;;932;187;124;111;
+280605;Warminsko-Mazurskie;gm. Kruklanki;2557;851;12;410;14;;;283;56;37;39;
+280606;Warminsko-Mazurskie;gm. Mi³ki;3105;974;6;334;16;;;510;48;28;32;
+280608;Warminsko-Mazurskie;gm. Ryn;4734;1527;16;554;18;;;717;97;67;58;
+280610;Warminsko-Mazurskie;gm. Wydminy;5131;1642;24;576;20;;;772;94;92;64;
+280701;Warminsko-Mazurskie;m. I³awa;27050;11555;76;4691;174;;;4335;1406;493;380;
+280702;Warminsko-Mazurskie;m. Lubawa;7613;3131;29;1088;65;;;1474;170;163;142;
+280703;Warminsko-Mazurskie;gm. I³awa;9759;3248;29;1002;42;;;1620;290;146;119;
+280704;Warminsko-Mazurskie;gm. Kisielice;4793;1430;26;376;24;;;802;97;53;52;
+280705;Warminsko-Mazurskie;gm. Lubawa;8223;2902;47;578;47;;;1884;98;129;119;
+280706;Warminsko-Mazurskie;gm. Susz;9742;2868;43;888;77;;;1422;174;152;112;
+280707;Warminsko-Mazurskie;gm. Zalewo;5585;1513;30;570;19;;;710;90;48;46;
+280801;Warminsko-Mazurskie;m. Kêtrzyn;21772;8644;48;4113;114;;;3172;525;392;280;
+280802;Warminsko-Mazurskie;gm. Barciany;4953;1084;16;364;14;;;570;52;27;41;
+280803;Warminsko-Mazurskie;gm. Kêtrzyn;6432;1866;32;677;52;;;801;96;94;114;
+280804;Warminsko-Mazurskie;gm. Korsze;8200;2161;22;721;41;;;1013;117;99;148;
+280805;Warminsko-Mazurskie;gm. Reszel;6317;2188;15;952;45;;;896;126;90;64;
+280806;Warminsko-Mazurskie;gm. Srokowo;3169;913;12;374;24;;;369;54;34;46;
+280901;Warminsko-Mazurskie;m. Lidzbark Warmiñski;12399;5451;55;3177;43;;;1584;216;215;161;
+280902;Warminsko-Mazurskie;gm. Kiwity;2712;850;17;301;10;;;424;26;53;19;
+280903;Warminsko-Mazurskie;gm. Lidzbark Warmiñski;5403;1459;18;625;21;;;600;58;76;61;
+280904;Warminsko-Mazurskie;gm. Lubomino;2837;761;12;250;7;;;400;31;39;22;
+280905;Warminsko-Mazurskie;gm. Orneta;9605;3118;28;1274;46;;;1387;178;117;88;
+281001;Warminsko-Mazurskie;m. Mr¹gowo;17475;7095;68;3245;85;;;2605;519;349;224;
+281002;Warminsko-Mazurskie;gm. Miko³ajki;6688;2384;22;1084;34;;;948;130;86;80;
+281003;Warminsko-Mazurskie;gm. Mr¹gowo;6348;2085;21;812;38;;;900;144;96;74;
+281004;Warminsko-Mazurskie;gm. Piecki;6125;1956;20;618;25;;;1007;104;102;80;
+281005;Warminsko-Mazurskie;gm. Sorkwity;3785;1322;17;556;24;;;539;77;64;45;
+281101;Warminsko-Mazurskie;gm. Janowiec Koœcielny;2576;849;17;185;13;;;563;23;26;22;
+281102;Warminsko-Mazurskie;gm. Janowo;2139;716;10;183;5;;;420;39;34;25;
+281103;Warminsko-Mazurskie;gm. Koz³owo;4665;1189;24;282;29;;;698;51;44;61;
+281104;Warminsko-Mazurskie;gm. Nidzica;16574;6084;52;2267;83;;;2859;325;272;226;
+281201;Warminsko-Mazurskie;m. Nowe Miasto Lubawskie;8422;3436;43;1465;67;;;1354;227;142;138;
+281202;Warminsko-Mazurskie;gm. Biskupiec;7515;2485;30;771;47;;;1354;128;82;73;
+281203;Warminsko-Mazurskie;gm. Grodziczno;4966;1784;25;313;15;;;1248;62;53;68;
+281204;Warminsko-Mazurskie;gm. Kurzêtnik;6915;2469;22;625;41;;;1467;106;96;112;
+281205;Warminsko-Mazurskie;gm. Nowe Miasto Lubawskie;6357;2172;44;595;34;;;1223;115;87;74;
+281303;Warminsko-Mazurskie;gm. Kowale Oleckie;3949;990;17;293;13;;;549;40;35;43;
+281304;Warminsko-Mazurskie;gm. Olecko;16799;5873;44;2111;87;;;2729;380;282;240;
+281305;Warminsko-Mazurskie;gm. Œwiêtajno;3154;825;8;288;8;;;410;39;41;31;
+281306;Warminsko-Mazurskie;gm. Wieliczki;2641;804;6;165;3;;;513;23;62;32;
+281401;Warminsko-Mazurskie;gm. Barczewo;14265;5320;46;2389;78;;;1888;445;251;223;
+281402;Warminsko-Mazurskie;gm. Biskupiec;14881;5305;71;2798;42;;;1886;212;190;106;
+281403;Warminsko-Mazurskie;gm. Dobre Miasto;12511;4538;22;1771;65;;;1917;295;292;176;
+281404;Warminsko-Mazurskie;gm. Dywity;9254;4215;31;2090;53;;;1240;434;190;177;
+281405;Warminsko-Mazurskie;gm. Gietrzwa³d;5209;2263;17;1111;52;;;657;215;143;68;
+281406;Warminsko-Mazurskie;gm. Jeziorany;6234;1773;17;702;25;;;803;100;80;46;
+281407;Warminsko-Mazurskie;gm. Jonkowo;5795;2321;24;1068;33;;;670;230;121;175;
+281408;Warminsko-Mazurskie;gm. Kolno;2600;764;9;297;7;;;369;28;17;37;
+281409;Warminsko-Mazurskie;gm. Olsztynek;10882;3663;31;1465;68;;;1477;273;231;118;
+281410;Warminsko-Mazurskie;gm. Purda;6886;2507;20;1166;33;;;848;240;99;101;
+281411;Warminsko-Mazurskie;gm. Stawiguda;7839;3811;32;2049;65;;;915;404;182;164;
+281412;Warminsko-Mazurskie;gm. Œwi¹tki;3183;869;12;310;6;;;403;59;44;35;
+281501;Warminsko-Mazurskie;m. Ostróda;25818;10931;76;5151;200;;;3597;1014;461;432;
+281502;Warminsko-Mazurskie;gm. D¹brówno;3340;927;13;258;22;;;520;45;30;39;
+281503;Warminsko-Mazurskie;gm. Grunwald;4329;1048;18;357;25;;;515;59;31;43;
+281504;Warminsko-Mazurskie;gm. £ukta;3612;1048;17;476;18;;;373;80;43;41;
+281505;Warminsko-Mazurskie;gm. Ma³dyty;4959;1335;6;546;22;;;570;83;54;54;
+281506;Warminsko-Mazurskie;gm. Mi³akowo;4330;1224;15;458;27;;;587;49;54;34;
+281507;Warminsko-Mazurskie;gm. Mi³om³yn;4017;1234;24;431;36;;;458;114;50;121;
+281508;Warminsko-Mazurskie;gm. Mor¹g;19099;6691;67;2992;98;;;2604;428;283;219;
+281509;Warminsko-Mazurskie;gm. Ostróda;12451;3990;57;1505;69;;;1625;305;237;192;
+281601;Warminsko-Mazurskie;gm. Bia³a Piska;9204;2635;27;764;48;;;1520;83;120;73;
+281602;Warminsko-Mazurskie;gm. Orzysz;7242;2372;21;889;34;;;1102;130;117;79;
+281603;Warminsko-Mazurskie;gm. Pisz;21698;7544;84;2361;103;;;4003;338;375;280;
+281604;Warminsko-Mazurskie;gm. Ruciane-Nida;6724;2710;25;913;35;;;1353;152;151;81;
+281701;Warminsko-Mazurskie;m. Szczytno;18757;7994;61;3539;111;;;3220;487;335;241;
+281702;Warminsko-Mazurskie;gm. DŸwierzuty;5389;1448;21;507;27;;;721;86;46;40;
+281703;Warminsko-Mazurskie;gm. Jedwabno;3126;1012;10;389;14;;;482;54;38;25;
+281704;Warminsko-Mazurskie;gm. Pasym;4363;1413;12;467;20;;;683;103;70;58;
+281705;Warminsko-Mazurskie;gm. Rozogi;4492;1427;28;313;11;;;931;36;73;35;
+281706;Warminsko-Mazurskie;gm. Szczytno;9905;3394;40;1310;42;;;1544;185;137;136;
+281707;Warminsko-Mazurskie;gm. Œwiêtajno;4891;1702;11;591;21;;;893;80;61;45;
+281708;Warminsko-Mazurskie;gm. Wielbark;5128;1466;18;449;19;;;819;60;55;46;
+281801;Warminsko-Mazurskie;gm. Banie Mazurskie;3097;866;12;340;22;;;375;70;29;18;
+281802;Warminsko-Mazurskie;gm. Dubeninki;2358;693;11;168;15;;;409;33;31;26;
+281803;Warminsko-Mazurskie;gm. Go³dap;15811;5303;38;2415;63;;;2065;345;222;155;
+281901;Warminsko-Mazurskie;gm. Budry;2361;692;8;218;13;;;382;27;17;27;
+281902;Warminsko-Mazurskie;gm. Pozezdrze;2696;868;12;335;19;;;407;44;24;27;
+281903;Warminsko-Mazurskie;gm. Wêgorzewo;13354;4706;48;2232;64;;;1652;318;192;200;
+286101;Warminsko-Mazurskie;m. Elbl¹g;91714;39849;278;18269;645;;;14451;3281;1592;1333;
+286201;Warminsko-Mazurskie;m. Olsztyn;129907;64863;373;31379;1156;;;19825;6669;3182;2279;
+300101;Wielkopolskie;m. Chodzie¿;14984;7022;70;3631;139;;;1961;662;275;284;
+300102;Wielkopolskie;gm. Budzyñ;6573;2428;44;983;49;;;920;195;109;128;
+300103;Wielkopolskie;gm. Chodzie¿;4608;1909;30;842;50;;;638;179;67;103;
+300104;Wielkopolskie;gm. Margonin;4980;2183;49;926;40;;;769;198;88;113;
+300105;Wielkopolskie;gm. Szamocin;5854;2040;25;744;24;;;910;176;72;89;
+300201;Wielkopolskie;m. Czarnków;8584;3967;39;2068;70;;;1207;277;161;145;
+300202;Wielkopolskie;gm. Czarnków;8862;3187;57;1189;66;;;1346;207;148;174;
+300203;Wielkopolskie;gm. Drawsko;4657;1768;33;502;31;;;928;127;84;63;
+300204;Wielkopolskie;gm. Krzy¿ Wielkopolski;6944;2468;40;1072;40;;;958;172;110;76;
+300205;Wielkopolskie;gm. Lubasz;5878;2319;26;1006;26;;;889;128;139;105;
+300206;Wielkopolskie;gm. Po³ajewo;4829;1769;41;546;32;;;887;112;84;67;
+300207;Wielkopolskie;gm. Trzcianka;18614;7448;67;3579;117;;;2451;544;369;321;
+300208;Wielkopolskie;gm. Wieleñ;9698;3396;52;1248;56;;;1517;240;129;154;
+300301;Wielkopolskie;m. Gniezno;53404;24331;205;11174;432;;;8454;1868;1151;1047;
+300302;Wielkopolskie;gm. Czerniejewo;6269;2506;42;812;42;;;1177;170;122;141;
+300303;Wielkopolskie;gm. Gniezno;9090;3807;37;1538;58;;;1519;252;208;195;
+300304;Wielkopolskie;gm. Kiszkowo;4216;1594;21;530;43;;;775;97;52;76;
+300305;Wielkopolskie;gm. K³ecko;5857;2305;32;685;42;;;1215;124;106;101;
+300306;Wielkopolskie;gm. £ubowo;4955;2099;25;810;43;;;878;157;71;115;
+300307;Wielkopolskie;gm. Mieleszyn;3077;1062;6;285;16;;;597;58;49;51;
+300308;Wielkopolskie;gm. Niechanowo;4581;1755;23;499;41;;;905;112;93;82;
+300309;Wielkopolskie;gm. Trzemeszno;10979;3784;59;1254;65;;;1754;281;193;178;
+300310;Wielkopolskie;gm. Witkowo;10668;4410;40;1529;82;;;2057;339;175;188;
+300401;Wielkopolskie;gm. Borek Wielkopolski;5910;1872;31;557;22;;;990;81;88;103;
+300402;Wielkopolskie;gm. Gostyñ;22075;9157;123;3328;172;;;3880;556;532;566;
+300403;Wielkopolskie;gm. Krobia;10206;3552;40;973;52;;;2011;151;153;172;
+300404;Wielkopolskie;gm. Pêpowo;4740;1784;22;439;28;;;1092;56;80;67;
+300405;Wielkopolskie;gm. Piaski;6860;2487;26;814;32;;;1249;105;135;126;
+300406;Wielkopolskie;gm. Pogorzela;3958;1222;17;378;33;;;641;54;40;59;
+300407;Wielkopolskie;gm. Poniec;6116;1858;60;483;35;;;972;108;106;94;
+300501;Wielkopolskie;gm. Granowo;3914;1493;27;434;29;;;777;71;72;83;
+300502;Wielkopolskie;gm. Grodzisk Wielkopolski;15265;6277;68;2588;119;;;2473;459;268;302;
+300503;Wielkopolskie;gm. Kamieniec;5159;1853;45;581;35;;;923;83;69;117;
+300504;Wielkopolskie;gm. Rakoniewice;10066;3547;52;1285;73;;;1609;180;164;184;
+300505;Wielkopolskie;gm. Wielichowo;5418;1922;42;598;27;;;1005;82;77;91;
+300601;Wielkopolskie;gm. Jaraczewo;6356;2447;38;592;23;;;1520;104;83;87;
+300602;Wielkopolskie;gm. Jarocin;35759;14350;134;5416;222;;;6359;1000;585;634;
+300603;Wielkopolskie;gm. Kotlin;5607;2033;37;531;23;;;1169;108;86;79;
+300604;Wielkopolskie;gm. ¯erków;8240;3084;41;756;48;;;1889;111;99;140;
+300701;Wielkopolskie;gm. Blizanów;7976;3134;22;1006;45;;;1628;149;130;154;
+300702;Wielkopolskie;gm. Brzeziny;4668;1734;19;420;15;;;1023;56;72;129;
+300703;Wielkopolskie;gm. Ceków-Kolonia;3818;1351;21;407;20;;;750;54;47;52;
+300704;Wielkopolskie;gm. Godziesze Wielkie;7580;3044;27;778;32;;;1729;161;163;154;
+300705;Wielkopolskie;gm. KoŸminek;6057;2078;19;476;20;;;1345;64;78;76;
+300706;Wielkopolskie;gm. Lisków;4302;1537;28;424;16;;;910;46;48;65;
+300707;Wielkopolskie;gm. Mycielin;3956;1451;35;280;19;;;935;68;53;61;
+300708;Wielkopolskie;gm. Opatówek;8624;3819;28;1120;50;;;2047;190;184;200;
+300709;Wielkopolskie;gm. Stawiszyn;5764;2164;33;610;9;;;1236;92;84;100;
+300710;Wielkopolskie;gm. Szczytniki;6259;2506;16;467;20;;;1785;56;79;83;
+300711;Wielkopolskie;gm. ¯elazków;7592;3155;42;737;43;;;1880;163;133;157;
+300801;Wielkopolskie;gm. Baranów;6291;2786;27;872;33;;;1464;137;131;122;
+300802;Wielkopolskie;gm. Bralin;4738;2164;9;742;22;;;1117;115;79;80;
+300803;Wielkopolskie;gm. Kêpno;19202;8945;82;3577;75;;;4077;493;377;264;
+300804;Wielkopolskie;gm. £êka Opatowska;4151;1785;30;534;26;;;968;62;104;61;
+300805;Wielkopolskie;gm. Perzów;3029;1117;13;385;11;;;567;51;62;28;
+300806;Wielkopolskie;gm. Rychtal;3095;1151;17;375;6;;;629;42;51;31;
+300807;Wielkopolskie;gm. Trzcinica;3917;1608;12;453;18;;;964;40;64;57;
+300901;Wielkopolskie;m. Ko³o;17461;7681;77;2918;114;;;3524;449;352;247;
+300902;Wielkopolskie;gm. Babiak;6402;2388;23;461;20;;;1632;71;104;77;
+300903;Wielkopolskie;gm. Chodów;2616;926;15;162;16;;;620;35;42;36;
+300904;Wielkopolskie;gm. D¹bie;5204;2068;37;376;25;;;1455;52;63;60;
+300905;Wielkopolskie;gm. Grzegorzew;4563;1837;22;362;21;;;1215;71;75;71;
+300906;Wielkopolskie;gm. K³odawa;10378;3807;31;1022;54;;;2225;156;186;133;
+300907;Wielkopolskie;gm. Ko³o;6138;2481;21;591;22;;;1522;114;113;98;
+300908;Wielkopolskie;gm. Koœcielec;5353;2205;27;423;22;;;1440;120;102;71;
+300909;Wielkopolskie;gm. Olszówka;3657;1306;18;177;16;;;956;36;56;47;
+300910;Wielkopolskie;gm. Osiek Ma³y;4820;1847;11;336;22;;;1236;84;77;81;
+300911;Wielkopolskie;gm. Przedecz;3356;1133;21;259;13;;;723;44;52;21;
+301001;Wielkopolskie;gm. Golina;9664;3836;34;981;43;;;2219;249;163;147;
+301002;Wielkopolskie;gm. Grodziec;4133;1444;11;295;24;;;973;52;47;42;
+301003;Wielkopolskie;gm. Kazimierz Biskupi;9092;3720;35;1017;57;;;2041;238;156;176;
+301004;Wielkopolskie;gm. Kleczew;8009;3099;42;618;37;;;2062;113;122;105;
+301005;Wielkopolskie;gm. Kramsk;8953;3339;31;674;37;;;2122;156;149;170;
+301006;Wielkopolskie;gm. Krzymów;6266;2382;20;447;21;;;1561;150;104;79;
+301007;Wielkopolskie;gm. Rychwa³;6604;2675;42;515;34;;;1750;109;107;118;
+301008;Wielkopolskie;gm. Rzgów;5758;2260;27;514;31;;;1361;138;99;90;
+301009;Wielkopolskie;gm. Skulsk;4951;1602;20;287;28;;;1037;88;74;68;
+301010;Wielkopolskie;gm. Sompolno;8363;3147;32;583;37;;;2051;145;158;141;
+301011;Wielkopolskie;gm. Stare Miasto;9444;4299;40;1350;52;;;2244;286;177;150;
+301012;Wielkopolskie;gm. Œlesin;11435;4396;43;1107;56;;;2669;210;174;137;
+301013;Wielkopolskie;gm. Wierzbinek;5719;2007;22;257;26;;;1531;48;47;76;
+301014;Wielkopolskie;gm. Wilczyn;4885;1820;41;358;27;;;1218;69;44;63;
+301101;Wielkopolskie;m. Koœcian;19039;8817;76;4428;143;;;2842;658;334;336;
+301102;Wielkopolskie;gm. Czempiñ;9036;3491;50;1444;64;;;1367;234;181;151;
+301103;Wielkopolskie;gm. Koœcian;12552;4700;86;1808;83;;;2009;288;230;196;
+301104;Wielkopolskie;gm. Krzywiñ;7843;2761;48;727;51;;;1599;89;111;136;
+301105;Wielkopolskie;gm. Œmigiel;13711;4817;66;1600;92;;;2362;290;192;215;
+301201;Wielkopolskie;m. Sulmierzyce;2224;834;12;256;10;;;452;38;33;33;
+301202;Wielkopolskie;gm. Kobylin;6350;2277;56;640;41;;;1289;95;80;76;
+301203;Wielkopolskie;gm. KoŸmin Wielkopolski;10586;3936;49;1316;79;;;2000;163;153;176;
+301204;Wielkopolskie;gm. Krotoszyn;31344;13247;132;5137;201;;;5981;734;607;455;
+301205;Wielkopolskie;gm. Rozdra¿ew;4039;1513;27;324;18;;;996;34;62;52;
+301206;Wielkopolskie;gm. Zduny;5795;2204;28;727;112;;;1044;111;102;80;
+301301;Wielkopolskie;gm. Krzemieniewo;6646;2334;51;728;28;;;1200;111;118;98;
+301302;Wielkopolskie;gm. Lipno;6238;2382;30;918;24;;;963;222;139;86;
+301303;Wielkopolskie;gm. Osieczna;7263;2735;34;925;45;;;1278;179;160;114;
+301304;Wielkopolskie;gm. Rydzyna;7296;2917;44;1111;30;;;1243;222;130;137;
+301305;Wielkopolskie;gm. Œwiêciechowa;6144;2283;17;822;34;;;929;200;127;154;
+301306;Wielkopolskie;gm. Wijewo;2937;1089;11;351;13;;;543;59;63;49;
+301307;Wielkopolskie;gm. W³oszakowice;7355;2825;42;975;50;;;1270;210;121;157;
+301401;Wielkopolskie;gm. Chrzypsko Wielkie;2675;917;18;390;14;;;398;43;24;30;
+301402;Wielkopolskie;gm. Kwilcz;4996;1939;37;849;26;;;795;113;61;58;
+301403;Wielkopolskie;gm. Miêdzychód;14407;5903;58;2912;112;;;1954;418;227;222;
+301404;Wielkopolskie;gm. Sieraków;6950;2667;39;1323;37;;;915;149;104;100;
+301501;Wielkopolskie;gm. Kuœlin;4258;1494;22;508;22;;;739;63;78;62;
+301502;Wielkopolskie;gm. Lwówek;7083;2592;35;1098;40;;;1080;104;86;149;
+301503;Wielkopolskie;gm. Miedzichowo;2959;1168;16;483;12;;;481;66;54;56;
+301504;Wielkopolskie;gm. Nowy Tomyœl;20505;9042;53;4656;147;;;2798;605;387;396;
+301505;Wielkopolskie;gm. Opalenica;12565;5302;57;2382;52;;;2097;302;211;201;
+301506;Wielkopolskie;gm. Zb¹szyñ;10688;4696;51;2625;33;;;1487;149;209;142;
+301601;Wielkopolskie;gm. Oborniki;25808;11222;108;5435;165;;;3645;871;578;420;
+301602;Wielkopolskie;gm. RogoŸno;13722;5299;69;2367;82;;;1949;398;221;213;
+301603;Wielkopolskie;gm. Ryczywó³;5594;1980;52;721;46;;;879;106;90;86;
+301701;Wielkopolskie;m. Ostrów Wielkopolski;57035;27268;214;13172;333;;;9009;2198;1295;1047;
+301702;Wielkopolskie;gm. Nowe Skalmierzyce;12261;4769;39;1588;52;;;2448;238;209;195;
+301703;Wielkopolskie;gm. Odolanów;11579;5025;54;1095;66;;;3142;222;254;192;
+301704;Wielkopolskie;gm. Ostrów Wielkopolski;14966;6169;66;1820;83;;;3283;366;305;246;
+301705;Wielkopolskie;gm. Przygodzice;9540;4252;47;1414;57;;;2166;217;180;171;
+301706;Wielkopolskie;gm. Raszków;9240;3755;27;963;55;;;2147;204;176;183;
+301707;Wielkopolskie;gm. Sieroszewice;7596;2787;27;700;24;;;1723;104;143;66;
+301708;Wielkopolskie;gm. Soœnie;5241;1829;22;443;16;;;1131;78;78;61;
+301801;Wielkopolskie;gm. Czajków;2049;835;9;253;6;;;485;11;37;34;
+301802;Wielkopolskie;gm. Doruchów;4188;1666;23;483;25;;;983;47;48;57;
+301803;Wielkopolskie;gm. Grabów nad Prosn¹;6260;2628;38;975;26;;;1267;90;135;97;
+301804;Wielkopolskie;gm. Kobyla Góra;4769;2023;32;822;29;;;897;88;89;66;
+301805;Wielkopolskie;gm. Kraszewice;2855;1100;27;382;6;;;572;36;46;31;
+301806;Wielkopolskie;gm. Mikstat;4840;1857;26;452;14;;;1146;61;94;64;
+301807;Wielkopolskie;gm. Ostrzeszów;18932;8165;89;3938;69;;;3035;425;375;234;
+301901;Wielkopolskie;m. Pi³a;56024;27310;176;13520;356;;;8052;2383;1228;1595;
+301902;Wielkopolskie;gm. Bia³oœliwie;3737;1537;14;529;27;;;746;71;65;85;
+301903;Wielkopolskie;gm. Kaczory;6161;2582;28;861;41;;;1131;181;133;207;
+301904;Wielkopolskie;gm. £ob¿enica;7411;2679;49;576;37;;;1676;127;105;109;
+301905;Wielkopolskie;gm. Miasteczko Krajeñskie;2538;951;14;354;14;;;375;89;47;58;
+301906;Wielkopolskie;gm. Szyd³owo;6935;2694;23;1230;27;;;867;231;121;195;
+301907;Wielkopolskie;gm. Ujœcie;6295;2592;50;1009;46;;;996;201;128;162;
+301908;Wielkopolskie;gm. Wyrzysk;10925;3881;62;1313;65;;;1849;244;169;179;
+301909;Wielkopolskie;gm. Wysoka;5126;1746;25;572;22;;;874;74;81;98;
+302001;Wielkopolskie;gm. Chocz;3836;1404;21;424;20;;;784;55;56;44;
+302002;Wielkopolskie;gm. Czermin;3794;1575;16;466;11;;;963;29;48;42;
+302003;Wielkopolskie;gm. Dobrzyca;6396;2415;48;782;47;;;1253;101;86;98;
+302004;Wielkopolskie;gm. Giza³ki;3633;1357;19;285;11;;;881;48;43;70;
+302005;Wielkopolskie;gm. Go³uchów;8453;3609;47;1201;37;;;1819;207;128;170;
+302006;Wielkopolskie;gm. Pleszew;23372;9678;88;3934;137;;;4121;594;434;370;
+302101;Wielkopolskie;m. Luboñ;23586;12762;100;6317;241;;;3420;1447;622;615;
+302102;Wielkopolskie;m. Puszczykowo;8003;4868;29;2774;59;;;1232;409;193;172;
+302103;Wielkopolskie;gm. Buk;9680;4274;52;1813;65;;;1670;300;194;180;
+302104;Wielkopolskie;gm. Czerwonak;21019;11096;74;5744;196;;;2952;1073;519;538;
+302105;Wielkopolskie;gm. Dopiewo;19313;11229;68;6374;171;;;2436;1179;519;482;
+302106;Wielkopolskie;gm. Kleszczewo;6107;3339;30;1605;65;;;987;308;177;167;
+302107;Wielkopolskie;gm. Komorniki;20676;11652;65;6630;193;;;2389;1299;597;479;
+302108;Wielkopolskie;gm. Kostrzyn;14197;5989;70;2438;98;;;2257;499;329;298;
+302109;Wielkopolskie;gm. Kórnik;20795;10840;81;5534;196;;;2834;1079;608;508;
+302110;Wielkopolskie;gm. Mosina;24726;12249;100;5633;209;;;3909;1221;590;587;
+302111;Wielkopolskie;gm. Murowana Goœlina;13042;6180;45;3008;109;;;1785;646;260;327;
+302112;Wielkopolskie;gm. Pobiedziska;15300;7347;65;3482;126;;;2204;706;402;362;
+302113;Wielkopolskie;gm. Rokietnica;13043;7180;45;4067;107;;;1544;724;357;336;
+302114;Wielkopolskie;gm. Stêszew;11864;5169;68;2387;90;;;1815;407;237;165;
+302115;Wielkopolskie;gm. Suchy Las;12843;8163;44;4745;113;;;1778;771;372;340;
+302116;Wielkopolskie;gm. Swarzêdz;37334;19893;110;10311;327;;;5270;2000;986;889;
+302117;Wielkopolskie;gm. Tarnowo Podgórne;20236;12091;73;6976;140;;;2853;1111;459;479;
+302201;Wielkopolskie;gm. Bojanowo;6800;2278;33;861;45;;;1012;173;92;62;
+302202;Wielkopolskie;gm. Jutrosin;5523;1767;20;539;28;;;968;77;73;62;
+302203;Wielkopolskie;gm. Miejska Górka;7321;2684;50;790;29;;;1442;133;115;125;
+302204;Wielkopolskie;gm. Pakos³aw;3692;1308;13;364;12;;;767;41;56;55;
+302205;Wielkopolskie;gm. Rawicz;24313;9597;124;4074;158;;;3557;810;485;389;
+302301;Wielkopolskie;m. S³upca;10949;4981;44;2092;104;;;2017;335;184;205;
+302302;Wielkopolskie;gm. L¹dek;4675;1790;16;458;34;;;1055;105;53;69;
+302303;Wielkopolskie;gm. Orchowo;3070;1096;17;336;26;;;563;52;39;63;
+302304;Wielkopolskie;gm. Ostrowite;4248;1390;18;350;23;;;875;36;46;42;
+302305;Wielkopolskie;gm. Powidz;1891;876;5;323;18;;;390;60;53;27;
+302306;Wielkopolskie;gm. S³upca;7636;2718;34;626;36;;;1700;122;96;104;
+302307;Wielkopolskie;gm. Strza³kowo;7968;3248;43;948;55;;;1692;198;148;164;
+302308;Wielkopolskie;gm. Zagórów;7183;2384;37;610;44;;;1372;128;104;89;
+302401;Wielkopolskie;m. Obrzycko;1876;715;12;305;10;;;266;72;14;36;
+302402;Wielkopolskie;gm. Duszniki;7040;2787;51;981;40;;;1308;163;147;97;
+302403;Wielkopolskie;gm. KaŸmierz;6467;2788;27;1307;50;;;905;249;135;115;
+302404;Wielkopolskie;gm. Obrzycko;3479;1155;17;428;13;;;512;90;43;52;
+302405;Wielkopolskie;gm. Ostroróg;3865;1438;14;663;21;;;556;108;41;35;
+302406;Wielkopolskie;gm. Pniewy;9650;4040;56;1925;40;;;1535;154;180;150;
+302407;Wielkopolskie;gm. Szamotu³y;23198;10256;104;5225;130;;;3307;715;449;326;
+302408;Wielkopolskie;gm. Wronki;16121;6626;80;3407;94;;;2005;521;266;253;
+302501;Wielkopolskie;gm. Dominowo;2376;929;16;227;27;;;463;41;105;50;
+302502;Wielkopolskie;gm. Krzykosy;5435;2012;29;558;31;;;975;115;213;91;
+302503;Wielkopolskie;gm. Nowe Miasto nad Wart¹;7113;2663;26;803;45;;;1284;200;175;130;
+302504;Wielkopolskie;gm. Œroda Wielkopolska;24843;10810;108;3974;178;;;3631;758;1777;384;
+302505;Wielkopolskie;gm. Zaniemyœl;5335;2304;23;944;43;;;798;169;229;98;
+302601;Wielkopolskie;gm. Brodnica;3804;1304;22;522;34;;;480;132;48;66;
+302602;Wielkopolskie;gm. Dolsk;4575;1478;20;457;18;;;756;99;68;60;
+302603;Wielkopolskie;gm. Ksi¹¿ Wielkopolski;6565;2233;26;707;28;;;1113;118;114;127;
+302604;Wielkopolskie;gm. Œrem;32170;14021;152;5985;273;;;5020;1198;659;734;
+302701;Wielkopolskie;m. Turek;21883;9964;80;3711;128;;;4585;615;409;436;
+302702;Wielkopolskie;gm. Brudzew;4783;1919;20;313;20;;;1365;52;81;68;
+302703;Wielkopolskie;gm. Dobra;4879;1954;30;378;26;;;1320;57;77;66;
+302704;Wielkopolskie;gm. Kawêczyn;4265;1634;30;270;14;;;1176;47;34;63;
+302705;Wielkopolskie;gm. Malanów;5231;1652;19;310;16;;;1088;59;89;71;
+302706;Wielkopolskie;gm. Przykona;3588;1435;20;209;17;;;1046;40;43;60;
+302707;Wielkopolskie;gm. Tuliszków;8327;3071;26;592;35;;;2102;114;95;107;
+302708;Wielkopolskie;gm. Turek;7533;2977;21;719;25;;;1790;159;104;159;
+302709;Wielkopolskie;gm. W³adys³awów;6357;2836;26;461;29;;;2038;76;85;121;
+302801;Wielkopolskie;m. W¹growiec;19804;8682;68;4080;148;;;2881;759;399;347;
+302802;Wielkopolskie;gm. Damas³awek;4235;1550;32;452;24;;;819;86;56;81;
+302803;Wielkopolskie;gm. Go³añcz;6319;2210;38;795;38;;;990;132;92;125;
+302804;Wielkopolskie;gm. Mieœcisko;4683;1645;18;557;23;;;756;125;82;84;
+302805;Wielkopolskie;gm. Skoki;7343;2695;32;1265;60;;;968;192;92;86;
+302806;Wielkopolskie;gm. Wapno;2359;766;18;261;10;;;337;57;43;40;
+302807;Wielkopolskie;gm. W¹growiec;9240;3180;46;1146;35;;;1445;193;153;162;
+302901;Wielkopolskie;gm. Przemêt;11071;3786;67;1199;74;;;1920;187;144;195;
+302902;Wielkopolskie;gm. Siedlec;9645;3513;72;1313;50;;;1526;187;172;193;
+302903;Wielkopolskie;gm. Wolsztyn;23531;10403;100;4950;157;;;3573;579;510;534;
+303001;Wielkopolskie;gm. Ko³aczkowo;4676;1705;17;429;25;;;946;59;65;164;
+303002;Wielkopolskie;gm. Mi³os³aw;8087;3265;43;1041;46;;;1574;213;142;206;
+303003;Wielkopolskie;gm. Nekla;5808;2402;27;898;37;;;999;219;83;139;
+303004;Wielkopolskie;gm. Pyzdry;5585;2077;39;520;30;;;1177;98;73;140;
+303005;Wielkopolskie;gm. Wrzeœnia;35734;16122;109;6551;254;;;6399;1130;684;995;
+303101;Wielkopolskie;m. Z³otów;14419;6302;63;3005;109;;;1983;568;314;260;
+303102;Wielkopolskie;gm. Jastrowie;8819;3037;51;1238;49;;;1228;197;127;147;
+303103;Wielkopolskie;gm. Krajenka;5878;2186;28;835;42;;;882;183;101;115;
+303104;Wielkopolskie;gm. Lipka;4319;1413;25;492;27;;;667;85;47;70;
+303105;Wielkopolskie;gm. Okonek;6832;2251;40;830;45;;;971;183;88;94;
+303106;Wielkopolskie;gm. Tarnówka;2394;837;19;331;13;;;339;51;46;38;
+303107;Wielkopolskie;gm. Zakrzewo;3959;1440;23;461;17;;;668;94;91;86;
+303108;Wielkopolskie;gm. Z³otów;7373;2412;32;909;47;;;1050;169;99;106;
+306101;Wielkopolskie;m. Kalisz;77735;38234;231;17477;535;;;13500;3260;1716;1515;
+306201;Wielkopolskie;m. Konin;59218;28419;187;11472;366;;;11940;2168;1260;1026;
+306301;Wielkopolskie;m. Leszno;48612;22795;159;11695;353;;;6663;1981;1116;828;
+306401;Wielkopolskie;m. Poznañ;400937;230761;1244;124414;4533;;;55945;25129;10447;9049;
+320101;Zachodniopomorskie;m. Bia³ogard;18357;7428;66;3665;86;;;2615;586;249;161;
+320102;Zachodniopomorskie;gm. Bia³ogard;5947;1542;9;595;15;;;718;119;49;37;
+320103;Zachodniopomorskie;gm. Karlino;6956;2177;41;899;24;;;936;151;81;45;
+320104;Zachodniopomorskie;gm. Tychowo;5712;1733;24;690;24;;;720;165;61;49;
+320201;Zachodniopomorskie;gm. Bierzwnik;3828;1305;20;490;17;;;592;71;32;83;
+320202;Zachodniopomorskie;gm. Choszczno;16977;6264;33;3044;72;;;2361;412;185;157;
+320203;Zachodniopomorskie;gm. Drawno;4170;1309;17;568;12;;;535;88;53;36;
+320204;Zachodniopomorskie;gm. Krzêcin;2912;833;11;339;9;;;362;48;21;43;
+320205;Zachodniopomorskie;gm. Pe³czyce;6111;1635;17;571;30;;;850;71;66;30;
+320206;Zachodniopomorskie;gm. Recz;4304;1199;11;446;16;;;588;41;52;45;
+320301;Zachodniopomorskie;gm. Czaplinek;9353;3178;42;1399;42;;;1236;258;113;88;
+320302;Zachodniopomorskie;gm. Drawsko Pomorskie;13938;5057;59;2398;87;;;1798;394;163;158;
+320303;Zachodniopomorskie;gm. Kalisz Pomorski;6040;2032;25;775;25;;;822;141;123;121;
+320305;Zachodniopomorskie;gm. Wierzchowo;3805;1261;18;497;15;;;524;99;53;55;
+320306;Zachodniopomorskie;gm. Z³ocieniec;13018;5004;46;2095;76;;;2164;312;186;125;
+320402;Zachodniopomorskie;gm. Goleniów;28321;12258;106;5948;134;;;4309;917;495;349;
+320403;Zachodniopomorskie;gm. Maszewo;6746;2017;19;751;20;;;998;91;81;57;
+320404;Zachodniopomorskie;gm. Nowogard;19588;7417;89;3438;84;;;2951;473;207;175;
+320405;Zachodniopomorskie;gm. Osina;2341;797;10;273;7;;;416;42;29;20;
+320406;Zachodniopomorskie;gm. Przybiernów;3942;1342;18;477;23;;;702;50;43;29;
+320407;Zachodniopomorskie;gm. Stepnica;3796;1178;22;515;14;;;449;92;40;46;
+320501;Zachodniopomorskie;gm. Brojce;2934;838;9;322;5;;;418;38;27;19;
+320502;Zachodniopomorskie;gm. Gryfice;18655;7000;75;3569;59;;;2512;450;190;145;
+320503;Zachodniopomorskie;gm. Karnice;3228;1117;11;462;9;;;511;56;37;31;
+320504;Zachodniopomorskie;gm. P³oty;7316;2252;27;894;21;;;1054;112;76;68;
+320507;Zachodniopomorskie;gm. Rewal;4090;2977;6;1554;20;;;1091;166;98;42;
+320508;Zachodniopomorskie;gm. Trzebiatów;13154;5349;44;2634;62;;;2017;339;154;99;
+320601;Zachodniopomorskie;gm. Banie;5019;1512;23;538;12;;;754;103;47;35;
+320602;Zachodniopomorskie;gm. Cedynia;3467;1006;22;454;12;;;402;59;31;26;
+320603;Zachodniopomorskie;gm. Chojna;10782;3765;45;1509;32;;;1721;230;147;81;
+320604;Zachodniopomorskie;gm. Gryfino;24436;11029;97;4768;101;;;4404;873;572;214;
+320605;Zachodniopomorskie;gm. Mieszkowice;5527;1921;18;758;35;;;866;102;68;74;
+320606;Zachodniopomorskie;gm. Moryñ;3425;1185;12;467;2;;;573;65;30;36;
+320607;Zachodniopomorskie;gm. Stare Czarnowo;3075;1180;18;374;5;;;634;56;66;27;
+320608;Zachodniopomorskie;gm. Trzciñsko-Zdrój;4356;1346;9;502;15;;;659;70;59;32;
+320609;Zachodniopomorskie;gm. Widuchowa;4283;1319;23;508;13;;;626;79;37;33;
+320701;Zachodniopomorskie;gm. Dziwnów;4214;2485;14;1354;17;;;775;199;76;50;
+320702;Zachodniopomorskie;gm. Golczewo;4747;1590;13;671;13;;;709;82;61;41;
+320703;Zachodniopomorskie;gm. Kamieñ Pomorski;11709;4669;34;2396;42;;;1663;299;154;81;
+320704;Zachodniopomorskie;gm. Miêdzyzdroje;5784;2763;14;1438;40;;;956;172;81;62;
+320705;Zachodniopomorskie;gm. Œwierzno;3332;940;13;410;16;;;379;66;30;26;
+320706;Zachodniopomorskie;gm. Wolin;9722;3670;32;1679;38;;;1494;219;131;77;
+320801;Zachodniopomorskie;m. Ko³obrzeg;38601;19531;102;9975;149;;;6816;1594;540;355;
+320802;Zachodniopomorskie;gm. Dygowo;4355;1428;33;507;15;;;646;130;53;44;
+320803;Zachodniopomorskie;gm. Goœcino;4105;1373;29;530;20;;;617;98;50;29;
+320804;Zachodniopomorskie;gm. Ko³obrzeg;9487;4508;32;2124;34;;;1690;396;138;94;
+320805;Zachodniopomorskie;gm. Rymañ;3220;1085;17;437;8;;;489;75;32;27;
+320806;Zachodniopomorskie;gm. Siemyœl;2917;1001;10;403;13;;;441;87;26;21;
+320807;Zachodniopomorskie;gm. Ustronie Morskie;4322;2602;23;1219;19;;;1088;164;55;34;
+320901;Zachodniopomorskie;gm. Bêdzino;6764;2330;22;922;20;;;981;207;105;73;
+320902;Zachodniopomorskie;gm. Biesiekierz;5336;2205;23;1076;29;;;650;224;90;113;
+320903;Zachodniopomorskie;gm. Bobolice;7318;2366;40;856;35;;;1069;197;97;72;
+320904;Zachodniopomorskie;gm. Manowo;5231;2264;28;1054;28;;;700;279;81;94;
+320905;Zachodniopomorskie;gm. Mielno;6062;3882;30;1886;38;;;1458;249;107;114;
+320906;Zachodniopomorskie;gm. Polanów;6810;2155;32;808;44;;;926;184;69;92;
+320907;Zachodniopomorskie;gm. Sianów;10858;3902;52;1596;44;;;1484;418;157;151;
+320908;Zachodniopomorskie;gm. Œwieszyno;5797;2513;16;1211;23;;;786;275;86;116;
+321001;Zachodniopomorskie;gm. Barlinek;14929;5722;50;2547;63;;;2305;360;246;151;
+321002;Zachodniopomorskie;gm. Boleszkowice;2287;792;8;332;10;;;333;50;39;20;
+321003;Zachodniopomorskie;gm. Dêbno;15880;5912;67;2662;54;;;2406;319;248;156;
+321004;Zachodniopomorskie;gm. Myœlibórz;15717;5586;50;2485;55;;;2414;294;171;117;
+321005;Zachodniopomorskie;gm. Nowogródek Pomorski;2673;750;9;301;8;;;339;42;25;26;
+321101;Zachodniopomorskie;gm. Dobra (Szczeciñska);16756;9685;61;5886;90;;;2140;866;372;270;
+321102;Zachodniopomorskie;gm. Ko³baskowo;9289;4349;24;2407;50;;;1122;425;189;132;
+321103;Zachodniopomorskie;gm. Nowe Warpno;1329;583;14;289;6;;;183;54;24;13;
+321104;Zachodniopomorskie;gm. Police;30729;14023;85;6320;179;;;5273;1128;651;387;
+321201;Zachodniopomorskie;gm. Bielice;2441;809;6;206;13;;;479;50;36;19;
+321202;Zachodniopomorskie;gm. Kozielice;2055;681;16;185;5;;;401;29;30;15;
+321203;Zachodniopomorskie;gm. Lipiany;4709;1733;23;691;14;;;839;83;55;28;
+321204;Zachodniopomorskie;gm. Przelewice;4046;1273;13;464;13;;;665;52;35;31;
+321205;Zachodniopomorskie;gm. Pyrzyce;15110;6180;71;2329;53;;;3029;326;226;146;
+321206;Zachodniopomorskie;gm. Warnice;2721;844;10;176;10;;;544;47;37;20;
+321301;Zachodniopomorskie;m. Dar³owo;11349;5200;46;2710;44;;;1684;473;135;108;
+321302;Zachodniopomorskie;m. S³awno;9692;4043;34;1608;47;;;1603;444;167;140;
+321303;Zachodniopomorskie;gm. Dar³owo;6950;2849;32;1208;16;;;1131;289;96;77;
+321304;Zachodniopomorskie;gm. Malechowo;5092;1674;15;537;16;;;844;166;43;53;
+321305;Zachodniopomorskie;gm. Postomino;6132;2437;22;905;32;;;1131;237;66;44;
+321306;Zachodniopomorskie;gm. S³awno;6780;2071;26;612;23;;;1025;240;74;71;
+321401;Zachodniopomorskie;m. Stargard;51866;24510;183;12078;271;;;8406;1616;1211;745;
+321402;Zachodniopomorskie;gm. Chociwel;4712;1586;19;649;12;;;729;96;57;24;
+321403;Zachodniopomorskie;gm. Dobrzany;3934;1209;9;432;14;;;647;53;29;25;
+321404;Zachodniopomorskie;gm. Dolice;6086;1843;26;617;30;;;934;117;63;56;
+321405;Zachodniopomorskie;gm. Iñsko;2805;925;6;405;11;;;408;48;26;21;
+321406;Zachodniopomorskie;gm. Kobylanka;4361;2311;24;1132;25;;;732;175;173;50;
+321408;Zachodniopomorskie;gm. Marianowo;2436;853;26;231;8;;;503;42;21;22;
+321409;Zachodniopomorskie;gm. Stara D¹browa;2894;819;15;248;11;;;448;34;37;26;
+321410;Zachodniopomorskie;gm. Stargard;10227;3548;26;1409;37;;;1557;250;165;104;
+321411;Zachodniopomorskie;gm. Suchañ;3360;1055;14;359;13;;;567;42;31;29;
+321501;Zachodniopomorskie;m. Szczecinek;30765;12830;92;6173;109;;;4943;757;492;264;
+321502;Zachodniopomorskie;gm. Barwice;6787;1912;27;633;25;;;1015;85;77;50;
+321503;Zachodniopomorskie;gm. Bia³y Bór;4153;1355;17;495;20;;;644;98;51;30;
+321504;Zachodniopomorskie;gm. Borne Sulinowo;7680;2847;23;1204;32;;;1204;216;103;65;
+321505;Zachodniopomorskie;gm. Grzmi¹ca;3901;1148;17;447;19;;;540;57;40;28;
+321506;Zachodniopomorskie;gm. Szczecinek;7301;2168;28;680;30;;;1134;151;85;60;
+321601;Zachodniopomorskie;m. Œwidwin;11996;4628;31;2169;64;;;1666;407;171;120;
+321602;Zachodniopomorskie;gm. Brze¿no;2171;675;14;269;7;;;308;35;28;14;
+321603;Zachodniopomorskie;gm. Po³czyn-Zdrój;12516;4785;45;1978;54;;;2094;346;135;133;
+321604;Zachodniopomorskie;gm. R¹bino;2914;901;19;226;12;;;502;70;25;47;
+321605;Zachodniopomorskie;gm. S³awoborze;3219;963;14;408;18;;;365;92;37;29;
+321606;Zachodniopomorskie;gm. Œwidwin;4705;1455;34;453;21;;;745;93;45;64;
+321701;Zachodniopomorskie;m. Wa³cz;19451;8503;51;4521;97;;;2616;665;294;259;
+321702;Zachodniopomorskie;gm. Cz³opa;4008;1242;14;473;24;;;561;66;65;39;
+321703;Zachodniopomorskie;gm. Miros³awiec;4183;1433;16;698;21;;;470;127;51;50;
+321704;Zachodniopomorskie;gm. Tuczno;3914;1219;13;440;12;;;597;76;44;37;
+321705;Zachodniopomorskie;gm. Wa³cz;9782;3218;31;1345;59;;;1319;216;117;131;
+321801;Zachodniopomorskie;gm. Dobra;3419;994;18;366;12;;;484;59;29;26;
+321802;Zachodniopomorskie;gm. £obez;10749;4188;43;2079;36;;;1596;236;108;90;
+321803;Zachodniopomorskie;gm. Radowo Ma³e;2899;885;24;440;7;;;337;32;22;23;
+321804;Zachodniopomorskie;gm. Resko;6132;2037;23;898;35;;;876;107;50;48;
+321805;Zachodniopomorskie;gm. Wêgorzyno;5524;1777;25;722;19;;;853;74;48;36;
+326101;Zachodniopomorskie;m. Koszalin;82862;41535;242;21313;422;;;12273;3924;1430;1931;
+326201;Zachodniopomorskie;m. Szczecin;296797;152770;771;77335;1613;;;50086;12235;6612;4118;
+326301;Zachodniopomorskie;m. Œwinoujœcie;32701;15836;87;8682;178;;;4873;1050;581;385;
