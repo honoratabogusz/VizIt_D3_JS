@@ -1,0 +1,485 @@
+{% extends "base.html" %}
+
+{% block base_title %}Create Graph{% endblock %}
+
+{% block base_content %}
+    <nav class="navbar navbar-light bg-light">
+        <span style="margin: auto">
+            <form class="form-inline">
+                <button class="btn btn-lg btn-outline-secondary active not-rnd" type="button"
+                        id="#bar">Bar Graph</button>
+                <button class="btn btn-lg btn-outline-secondary not-rnd" type="button" id="#doughnut">Dougnut Chart</button>
+                <button class="btn btn-lg btn-outline-secondary not-rnd" type="button"
+                        id="#scatter">Scatter Plot</button>
+                <span class="tooltipCustom" data-tooltip-content='#tooltipCustom'>
+                    <i class="fas fa-info-circle fa-2x" style="margin-left: 20px"></i>
+                </span>
+            </form>
+        </span>
+    </nav>
+    <div style="display: none">
+        <span id="tooltipCustom">
+            Different graph types work with different data types:
+            <ul>
+                <li><b>Bar Graph</b> & <b>Doughnut Chart</b>: please select one dimension, one measure and aggregation type for the measure (and sort if needed).</li>
+                <li><b>Scatter Plot</b>: please select two measures (aggregation type and sort are ignored).</li>
+            </ul>
+        </span>
+    </div>
+    <nav class="navbar navbar-light bg-light">
+        <span style="margin: auto">
+            <br>
+            <form class="form-inline">
+                <span style="margin: auto">
+                <select id="dropdownX" style="margin-right: 5px; color: #6c757d; border-color: #6c757d;"></select>
+                <select id="dropdownY" style="margin-left: 5px; color: #6c757d; border-color: #6c757d;"></select>
+                </span>
+            </form>
+           </span>
+    </nav>
+    <nav class="navbar navbar-light bg-light">
+        <span style="margin: auto">
+            <form class="form-inline">
+                <div style="font-size: 14px">Select aggregation type</div>
+                <select id="dropdownAgg" style="margin-left: 5px; color: #6c757d; border-color: #6c757d;">
+                    <option>Sum</option>
+                    <option>Avg</option>
+                    <option>Count</option>
+                    <option>Count Distinct</option>
+                </select>
+                <div style="font-size: 14px; margin-left: 10px;">Select sort</div>
+                <select id="dropdownSort" style="margin-left: 5px; color: #6c757d; border-color: #6c757d;">
+                    <option>None</option>
+                    <option>Asc</option>
+                    <option>Desc</option>
+                </select>
+            </form>
+        </span>
+        <a class="btn btn-primary" id="#downloadLink" download="Chart.png" href="">Download png</a>
+    </nav>
+    <br>
+    <div style="display: none">{{ data | safe }}</div>
+    <div class="chart-container" style="position: relative; height:40vh; width:80vw; margin: auto;">
+        <canvas id="chart" style="background-color: white"></canvas>
+    </div>
+{% endblock %}
+
+{% block base_scripts %}
+    <script>
+
+        function createDropdown(data, id, title) {
+            const dropdown = $(id);
+            dropdown
+                .empty()
+                .append(title)
+                .prop('selectedIndex', 0);
+            if (data.length > 0) {
+                var columnsIn = data[0];
+                var columns = [];
+                for (var key in columnsIn) {
+                    if (key !== '') {
+                        columns.push(key)
+                    }
+                }
+            }
+            $.each(columns, function (key, entry) {
+                dropdown
+                    .append($('<option></option>')
+                        .val(entry)
+                        .html(entry));
+            })
+        }
+
+        function activateDropdowns() {
+            $("#dropdownX, #dropdownY, #dropdownAgg, #dropdownSort").change(function () {
+                BuildChart(data);
+            });
+        }
+
+        function activateNavbar() {
+            $("form button").bind("click", function (event) {
+                event.preventDefault();
+                var clickedItem = $(this);
+                $("form button").each(function () {
+                    $(this).removeClass("active");
+                });
+                clickedItem.addClass("active");
+                active = (jQuery(clickedItem).attr("id"));
+                BuildChart(data);
+            });
+        }
+
+        function readData() {
+            const table = document.getElementById('data');
+            var json = [];
+            var headers = [];
+            for (var i = 0; i < table.rows[0].cells.length; i++) {
+                headers[i] = table.rows[0].cells[i].innerHTML.toLowerCase().replace(/ /gi, '');
+            }
+            for (var i = 1; i < table.rows.length; i++) {
+                var tableRow = table.rows[i];
+                var rowData = {};
+                for (var j = 0; j < tableRow.cells.length; j++) {
+                    rowData[headers[j]] = tableRow.cells[j].innerHTML;
+                }
+                json.push(rowData);
+            }
+            return json;
+        }
+
+        function countDist(data, dropdownY) {
+            var col = [];
+            for (x in data) {
+                var element = data[x];
+                col.push(element[dropdownY]);
+            }
+            return new Set(col).size;
+        }
+
+        function handleLabelData(data, dropdownAgg, dropdownX, dropdownY, dropdownSort) {
+            var labels = {};
+            data.map(d => {
+                var label = d[dropdownX];
+                if (labels[label] === undefined) {
+                    labels[label] = [];
+                }
+                labels[label].push(d)
+            });
+            var values = [];
+            for (var label in labels) {
+                var records = labels[label];
+                if (dropdownAgg === 'Sum') {
+                    var value = d3.sum(records, (record) => parseFloat(record[dropdownY]));
+                }
+                else if (dropdownAgg === 'Avg') {
+                    var value = d3.mean(records, (record) => parseFloat(record[dropdownY]));
+                }
+                else if (dropdownAgg === 'Count') {
+                    var value = records.length;
+                }
+                else if (dropdownAgg === 'Count Distinct') {
+                    var value = countDist(records, dropdownY);
+                }
+                console.log(value);
+                if (value !== undefined) {
+                    value = value.toFixed(2);
+                }
+                values.push(
+                    {label, value}
+                );
+            }
+            if (dropdownSort === 'Asc') {
+                values.sort(function (a, b) {
+                    return parseFloat(a.value) - parseFloat(b.value);
+                })
+            }
+            else if (dropdownSort === 'Desc') {
+                values.sort(function (a, b) {
+                    return -1 * (parseFloat(a.value) - parseFloat(b.value));
+                });
+            }
+            return (values);
+        }
+
+        function handleValueData(data, dropdownX, dropdownY) {
+            var values = [];
+            data.map(d => {
+                var valueX = parseFloat(d[dropdownX]).toFixed(2);
+                var valueY = parseFloat(d[dropdownY]).toFixed(2);
+                values.push(
+                    {x: valueX, y: valueY}
+                );
+            });
+            return values;
+        }
+
+        Chart.plugins.register({
+            id: 'chartback',
+            beforeDraw: function (chart, steps, options) {
+                let ctx = chart.ctx;
+                ctx.fillStyle = options.backgroundColor;
+                ctx.fillRect(0, 0, chart.width, chart.height);
+            }
+        });
+
+        function buildBarChart(data, dropdownAgg, dropdownX, dropdownY, dropdownSort) {
+            const labelData = handleLabelData(data, dropdownAgg, dropdownX, dropdownY, dropdownSort);
+            const labels = labelData.map(function (e) {
+                return e.label;
+            });
+            const values = labelData.map(function (e) {
+                return e.value;
+            });
+            console.log(labels)
+            console.log(values)
+            const ctx = document.getElementById("chart").getContext('2d');
+            const barChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: dropdownY,
+                        data: values,
+                        backgroundColor: "rgba(201,68,138,1)",
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    legend: {
+                        display: false
+                    },
+                    plugins: {
+                        chartback: {
+                            backgroundColor: "white"
+                        }
+                    },
+                    bezierCurve: false,
+                    animation: {
+                        onComplete: done
+                    },
+                    borderDashOffset: 5,
+                    responsive: true,
+                    scales: {
+                        yAxes: [{
+                            scaleLabel: {
+                                display: true,
+                                labelString: dropdownY
+                            }
+                        }],
+                        xAxes: [{
+                            scaleLabel: {
+                                display: true,
+                                labelString: dropdownX
+                            }
+                        }],
+                    }
+                }
+            });
+            return barChart;
+        }
+
+        function buildDoughnutChart(data, dropdownAgg, dropdownX, dropdownY, dropdownSort) {
+            const labelData = handleLabelData(data, dropdownAgg, dropdownX, dropdownY, dropdownSort);
+            const labels = labelData.map(function (e) {
+                return e.label;
+            });
+            const values = labelData.map(function (e) {
+                return e.value;
+            });
+            const ctx = document.getElementById("chart").getContext('2d');
+            const doughnutChart = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: dropdownY,
+                        data: values,
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    plugins: {
+                        chartback: {
+                            backgroundColor: "white"
+                        }
+                    },
+                    bezierCurve: false,
+                    animation: {
+                        onComplete: done
+                    },
+                    borderDashOffset: 5,
+                    responsive: true,
+                }
+            });
+            return doughnutChart;
+        }
+
+        function buildScatterPlot(data, dropdownX, dropdownY) {
+            const valueData = handleValueData(data, dropdownX, dropdownY);
+            const ctx = document.getElementById("chart").getContext('2d');
+            const scatterPlot = new Chart(ctx, {
+                type: 'scatter',
+                data: {
+                    datasets: [{
+                        label: dropdownY,
+                        data: valueData,
+                        backgroundColor: "rgba(201,68,138,1)",
+                        borderColor: '#000000'
+                    }]
+                },
+                options: {
+                    legend: {
+                        display: false
+                    },
+                    plugins: {
+                        chartback: {
+                            backgroundColor: "white"
+                        }
+                    },
+                    bezierCurve: false,
+                    animation: {
+                        onComplete: done
+                    },
+                    borderDashOffset: 5,
+                    pointRadius: 5,
+                    responsive: true,
+                    scales: {
+                        yAxes: [{
+                            scaleLabel: {
+                                display: true,
+                                labelString: dropdownY
+                            }
+                        }],
+                        xAxes: [{
+                            scaleLabel: {
+                                display: true,
+                                labelString: dropdownX
+                            }
+                        }],
+                    }
+                }
+            });
+            return scatterPlot;
+        }
+
+        function BuildChart(data) {
+            if (chart) {
+                chart.destroy();
+            }
+            var dropdownX = $('#dropdownX').val();
+            var dropdownY = $("#dropdownY").val();
+            var dropdownAgg = $("#dropdownAgg").val();
+            var dropdownSort = $("#dropdownSort").val();
+            if (active === '#bar') {
+                chart = buildBarChart(data, dropdownAgg, dropdownX, dropdownY, dropdownSort);
+                chart.options.legend.display = false;
+            }
+            else if (active === '#scatter') {
+                chart = buildScatterPlot(data, dropdownX, dropdownY);
+                chart.options.legend.display = false;
+            }
+            else if (active === '#doughnut') {
+                chart = buildDoughnutChart(data, dropdownAgg, dropdownX, dropdownY, dropdownSort);
+            }
+            chartColors(currentPalette);
+            const downloadLink = document.getElementById('#downloadLink');
+            const url = document.getElementById("chart").toDataURL('image/png');
+            downloadLink.setAttribute('href', url);
+        }
+
+        function done() {
+            const downloadLink = document.getElementById('#downloadLink');
+            const url = document.getElementById("chart").toDataURL('image/png');
+            downloadLink.setAttribute('href', url);
+        }
+
+        function chartColors(palette) {
+            if (!palette) palette = currentPalette;
+            currentPalette = palette;
+            var gradient;
+            switch (palette) {
+                case 'cool':
+                    gradient = {
+                        0: [255, 255, 255, 1],
+                        20: [220, 237, 200, 1],
+                        45: [66, 179, 213, 1],
+                        65: [26, 39, 62, 1],
+                        100: [0, 0, 0, 1]
+                    };
+                    break;
+                case 'warm':
+                    gradient = {
+                        0: [255, 255, 255, 1],
+                        20: [254, 235, 101, 1],
+                        45: [228, 82, 27, 1],
+                        65: [77, 52, 47, 1],
+                        100: [0, 0, 0, 1]
+                    };
+                    break;
+                case 'neon':
+                    gradient = {
+                        0: [255, 255, 255, 1],
+                        20: [255, 236, 179, 1],
+                        45: [232, 82, 133, 1],
+                        65: [106, 27, 154, 1],
+                        100: [0, 0, 0, 1]
+                    };
+                    break;
+            }
+            var gradientKeys = Object.keys(gradient);
+            gradientKeys.sort(function (a, b) {
+                return +a - +b;
+            });
+            var chartType = chart.config.type;
+            switch (chartType) {
+                case "pie":
+                case "doughnut":
+                    var datasets = chart.config.data.datasets[0];
+                    var setsCount = datasets.data.length;
+                    break;
+                case "bar":
+                case "line":
+                    var datasets = chart.config.data.datasets;
+                    var setsCount = datasets.length;
+                    break;
+            }
+            var chartColors = [];
+            for (i = 0; i < setsCount; i++) {
+                var gradientIndex = (i + 1) * (100 / (setsCount + 1)); //Find where to get a color from the gradient
+                for (j = 0; j < gradientKeys.length; j++) {
+                    var gradientKey = gradientKeys[j];
+                    if (gradientIndex === +gradientKey) { //Exact match with a gradient key - just get that color
+                        chartColors[i] = 'rgba(' + gradient[gradientKey].toString() + ')';
+                        break;
+                    } else if (gradientIndex < +gradientKey) { //It's somewhere between this gradient key and the previous
+                        var prevKey = gradientKeys[j - 1];
+                        var gradientPartIndex = (gradientIndex - prevKey) / (gradientKey - prevKey); //Calculate where
+                        var color = [];
+                        for (k = 0; k < 4; k++) { //Loop through Red, Green, Blue and Alpha and calculate the correct color and opacity
+                            color[k] = gradient[prevKey][k] - ((gradient[prevKey][k] - gradient[gradientKey][k]) * gradientPartIndex);
+                            if (k < 3) color[k] = Math.round(color[k]);
+                        }
+                        chartColors[i] = 'rgba(' + color.toString() + ')';
+                        break;
+                    }
+                }
+            }
+            for (i = 0; i < setsCount; i++) {
+                switch (chartType) {
+                    case "pie":
+                    case "doughnut":
+                        if (!datasets.backgroundColor) datasets.backgroundColor = [];
+                        datasets.backgroundColor[i] = chartColors[i];
+                        if (!datasets.borderColor) datasets.borderColor = [];
+                        datasets.borderColor[i] = "rgba(255,255,255,1)";
+                        break;
+                    case "bar":
+                        datasets[i].backgroundColor = chartColors[i];
+                        datasets[i].borderColor = "rgba(255,255,255,0)";
+                        break;
+                    case "line":
+                        datasets[i].borderColor = chartColors[i];
+                        datasets[i].backgroundColor = "rgba(255,255,255,0)";
+                        break;
+                }
+            }
+            chart.update();
+        }
+
+        var data = readData();
+
+        var chart = buildBarChart([0], 'x', [0], 'y', 'Please choose dimensions/measures to start');
+
+        var active = '#bar';
+
+        var currentPalette = 'neon';
+
+        $(document).ready(function () {
+            createDropdown(data, '#dropdownX', '<option selected="true" disabled>Select x-axis Dimension/Measure</option>');
+            createDropdown(data, '#dropdownY', '<option selected="true" disabled>Select y-axis Dimension/Measure</option>');
+            activateDropdowns();
+            activateNavbar();
+        });
+
+    </script>
+{% endblock %}

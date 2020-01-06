@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block base_title %}Table{% endblock %}
+
+{% block base_content %}
+    <p style="text-align:left;margin: 2rem 4rem">
+        Please inspect whether the data seems to be correct. If so, you can start visualizing!
+        <span style="float:right;"><a class="btn btn-outline-dark btn-lg" href="/upload_back" role="button">Go back to data upload</a></span>
+        <span style="float:right;padding-right:0.5rem;"><a class="btn btn-primary btn-lg" href="/viz" role="button">Start visualizing</a></span>
+    </p>
+{% endblock %}
+
+{% block base_content_unf %}
+    <div class="container" id="#table" style="margin: auto">
+        <p>File Name: <b>{{ session['filename'] }}</b></p>
+        {% block content %}
+            {{ data | safe }}
+        {% endblock %}
+    </div>
+{% endblock %}
+
+{% block base_scripts %}
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#table').DataTable({
+                "scrollY": "50vh",
+                "scrollX": true,
+                responsive: true
+            });
+        });
+    </script>
+{% endblock %}
