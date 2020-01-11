@@ -11,22 +11,27 @@
 {% endblock %}
 
 {% block base_content_unf %}
-    <div class="container" id="#table" style="margin: auto">
+    <div class="container" style="margin: auto;">
         <p>File Name: <b>{{ session['filename'] }}</b></p>
-        {% block content %}
-            {{ data | safe }}
-        {% endblock %}
+        <table id="#table" width="100%">
+            {% block content %}
+                {{ data | safe }}
+            {% endblock %}
+        </table>
     </div>
 {% endblock %}
 
 {% block base_scripts %}
     <script type="text/javascript">
         $(document).ready(function () {
-            $('#table').DataTable({
-                "scrollY": "50vh",
-                "scrollX": true,
-                responsive: true
-            });
+            $('#table')
+                .DataTable({
+                    "scrollY": "50vh",
+                    "scrollX": true,
+                    responsive: true,
+                    "autoWidth": false
+                })
         });
+
     </script>
 {% endblock %}
